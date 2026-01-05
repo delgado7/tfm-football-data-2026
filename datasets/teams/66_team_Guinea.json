@@ -1,0 +1,602 @@
+[
+  {
+    "team": {
+      "id": 1509,
+      "name": "Guinea",
+      "code": "GUI",
+      "country": "Guinea",
+      "founded": 1960,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1509.png"
+    },
+    "venue": {
+      "id": 411,
+      "name": "Stade Félix Houphouët-Boigny",
+      "address": "Boulevard Lagunaire, Le Plateau",
+      "city": "Abidjan",
+      "capacity": 45000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/411.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4409,
+      "name": "ASFAG",
+      "code": null,
+      "country": "Guinea",
+      "founded": 1985,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4409.png"
+    },
+    "venue": {
+      "id": 3362,
+      "name": "Stade de la Mission",
+      "address": "Témenetaye, Kaloum",
+      "city": "Conakry",
+      "capacity": 3000,
+      "surface": "sand pitch",
+      "image": "https://media.api-sports.io/football/venues/3362.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4410,
+      "name": "Ashanti GB",
+      "code": null,
+      "country": "Guinea",
+      "founded": 1999,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4410.png"
+    },
+    "venue": {
+      "id": 20965,
+      "name": "Stade Kankan",
+      "address": null,
+      "city": "Kankan",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20965.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4411,
+      "name": "CI Kamsar",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4411.png"
+    },
+    "venue": {
+      "id": 3364,
+      "name": "Stade de l'Amitié",
+      "address": null,
+      "city": "Kamsar",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3364.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4412,
+      "name": "CO Coyah",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4412.png"
+    },
+    "venue": {
+      "id": 21524,
+      "name": "Stade Municipal de Coléah",
+      "address": "Coléah",
+      "city": "Conakry",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21524.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4413,
+      "name": "Eléphant Coléah",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4413.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 4414,
+      "name": "Fello Star",
+      "code": null,
+      "country": "Guinea",
+      "founded": 2001,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4414.png"
+    },
+    "venue": {
+      "id": 3366,
+      "name": "Stade Régional Saifoullaye Diallo",
+      "address": null,
+      "city": "Labé",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3366.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4415,
+      "name": "Gangan",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4415.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 4416,
+      "name": "Hafia",
+      "code": null,
+      "country": "Guinea",
+      "founded": 1966,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4416.png"
+    },
+    "venue": {
+      "id": 21525,
+      "name": "Stade Petit Sory",
+      "address": "Nongo",
+      "city": "Conakry",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21525.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4417,
+      "name": "Horoya",
+      "code": "HOR",
+      "country": "Guinea",
+      "founded": 1984,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4417.png"
+    },
+    "venue": {
+      "id": 21526,
+      "name": "Sports Center - Yorokoguia-Horoya AC",
+      "address": "Route de Donka",
+      "city": "Dubreka",
+      "capacity": 5000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21526.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4418,
+      "name": "Kaloum Star",
+      "code": null,
+      "country": "Guinea",
+      "founded": 1983,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4418.png"
+    },
+    "venue": {
+      "id": 3362,
+      "name": "Stade de la Mission",
+      "address": "Témenetaye, Kaloum",
+      "city": "Conakry",
+      "capacity": 3000,
+      "surface": "sand pitch",
+      "image": "https://media.api-sports.io/football/venues/3362.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4420,
+      "name": "Santoba",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4420.png"
+    },
+    "venue": {
+      "id": 785,
+      "name": "Stade du 28 Septembre",
+      "address": "Route de Donka",
+      "city": "Conakry",
+      "capacity": 35000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/785.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4421,
+      "name": "Satellite",
+      "code": null,
+      "country": "Guinea",
+      "founded": 2000,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4421.png"
+    },
+    "venue": {
+      "id": 785,
+      "name": "Stade du 28 Septembre",
+      "address": "Route de Donka",
+      "city": "Conakry",
+      "capacity": 35000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/785.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4422,
+      "name": "Wakirya",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4422.png"
+    },
+    "venue": {
+      "id": 3364,
+      "name": "Stade de l'Amitié",
+      "address": null,
+      "city": "Kamsar",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3364.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4423,
+      "name": "Atlético Coléah",
+      "code": null,
+      "country": "Guinea",
+      "founded": 1998,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4423.png"
+    },
+    "venue": {
+      "id": 785,
+      "name": "Stade du 28 Septembre",
+      "address": "Route de Donka",
+      "city": "Conakry",
+      "capacity": 35000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/785.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4424,
+      "name": "Milo",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4424.png"
+    },
+    "venue": {
+      "id": 20965,
+      "name": "Stade Kankan",
+      "address": null,
+      "city": "Kankan",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20965.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4425,
+      "name": "Soumba",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4425.png"
+    },
+    "venue": {
+      "id": 3367,
+      "name": "Stade Negueya",
+      "address": null,
+      "city": "Dubréka",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3367.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9320,
+      "name": "Flamme Olympique",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9320.png"
+    },
+    "venue": {
+      "id": 21525,
+      "name": "Stade Petit Sory",
+      "address": "Nongo",
+      "city": "Conakry",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21525.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9321,
+      "name": "Loubha Télimélé",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9321.png"
+    },
+    "venue": {
+      "id": 21527,
+      "name": "Stade Fodé Fissa",
+      "address": null,
+      "city": "Kindia",
+      "capacity": 2500,
+      "surface": "sand pitch",
+      "image": "https://media.api-sports.io/football/venues/21527.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9378,
+      "name": "Guinea A'",
+      "code": null,
+      "country": "Guinea",
+      "founded": 1960,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/9378.png"
+    },
+    "venue": {
+      "id": 785,
+      "name": "Stade du 28 Septembre",
+      "address": "Route de Donka",
+      "city": "Conakry",
+      "capacity": 35000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/785.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10311,
+      "name": "Guinea U20",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10311.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 13891,
+      "name": "Séquence",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13891.png"
+    },
+    "venue": {
+      "id": 785,
+      "name": "Stade du 28 Septembre",
+      "address": "Route de Donka",
+      "city": "Conakry",
+      "capacity": 35000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/785.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17444,
+      "name": "DFC8",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17444.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20547,
+      "name": "Guinea U23",
+      "code": null,
+      "country": "Guinea",
+      "founded": 1960,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/20547.png"
+    },
+    "venue": {
+      "id": 785,
+      "name": "Stade du 28 Septembre",
+      "address": "Route de Donka",
+      "city": "Conakry",
+      "capacity": 35000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/785.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20627,
+      "name": "ASM Sangarédi",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20627.png"
+    },
+    "venue": {
+      "id": 21525,
+      "name": "Stade Petit Sory",
+      "address": "Nongo",
+      "city": "Conakry",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21525.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20726,
+      "name": "Renaissance",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20726.png"
+    },
+    "venue": {
+      "id": 21524,
+      "name": "Stade Municipal de Coléah",
+      "address": "Coléah",
+      "city": "Conakry",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21524.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22717,
+      "name": "Guinea W",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22717.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25447,
+      "name": "Guinée Foot Elite",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25447.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25448,
+      "name": "RCC Kamsar",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25448.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26964,
+      "name": "Karfamoriah",
+      "code": null,
+      "country": "Guinea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26964.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

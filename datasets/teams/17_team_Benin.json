@@ -1,0 +1,1042 @@
+[
+  {
+    "team": {
+      "id": 1516,
+      "name": "Benin",
+      "code": "BEN",
+      "country": "Benin",
+      "founded": 1962,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1516.png"
+    },
+    "venue": {
+      "id": 411,
+      "name": "Stade Félix Houphouët-Boigny",
+      "address": "Boulevard Lagunaire, Le Plateau",
+      "city": "Abidjan",
+      "capacity": 45000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/411.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5411,
+      "name": "Tonnerre",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5411.png"
+    },
+    "venue": {
+      "id": 4079,
+      "name": "Stade Omnisports Paulin Tomanaga",
+      "address": null,
+      "city": "Bohicon",
+      "capacity": 5000,
+      "surface": "sand pitch",
+      "image": "https://media.api-sports.io/football/venues/4079.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5451,
+      "name": "Police",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5451.png"
+    },
+    "venue": {
+      "id": 4113,
+      "name": "Stade René Pleven d'Akpakpa",
+      "address": "Rue 1209",
+      "city": "Cotonou",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4113.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5452,
+      "name": "ASOS",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5452.png"
+    },
+    "venue": {
+      "id": 4103,
+      "name": "Centre d’excellence de football de Missérété",
+      "address": null,
+      "city": "Akpro-Missérété",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/4103.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5453,
+      "name": "ASPAC",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5453.png"
+    },
+    "venue": {
+      "id": 19315,
+      "name": "Stade de Toffo",
+      "address": "RN3",
+      "city": "Toffo",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19315.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5454,
+      "name": "ASVO",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5454.png"
+    },
+    "venue": {
+      "id": 20367,
+      "name": "Stade d'Adjohoun",
+      "address": null,
+      "city": "Adjohoun",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20367.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5455,
+      "name": "Avrankou Omnisport",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5455.png"
+    },
+    "venue": {
+      "id": 11491,
+      "name": "Stade Municipal d'Avrankou",
+      "address": null,
+      "city": "Avrankou",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11491.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5456,
+      "name": "Ayema",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5456.png"
+    },
+    "venue": {
+      "id": 20368,
+      "name": "Stade de Pobè",
+      "address": null,
+      "city": "Pobè",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20368.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5457,
+      "name": "Buffles",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5457.png"
+    },
+    "venue": {
+      "id": 4105,
+      "name": "Stade Municipal de Parakou",
+      "address": null,
+      "city": "Parakou",
+      "capacity": 7000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4105.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5458,
+      "name": "Béké Bembèrèkè",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5458.png"
+    },
+    "venue": {
+      "id": 4106,
+      "name": "Stade Municipal de Bembèrèkè",
+      "address": null,
+      "city": "Bembèrèkè",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4106.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5459,
+      "name": "Dragons",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5459.png"
+    },
+    "venue": {
+      "id": 4107,
+      "name": "Stade Charles de Gaulle",
+      "address": null,
+      "city": "Porto-Novo",
+      "capacity": 16872,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4107.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5460,
+      "name": "Dynamo Abomey",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5460.png"
+    },
+    "venue": {
+      "id": 4108,
+      "name": "Stade Municipal de Goho",
+      "address": null,
+      "city": "Abomey",
+      "capacity": 7500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4108.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5461,
+      "name": "Energie",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5461.png"
+    },
+    "venue": {
+      "id": 19316,
+      "name": "Stade Dogbo",
+      "address": null,
+      "city": "Dogbo",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19316.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5462,
+      "name": "Esae",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5462.png"
+    },
+    "venue": {
+      "id": 4110,
+      "name": "Stade de Sakété",
+      "address": null,
+      "city": "Sakété",
+      "capacity": 2000,
+      "surface": "sand pitch",
+      "image": "https://media.api-sports.io/football/venues/4110.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5463,
+      "name": "JAC",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5463.png"
+    },
+    "venue": {
+      "id": 4111,
+      "name": "Stade Jean-Pierre Gascon",
+      "address": null,
+      "city": "Pobè",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4111.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5464,
+      "name": "JSP",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5464.png"
+    },
+    "venue": {
+      "id": 4111,
+      "name": "Stade Jean-Pierre Gascon",
+      "address": null,
+      "city": "Pobè",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4111.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5465,
+      "name": "Panthères",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5465.png"
+    },
+    "venue": {
+      "id": 20369,
+      "name": "Stade Djougou",
+      "address": null,
+      "city": "Djougou",
+      "capacity": 5000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20369.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5466,
+      "name": "Soleil",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5466.png"
+    },
+    "venue": {
+      "id": 20370,
+      "name": "City Covè Stadium",
+      "address": "Rue 1209",
+      "city": "Covè",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20370.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5467,
+      "name": "UPI-ONM",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5467.png"
+    },
+    "venue": {
+      "id": 4114,
+      "name": "Terrain Campus Abomey Calavi",
+      "address": null,
+      "city": "Abomey Calavi",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/4114.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5468,
+      "name": "AS Sobemap",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5468.png"
+    },
+    "venue": {
+      "id": 11491,
+      "name": "Stade Municipal d'Avrankou",
+      "address": null,
+      "city": "Avrankou",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11491.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5583,
+      "name": "Mogas 90",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5583.png"
+    },
+    "venue": {
+      "id": 4180,
+      "name": "Stade Cotonou II",
+      "address": null,
+      "city": "Porto-Novo",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4180.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5584,
+      "name": "Requins",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5584.png"
+    },
+    "venue": {
+      "id": 4114,
+      "name": "Terrain Campus Abomey Calavi",
+      "address": "Rue 1209",
+      "city": "Abomey Calavi",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/4114.png"
+    }
+  },
+  {
+    "team": {
+      "id": 7765,
+      "name": "Dynamo Unacob",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/7765.png"
+    },
+    "venue": {
+      "id": 4105,
+      "name": "Stade Municipal de Parakou",
+      "address": null,
+      "city": "Parakou",
+      "capacity": 7000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4105.png"
+    }
+  },
+  {
+    "team": {
+      "id": 7766,
+      "name": "Réal Sport",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/7766.png"
+    },
+    "venue": {
+      "id": 21292,
+      "name": "Stade Omnisports de Ouessè",
+      "address": null,
+      "city": "Ouesse",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21292.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8101,
+      "name": "Elgeco Plus",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8101.png"
+    },
+    "venue": {
+      "id": 3712,
+      "name": "Estádio 11 de Novembro",
+      "address": "Via Expresso, Bairro da Camama, Kilamba Kiaxi",
+      "city": "Luanda",
+      "capacity": 48500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3712.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8115,
+      "name": "Volcan Club",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8115.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 11019,
+      "name": "Benin U20",
+      "code": "BEN",
+      "country": "Benin",
+      "founded": 1962,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/11019.png"
+    },
+    "venue": {
+      "id": 197,
+      "name": "Stade de l'Amitié",
+      "address": "RN3",
+      "city": "Cotonou",
+      "capacity": 35000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/197.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16418,
+      "name": "AS Cotonou",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16418.png"
+    },
+    "venue": {
+      "id": 4113,
+      "name": "Stade René Pleven d'Akpakpa",
+      "address": "Rue 1209",
+      "city": "Cotonou",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4113.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16419,
+      "name": "Adjidja",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16419.png"
+    },
+    "venue": {
+      "id": 19315,
+      "name": "Stade de Toffo",
+      "address": null,
+      "city": "Toffo",
+      "capacity": 3500,
+      "surface": null,
+      "image": "https://media.api-sports.io/football/venues/19315.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16420,
+      "name": "Cavaliers",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16420.png"
+    },
+    "venue": {
+      "id": 19319,
+      "name": "Football Stadium Nikki",
+      "address": null,
+      "city": "Nikki",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19319.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16421,
+      "name": "Dadjè",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16421.png"
+    },
+    "venue": {
+      "id": 20371,
+      "name": "Stade Aplahoué",
+      "address": null,
+      "city": "Aplahoué",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20371.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16422,
+      "name": "Damissa",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16422.png"
+    },
+    "venue": {
+      "id": 20372,
+      "name": "Stade N’Dali",
+      "address": null,
+      "city": "N’Dali",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20372.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16423,
+      "name": "Djeffa",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16423.png"
+    },
+    "venue": {
+      "id": 4107,
+      "name": "Stade Charles de Gaulle",
+      "address": null,
+      "city": "Porto-Novo",
+      "capacity": 16872,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4107.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16424,
+      "name": "Dynamique Djougou",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16424.png"
+    },
+    "venue": {
+      "id": 19317,
+      "name": "Stade Atchoukouma",
+      "address": null,
+      "city": "Djougou",
+      "capacity": 3400,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19317.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16425,
+      "name": "Espoir Savalou",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16425.png"
+    },
+    "venue": {
+      "id": 20373,
+      "name": "Stade Municipal de Savalou",
+      "address": null,
+      "city": "Savalou",
+      "capacity": 1500,
+      "surface": "sand pitch",
+      "image": "https://media.api-sports.io/football/venues/20373.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16426,
+      "name": "Eternel",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16426.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16427,
+      "name": "Hodio",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16427.png"
+    },
+    "venue": {
+      "id": 19320,
+      "name": "Stade de Comè",
+      "address": null,
+      "city": "Comè",
+      "capacity": 4000,
+      "surface": null,
+      "image": "https://media.api-sports.io/football/venues/19320.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16428,
+      "name": "Tanéka",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16428.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16429,
+      "name": "Tukunnin",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16429.png"
+    },
+    "venue": {
+      "id": 19321,
+      "name": "Stade Saka Kina Guézéré",
+      "address": null,
+      "city": "Kandi",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19321.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18113,
+      "name": "Coton Sport Ouidah",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18113.png"
+    },
+    "venue": {
+      "id": 20037,
+      "name": "Stade Muncipal de Ouidah",
+      "address": null,
+      "city": "Ouidah",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20037.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18114,
+      "name": "Loto Popo",
+      "code": null,
+      "country": "Benin",
+      "founded": 2021,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18114.png"
+    },
+    "venue": {
+      "id": 20030,
+      "name": "Stade Omnisports de Grand-Popo",
+      "address": null,
+      "city": "Grand Popo",
+      "capacity": 4000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20030.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18115,
+      "name": "Sitatunga",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18115.png"
+    },
+    "venue": {
+      "id": 4114,
+      "name": "Terrain Campus Abomey Calavi",
+      "address": null,
+      "city": "Abomey Calavi",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4114.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18116,
+      "name": "USB",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18116.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20540,
+      "name": "Benin U23",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20540.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20668,
+      "name": "Bani Gansè",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20668.png"
+    },
+    "venue": {
+      "id": 20374,
+      "name": "Stade de Banikoara",
+      "address": null,
+      "city": "Banikoara",
+      "capacity": 4000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20374.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20669,
+      "name": "JAK",
+      "code": null,
+      "country": "Benin",
+      "founded": 2021,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20669.png"
+    },
+    "venue": {
+      "id": 20375,
+      "name": "Stade de Kétou",
+      "address": null,
+      "city": "Kétou",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20375.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20670,
+      "name": "JSO",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20670.png"
+    },
+    "venue": {
+      "id": 20037,
+      "name": "Stade Muncipal de Ouidah",
+      "address": null,
+      "city": "Ouidah",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20037.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21050,
+      "name": "Benin W",
+      "code": null,
+      "country": "Benin",
+      "founded": 1962,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/21050.png"
+    },
+    "venue": {
+      "id": 1563,
+      "name": "Stade de Kégué",
+      "address": "Avenue Jean-Paul 2",
+      "city": "Lomé",
+      "capacity": 30000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1563.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22597,
+      "name": "Abeilles",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22597.png"
+    },
+    "venue": {
+      "id": 21293,
+      "name": "Stade Tchaourou",
+      "address": "RN 5",
+      "city": "Tchaourou",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21293.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22598,
+      "name": "Aïnonvi",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22598.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25025,
+      "name": "Kraké",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25025.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25192,
+      "name": "Fassell",
+      "code": null,
+      "country": "Benin",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25192.png"
+    },
+    "venue": {
+      "id": 11293,
+      "name": "Nancy B. Doe Sports Stadium",
+      "address": null,
+      "city": "Kakata",
+      "capacity": 9500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/11293.png"
+    }
+  }
+]

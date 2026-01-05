@@ -1,0 +1,182 @@
+[
+  {
+    "team": {
+      "id": 23263,
+      "name": "Basque Country",
+      "code": null,
+      "country": "World",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23263.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26023,
+      "name": "Waterford W",
+      "code": null,
+      "country": "World",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26023.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26419,
+      "name": "AS Capoise",
+      "code": null,
+      "country": "World",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26419.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26420,
+      "name": "Academia Quintana",
+      "code": null,
+      "country": "World",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26420.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26421,
+      "name": "Doc's United FC",
+      "code": null,
+      "country": "World",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26421.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26422,
+      "name": "La Clery FL",
+      "code": null,
+      "country": "World",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26422.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26423,
+      "name": "Rovers SC",
+      "code": null,
+      "country": "World",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26423.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26424,
+      "name": "Wolues FC",
+      "code": null,
+      "country": "World",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26424.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 27250,
+      "name": "Philippines U22",
+      "code": null,
+      "country": "World",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/27250.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

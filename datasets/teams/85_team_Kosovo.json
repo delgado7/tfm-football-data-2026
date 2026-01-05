@@ -1,0 +1,1082 @@
+[
+  {
+    "team": {
+      "id": 680,
+      "name": "Prishtina",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/680.png"
+    },
+    "venue": {
+      "id": 1813,
+      "name": "Stadiumi Fadil Vokrri",
+      "address": null,
+      "city": "Pristina",
+      "capacity": 13500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1813.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1111,
+      "name": "Kosovo",
+      "code": "SOV",
+      "country": "Kosovo",
+      "founded": 1946,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1111.png"
+    },
+    "venue": {
+      "id": 1813,
+      "name": "Stadiumi Fadil Vokrri",
+      "address": null,
+      "city": "Prishtinë (Pristina)",
+      "capacity": 13500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1813.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1755,
+      "name": "Kosovo W",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1755.png"
+    },
+    "venue": {
+      "id": 22563,
+      "name": "Stadiumi Fadil Vokrri",
+      "address": null,
+      "city": "Prishtinë (Pristina)",
+      "capacity": 13500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22563.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3885,
+      "name": "Trepça'89",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1989,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3885.png"
+    },
+    "venue": {
+      "id": 2931,
+      "name": "Stadiumi Riza Lushta",
+      "address": "Rruga Adem Voca",
+      "city": "Mitrovicë (Kosovska Mitrovica)",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2931.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4132,
+      "name": "Feronikeli",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4132.png"
+    },
+    "venue": {
+      "id": 3160,
+      "name": "Stadiumi Rexhep Rexhepi",
+      "address": null,
+      "city": "Drenas (Glogovac)",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3160.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10896,
+      "name": "Mitrovica",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/10896.png"
+    },
+    "venue": {
+      "id": 1324,
+      "name": "Stadionul Central",
+      "address": null,
+      "city": "Ovidiu",
+      "capacity": 4554,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1324.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12733,
+      "name": "Ballkani",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12733.png"
+    },
+    "venue": {
+      "id": 8093,
+      "name": "Stadiumi i qytetit Suharekë",
+      "address": "E851, Therandë",
+      "city": "Suva Reka",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/8093.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12772,
+      "name": "Gjilani",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1995,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12772.png"
+    },
+    "venue": {
+      "id": 20315,
+      "name": "Stadiumi me bar sintetik Gjilan",
+      "address": "pn. Rruga e Kumanovës",
+      "city": "Gnjilane",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20315.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14281,
+      "name": "Drita",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14281.png"
+    },
+    "venue": {
+      "id": 20315,
+      "name": "Stadiumi me bar sintetik Gjilan",
+      "address": "pn. Rruga e Kumanovës",
+      "city": "Gnjilane",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20315.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14392,
+      "name": "Drenica Skënderaj",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1958,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14392.png"
+    },
+    "venue": {
+      "id": 11083,
+      "name": "Stadiumi Bajram Aliu",
+      "address": "Rruga Ilaz Kodra",
+      "city": "Srbica",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11083.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14393,
+      "name": "Dukagjini",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1958,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14393.png"
+    },
+    "venue": {
+      "id": 12659,
+      "name": "Stadiumi 18 Qershori",
+      "address": null,
+      "city": "Klinë",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12659.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14394,
+      "name": "Ferizaj",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1923,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14394.png"
+    },
+    "venue": {
+      "id": 19336,
+      "name": "Stadiumi me bar sintetik Ferizaj",
+      "address": null,
+      "city": "Uroševac",
+      "capacity": 2500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19336.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14395,
+      "name": "Llapi",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1932,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14395.png"
+    },
+    "venue": {
+      "id": 11084,
+      "name": "Stadiumi Zahir Pajaziti",
+      "address": null,
+      "city": "Besiana, Podujevo",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11084.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14396,
+      "name": "Vushtrria",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14396.png"
+    },
+    "venue": {
+      "id": 22563,
+      "name": "Stadiumi Fadil Vokrri",
+      "address": null,
+      "city": "Prishtinë (Pristina)",
+      "capacity": 13500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22563.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14397,
+      "name": "Flamurtari",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1968,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14397.png"
+    },
+    "venue": {
+      "id": 9444,
+      "name": null,
+      "address": "Oso Kuka",
+      "city": "Priština",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/9444.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14398,
+      "name": "2 Korriku",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14398.png"
+    },
+    "venue": {
+      "id": 22687,
+      "name": "Fusha Sportive 2 Korriku",
+      "address": "Toni Bleri",
+      "city": "Prishtinë",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/22687.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14399,
+      "name": "A&N",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14399.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14400,
+      "name": "Arbëria",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14400.png"
+    },
+    "venue": {
+      "id": 11085,
+      "name": "Stadiumi Agron Rama",
+      "address": "Stadiumi",
+      "city": "Kastriot",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11085.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14401,
+      "name": "Dardana",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14401.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14403,
+      "name": "Trepça Mitrovicë",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1932,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14403.png"
+    },
+    "venue": {
+      "id": 22688,
+      "name": "Stadiumi Xhevat Jusufi",
+      "address": "Shkolla Migjeni",
+      "city": "Mitrovicë",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/22688.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14404,
+      "name": "Vitia",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14404.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14577,
+      "name": "Besa Pejë",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14577.png"
+    },
+    "venue": {
+      "id": 11086,
+      "name": "Fusha e Futbollit Tahir Vokshi",
+      "address": null,
+      "city": "Brestovik",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/11086.png"
+    }
+  },
+  {
+    "team": {
+      "id": 15571,
+      "name": "Drenasi",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15571.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15572,
+      "name": "Istogu",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15572.png"
+    },
+    "venue": {
+      "id": 11087,
+      "name": "Stadiumi Demush Mavraj",
+      "address": "Lidhja e Prizrenit",
+      "city": "Istok (Istog)",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11087.png"
+    }
+  },
+  {
+    "team": {
+      "id": 15573,
+      "name": "KEK-u",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1928,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15573.png"
+    },
+    "venue": {
+      "id": 11085,
+      "name": "Stadiumi Agron Rama",
+      "address": "Stadiumi",
+      "city": "Obiliq (Kastriot)",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11085.png"
+    }
+  },
+  {
+    "team": {
+      "id": 15574,
+      "name": "Kika",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15574.png"
+    },
+    "venue": {
+      "id": 22689,
+      "name": "Stadiumi Hogosht",
+      "address": null,
+      "city": "Hogosht",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22689.png"
+    }
+  },
+  {
+    "team": {
+      "id": 15575,
+      "name": "Kosova VR",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15575.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15576,
+      "name": "Malisheva",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15576.png"
+    },
+    "venue": {
+      "id": 12497,
+      "name": "Stadiumi Liman Gegaj",
+      "address": null,
+      "city": "Malishevë",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12497.png"
+    }
+  },
+  {
+    "team": {
+      "id": 15577,
+      "name": "Onix Banjë",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15577.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15578,
+      "name": "Prizreni",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15578.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15579,
+      "name": "Ramiz Sadiku",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15579.png"
+    },
+    "venue": {
+      "id": 22690,
+      "name": "Stadiumi Ramiz Sadiku",
+      "address": null,
+      "city": "Prishtinë",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22690.png"
+    }
+  },
+  {
+    "team": {
+      "id": 15580,
+      "name": "Ulpiana",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1926,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15580.png"
+    },
+    "venue": {
+      "id": 19337,
+      "name": "Stadiumi Sami Kelmendi",
+      "address": null,
+      "city": "Lipjan",
+      "capacity": 2500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19337.png"
+    }
+  },
+  {
+    "team": {
+      "id": 15581,
+      "name": "Vllaznia Pozheran",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15581.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15582,
+      "name": "Vëllaznimi",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1927,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15582.png"
+    },
+    "venue": {
+      "id": 12497,
+      "name": "Stadiumi Liman Gegaj",
+      "address": null,
+      "city": "Malishevë",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12497.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17959,
+      "name": "Kosovo U17",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1946,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/17959.png"
+    },
+    "venue": {
+      "id": 12544,
+      "name": "Stadiumi i Qytetit",
+      "address": null,
+      "city": null,
+      "capacity": 16200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12544.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18293,
+      "name": "Fushë Kosova",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 1972,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18293.png"
+    },
+    "venue": {
+      "id": 20145,
+      "name": "Stadiumi Ekrem Grajqevci",
+      "address": null,
+      "city": "Kosovo Polje",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20145.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18294,
+      "name": "Rahoveci",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18294.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20688,
+      "name": "Behari",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20688.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20689,
+      "name": "Rilindja 1974",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20689.png"
+    },
+    "venue": {
+      "id": 22691,
+      "name": "Stadiumi Shahin Haxhiislami",
+      "address": null,
+      "city": "Pejë (Peć)",
+      "capacity": 8500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22691.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20690,
+      "name": "Vjosa",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20690.png"
+    },
+    "venue": {
+      "id": 12498,
+      "name": "Stadiumi Shtime",
+      "address": null,
+      "city": "Shtime",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12498.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20785,
+      "name": "Kosovo U19",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/20785.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20888,
+      "name": "Bashkimi",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20888.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22814,
+      "name": "Dardania",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22814.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22815,
+      "name": "Dinamo Ferizaj",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22815.png"
+    },
+    "venue": {
+      "id": 22692,
+      "name": "Fusha e Qytetit Hani i Elezit",
+      "address": null,
+      "city": "Elez Han (Hani i Elezit)",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/22692.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22816,
+      "name": "Prishtina e Re",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22816.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22817,
+      "name": "Suhareka",
+      "code": null,
+      "country": "Kosovo",
+      "founded": 2023,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22817.png"
+    },
+    "venue": {
+      "id": 8093,
+      "name": "Stadiumi i qytetit Suharekë",
+      "address": "E851, Therandë",
+      "city": "Suharekë (Suva Reka)",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/8093.png"
+    }
+  },
+  {
+    "team": {
+      "id": 24966,
+      "name": "2 Korriku U19",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24966.png"
+    },
+    "venue": {
+      "id": 22563,
+      "name": "Stadiumi Fadil Vokrri",
+      "address": null,
+      "city": "Prishtinë (Pristina)",
+      "capacity": 13500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22563.png"
+    }
+  },
+  {
+    "team": {
+      "id": 25421,
+      "name": "FC Besa Peja",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25421.png"
+    },
+    "venue": {
+      "id": 11086,
+      "name": "Fusha e Futbollit Tahir Vokshi",
+      "address": null,
+      "city": "Brestovik",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/11086.png"
+    }
+  },
+  {
+    "team": {
+      "id": 25422,
+      "name": "TOP Football",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25422.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26099,
+      "name": "Mitrovica",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26099.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26793,
+      "name": "Tefik Canga",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26793.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 27061,
+      "name": "Kosovo U20",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/27061.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 27238,
+      "name": "KF Lepenci",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/27238.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 27239,
+      "name": "Shkolla E Futbollit Istogu 03",
+      "code": null,
+      "country": "Kosovo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/27239.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

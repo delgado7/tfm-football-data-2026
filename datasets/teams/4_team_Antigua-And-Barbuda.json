@@ -1,0 +1,502 @@
+[
+  {
+    "team": {
+      "id": 5526,
+      "name": "Antigua and Barbuda",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": 1928,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/5526.png"
+    },
+    "venue": {
+      "id": 4151,
+      "name": "Sir Vivian Richards Stadium",
+      "address": "Factory Road",
+      "city": "North Sound",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4151.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10967,
+      "name": "Liberta",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": 1991,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/10967.png"
+    },
+    "venue": {
+      "id": 7371,
+      "name": "Kennedy’s Sports Complex",
+      "address": null,
+      "city": "Liberta",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7371.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10977,
+      "name": "Hoppers",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": 1965,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/10977.png"
+    },
+    "venue": {
+      "id": 20404,
+      "name": "ABFA Technical Center",
+      "address": "Factory Road",
+      "city": "Piggotts",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20404.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10987,
+      "name": "Antigua and Barbuda U20",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": 1928,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10987.png"
+    },
+    "venue": {
+      "id": 4151,
+      "name": "Sir Vivian Richards Stadium",
+      "address": "Factory Road",
+      "city": "North Sound",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4151.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17864,
+      "name": "Antigua and Barbuda U23",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": 1928,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/17864.png"
+    },
+    "venue": {
+      "id": 4151,
+      "name": "Sir Vivian Richards Stadium",
+      "address": "Factory Road",
+      "city": "North Sound",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4151.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22791,
+      "name": "All Saints United",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22791.png"
+    },
+    "venue": {
+      "id": 20404,
+      "name": "ABFA Technical Center",
+      "address": null,
+      "city": "Piggotts",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20404.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22792,
+      "name": "Empire",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": 1962,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22792.png"
+    },
+    "venue": {
+      "id": 20404,
+      "name": "ABFA Technical Center",
+      "address": null,
+      "city": "Piggotts",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20404.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22793,
+      "name": "Garden Stars",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": 1983,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22793.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22794,
+      "name": "Green City",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": 2018,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22794.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22795,
+      "name": "Grenades",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22795.png"
+    },
+    "venue": {
+      "id": 20404,
+      "name": "ABFA Technical Center",
+      "address": null,
+      "city": "Piggotts",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20404.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22796,
+      "name": "John Hughes",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": 1999,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22796.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22797,
+      "name": "Old Road",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22797.png"
+    },
+    "venue": {
+      "id": 20404,
+      "name": "ABFA Technical Center",
+      "address": null,
+      "city": "Piggotts",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20404.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22798,
+      "name": "Ottos Rangers",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22798.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22799,
+      "name": "Parham",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22799.png"
+    },
+    "venue": {
+      "id": 20404,
+      "name": "ABFA Technical Center",
+      "address": null,
+      "city": "Piggotts",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20404.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22800,
+      "name": "Pigotts Bullets",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": 1980,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22800.png"
+    },
+    "venue": {
+      "id": 20404,
+      "name": "ABFA Technical Center",
+      "address": null,
+      "city": "Piggotts",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20404.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22801,
+      "name": "SAP",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": 1979,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22801.png"
+    },
+    "venue": {
+      "id": 20404,
+      "name": "ABFA Technical Center",
+      "address": null,
+      "city": "Piggotts",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20404.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22802,
+      "name": "Swetes",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22802.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22803,
+      "name": "Tryum",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22803.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22804,
+      "name": "Willikies",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22804.png"
+    },
+    "venue": {
+      "id": 20404,
+      "name": "ABFA Technical Center",
+      "address": null,
+      "city": "Piggotts",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20404.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22805,
+      "name": "Aston Villa",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22805.png"
+    },
+    "venue": {
+      "id": 20404,
+      "name": "ABFA Technical Center",
+      "address": null,
+      "city": "Piggotts",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20404.png"
+    }
+  },
+  {
+    "team": {
+      "id": 25286,
+      "name": "Attacking Saints",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25286.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25287,
+      "name": "Five Islands",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25287.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25288,
+      "name": "Potters Tigers",
+      "code": null,
+      "country": "Antigua-and-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25288.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26961,
+      "name": "Villa Lions FC",
+      "code": null,
+      "country": "Antigua-And-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26961.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26962,
+      "name": "Jennings United",
+      "code": null,
+      "country": "Antigua-And-Barbuda",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26962.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

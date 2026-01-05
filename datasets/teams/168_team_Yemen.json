@@ -1,0 +1,402 @@
+[
+  {
+    "team": {
+      "id": 1550,
+      "name": "Yemen",
+      "code": "YEM",
+      "country": "Yemen",
+      "founded": 1962,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1550.png"
+    },
+    "venue": {
+      "id": 1687,
+      "name": "Ali Muhsen Al-Muraisi Stadium",
+      "address": "Al-Thawra Street",
+      "city": "Sana&apos;a",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1687.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10965,
+      "name": "Yemen U23",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10965.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17202,
+      "name": "Tadamon",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17202.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19633,
+      "name": "Yemen U20",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/19633.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21107,
+      "name": "Fahman",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21107.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21448,
+      "name": "Yemen U17",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/21448.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23352,
+      "name": "Al Ahli San'a",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23352.png"
+    },
+    "venue": {
+      "id": 1687,
+      "name": "Ali Muhsen Al-Muraisi Stadium",
+      "address": "Al-Thawra Street",
+      "city": "Sana&apos;a",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1687.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23353,
+      "name": "Al Hilal Hudayda",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23353.png"
+    },
+    "venue": {
+      "id": 20649,
+      "name": "Al Ulufi Stadium",
+      "address": null,
+      "city": "Al Hudaydah",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20649.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23354,
+      "name": "Al Ittihad Ibb",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23354.png"
+    },
+    "venue": {
+      "id": 20650,
+      "name": "22 May Stadium",
+      "address": null,
+      "city": "Ibb",
+      "capacity": 40000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20650.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23355,
+      "name": "Al Saqr",
+      "code": null,
+      "country": "Yemen",
+      "founded": 1969,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23355.png"
+    },
+    "venue": {
+      "id": 20651,
+      "name": "Al Saqr Stadium",
+      "address": null,
+      "city": "Ta&apos;izz",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20651.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23356,
+      "name": "Al Sha'ab Hadhramaut",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23356.png"
+    },
+    "venue": {
+      "id": 20652,
+      "name": "Al Shahet Stadium",
+      "address": null,
+      "city": "Ash Shihr",
+      "capacity": 3000,
+      "surface": "sand pitch",
+      "image": "https://media.api-sports.io/football/venues/20652.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23357,
+      "name": "Al Sha'ab Ibb",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23357.png"
+    },
+    "venue": {
+      "id": 20650,
+      "name": "22 May Stadium",
+      "address": null,
+      "city": "Ibb",
+      "capacity": 40000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20650.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23358,
+      "name": "Al Wahda San'a",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23358.png"
+    },
+    "venue": {
+      "id": 1687,
+      "name": "Ali Muhsen Al-Muraisi Stadium",
+      "address": "Al-Thawra Street",
+      "city": "Sana&apos;a",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1687.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23359,
+      "name": "Salam",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23359.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23360,
+      "name": "Samaon",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23360.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23361,
+      "name": "Taliat Taiz",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23361.png"
+    },
+    "venue": {
+      "id": 20653,
+      "name": "Al Shohada Stadium",
+      "address": null,
+      "city": "Taiz",
+      "capacity": 15000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20653.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23362,
+      "name": "Tdamn Hadramawt",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23362.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23363,
+      "name": "Yarmuk al Rawda",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23363.png"
+    },
+    "venue": {
+      "id": 1687,
+      "name": "Ali Muhsen Al-Muraisi Stadium",
+      "address": "Al-Thawra Street",
+      "city": "Sana&apos;a",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1687.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23364,
+      "name": "Al Urooba",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23364.png"
+    },
+    "venue": {
+      "id": 20654,
+      "name": "Al Sha'ab San'a Stadium",
+      "address": null,
+      "city": "Sana&apos;a",
+      "capacity": 5000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20654.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26810,
+      "name": "Al Tadamon SC",
+      "code": null,
+      "country": "Yemen",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26810.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

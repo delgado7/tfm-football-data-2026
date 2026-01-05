@@ -1,0 +1,82 @@
+[
+  {
+    "team": {
+      "id": 17679,
+      "name": "Gvardeyets",
+      "code": null,
+      "country": "Crimea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17679.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17686,
+      "name": "Alushta",
+      "code": null,
+      "country": "Crimea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17686.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18937,
+      "name": "FC Sevastopol",
+      "code": null,
+      "country": "Crimea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18937.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20671,
+      "name": "Sparta-KT",
+      "code": null,
+      "country": "Crimea",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20671.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

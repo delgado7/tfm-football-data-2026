@@ -1,0 +1,2382 @@
+[
+  {
+    "team": {
+      "id": 586,
+      "name": "FK Zalgiris Vilnius",
+      "code": "ZAL",
+      "country": "Lithuania",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/586.png"
+    },
+    "venue": {
+      "id": 2612,
+      "name": "S. Dariaus ir S. Girėno stadionas",
+      "address": "Ąžuolyno gatvė",
+      "city": "Kaunas",
+      "capacity": 15315,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2612.png"
+    }
+  },
+  {
+    "team": {
+      "id": 612,
+      "name": "Suduva Marijampole",
+      "code": "SUD",
+      "country": "Lithuania",
+      "founded": 1930,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/612.png"
+    },
+    "venue": {
+      "id": 21777,
+      "name": "Marijampolės futbolo arenos maniežas",
+      "address": "Kauno gatvė 125",
+      "city": "Marijampolė",
+      "capacity": 2680,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21777.png"
+    }
+  },
+  {
+    "team": {
+      "id": 638,
+      "name": "FK Trakai",
+      "code": "TRA",
+      "country": "Lithuania",
+      "founded": 2005,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/638.png"
+    },
+    "venue": {
+      "id": 21778,
+      "name": "FK Žalgiris namų stadionas",
+      "address": "Liepkalnio gatvė 13/2",
+      "city": "Vilnius",
+      "capacity": 5422,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21778.png"
+    }
+  },
+  {
+    "team": {
+      "id": 686,
+      "name": "Atlantas",
+      "code": "ATL",
+      "country": "Lithuania",
+      "founded": 1962,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/686.png"
+    },
+    "venue": {
+      "id": 2654,
+      "name": "Klaipėdos m. centrinis stadionas",
+      "address": "Sportininkų gatvė 46",
+      "city": "Klaipėda",
+      "capacity": 4940,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2654.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1097,
+      "name": "Lithuania",
+      "code": "LIT",
+      "country": "Lithuania",
+      "founded": 1922,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1097.png"
+    },
+    "venue": {
+      "id": 22449,
+      "name": "Marijampolės futbolo arenos stadionas",
+      "address": "Kauno gatvė 125",
+      "city": "Marijampolė",
+      "capacity": 6250,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22449.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1764,
+      "name": "Lithuania W",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 1922,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1764.png"
+    },
+    "venue": {
+      "id": 22728,
+      "name": "FK Žalgiris namų stadionas",
+      "address": "Liepkalnio gatvė 13/2",
+      "city": "Vilnius",
+      "capacity": 5422,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22728.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2272,
+      "name": "Stumbras",
+      "code": "STU",
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2272.png"
+    },
+    "venue": {
+      "id": 1822,
+      "name": "Nacionalinės futbolo akademijos stadionas",
+      "address": "Aušros gatvė 42 / Aukštaičių gatvė 51",
+      "city": "Kaunas",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/1822.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3856,
+      "name": "Atmosfera",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 2012,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3856.png"
+    },
+    "venue": {
+      "id": 18555,
+      "name": "Mažeikių stadionas dirbtinė danga",
+      "address": null,
+      "city": "Mažeikiai",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/18555.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3857,
+      "name": "BFA",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 2007,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3857.png"
+    },
+    "venue": {
+      "id": 18556,
+      "name": "BFA Maniežas",
+      "address": "D. Gerbutavičiaus g.",
+      "city": "Vilnius",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/18556.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3858,
+      "name": "Banga",
+      "code": "BAN",
+      "country": "Lithuania",
+      "founded": 1966,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3858.png"
+    },
+    "venue": {
+      "id": 2642,
+      "name": "Gargždų miesto stadionas",
+      "address": "Kvietinių gatvė 26",
+      "city": "Gargždai",
+      "capacity": 2323,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/2642.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3859,
+      "name": "Dainava",
+      "code": "DAI",
+      "country": "Lithuania",
+      "founded": 1968,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3859.png"
+    },
+    "venue": {
+      "id": 21777,
+      "name": "Marijampolės futbolo arenos maniežas",
+      "address": "Kauno gatvė 125",
+      "city": "Marijampolė",
+      "capacity": 2680,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21777.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3860,
+      "name": "Džiugas Telšiai",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 2014,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3860.png"
+    },
+    "venue": {
+      "id": 2644,
+      "name": "Telšių centrinis stadionas",
+      "address": "Birutės gatvė, 7",
+      "city": "Telšiai",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2644.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3861,
+      "name": "Hegelmann Litauen",
+      "code": "HEG",
+      "country": "Lithuania",
+      "founded": 2009,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3861.png"
+    },
+    "venue": {
+      "id": 12604,
+      "name": "LFF Kauno treniruočių centras",
+      "address": "Aušros gatvė 42 / Aukštaičių gatvė 51",
+      "city": "Kaunas",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12604.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3862,
+      "name": "Jonava",
+      "code": "JON",
+      "country": "Lithuania",
+      "founded": 1991,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3862.png"
+    },
+    "venue": {
+      "id": 19639,
+      "name": "Jonavos dirbtinės dangos stadionas",
+      "address": "Žeimių gatvė 17",
+      "city": "Jonava",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19639.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3863,
+      "name": "Kupiškis",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3863.png"
+    },
+    "venue": {
+      "id": 2646,
+      "name": "Kupiškio miesto stadionas",
+      "address": "Lauko g. 5a",
+      "city": "Kupiškis",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2646.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3864,
+      "name": "Minija",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 1931,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3864.png"
+    },
+    "venue": {
+      "id": 19575,
+      "name": "Kretingos dirbtinės dangos aikštė",
+      "address": "Savanorių g.",
+      "city": "Kretinga",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19575.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3865,
+      "name": "Nevėžis",
+      "code": "NEV",
+      "country": "Lithuania",
+      "founded": 1962,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3865.png"
+    },
+    "venue": {
+      "id": 2648,
+      "name": "Kėdainių miesto stadionas",
+      "address": "J. Basanavičiaus gatvė 1",
+      "city": "Kėdainiai",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/2648.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3867,
+      "name": "Stumbras II",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3867.png"
+    },
+    "venue": {
+      "id": 1822,
+      "name": "Nacionalinės futbolo akademijos stadionas",
+      "address": "Aušros gatvė 42 / Aukštaičių gatvė 51",
+      "city": "Kaunas",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/1822.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3868,
+      "name": "Trakai II",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3868.png"
+    },
+    "venue": {
+      "id": 2650,
+      "name": "Trakų naujasis stadionas",
+      "address": "Vytauto gatvė 2",
+      "city": "Trakai",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2650.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3869,
+      "name": "Vilniaus Vytis",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 2012,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3869.png"
+    },
+    "venue": {
+      "id": 1030,
+      "name": "Vilniaus LFF stadionas",
+      "address": "Liepkalnio gatvė 13/2",
+      "city": "Vilnius",
+      "capacity": 5422,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1030.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3870,
+      "name": "Šiauliai",
+      "code": "SIA",
+      "country": "Lithuania",
+      "founded": 2007,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3870.png"
+    },
+    "venue": {
+      "id": 18559,
+      "name": "Šiaulių Gytarių stadionas",
+      "address": "Kviečių g. 7",
+      "city": "Šiauliai",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/18559.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3871,
+      "name": "Žalgiris II",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3871.png"
+    },
+    "venue": {
+      "id": 1030,
+      "name": "Vilniaus LFF stadionas",
+      "address": "Liepkalnio gatvė 13/2",
+      "city": "Vilnius",
+      "capacity": 5422,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1030.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3872,
+      "name": "Kauno Žalgiris",
+      "code": "SPY",
+      "country": "Lithuania",
+      "founded": 2005,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3872.png"
+    },
+    "venue": {
+      "id": 2612,
+      "name": "S. Dariaus ir S. Girėno stadionas",
+      "address": "Ąžuolyno gatvė",
+      "city": "Kaunas",
+      "capacity": 15315,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2612.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3873,
+      "name": "Palanga",
+      "code": "PAL",
+      "country": "Lithuania",
+      "founded": 1991,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3873.png"
+    },
+    "venue": {
+      "id": 2652,
+      "name": "Centrinis miesto stadionas",
+      "address": null,
+      "city": "Palanga",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2652.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3874,
+      "name": "Panevėžys",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 2015,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3874.png"
+    },
+    "venue": {
+      "id": 19449,
+      "name": "Žemynos progimnazijos stadionas",
+      "address": "Beržų g.",
+      "city": "Panevėžys",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19449.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5568,
+      "name": "United CMAC",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5568.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 7882,
+      "name": "Astana U19",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/7882.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 7896,
+      "name": "Dinamo Zagreb U19",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/7896.png"
+    },
+    "venue": {
+      "id": 21265,
+      "name": "Juniorski Teren Maksimir",
+      "address": "Sollarova ulica",
+      "city": "Zagreb",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21265.png"
+    }
+  },
+  {
+    "team": {
+      "id": 7898,
+      "name": "Dynamo Kyiv U19",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/7898.png"
+    },
+    "venue": {
+      "id": 20817,
+      "name": "NTB Dynamo 5",
+      "address": "Stolichne Shose 50",
+      "city": "Koncha-Zaspa",
+      "capacity": 504,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20817.png"
+    }
+  },
+  {
+    "team": {
+      "id": 7919,
+      "name": "Olympique Lyonnais U19",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/7919.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 7938,
+      "name": "Valencia U19",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/7938.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 7959,
+      "name": "Maccabi Tel Aviv U19",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/7959.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 7993,
+      "name": "Sevilla U19",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/7993.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 8206,
+      "name": "Lithuania U21",
+      "code": "LIT",
+      "country": "Lithuania",
+      "founded": 1922,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/8206.png"
+    },
+    "venue": {
+      "id": 5817,
+      "name": "S. Dariaus ir S. Gireno stadionas",
+      "address": null,
+      "city": null,
+      "capacity": 9180,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5817.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10370,
+      "name": "Lithuania U19",
+      "code": "LIT",
+      "country": "Lithuania",
+      "founded": 1922,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10370.png"
+    },
+    "venue": {
+      "id": 20431,
+      "name": "Centrul de Fotbal Buftea Teren Natural",
+      "address": "Ąžuolyno gatvė",
+      "city": "Buftea",
+      "capacity": 600,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20431.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10696,
+      "name": "Ekranas",
+      "code": "EKR",
+      "country": "Lithuania",
+      "founded": 1964,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/10696.png"
+    },
+    "venue": {
+      "id": 19449,
+      "name": "Žemynos progimnazijos stadionas",
+      "address": "Beržų g.",
+      "city": "Panevėžys",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19449.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11882,
+      "name": "Koralas",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11882.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 11883,
+      "name": "NFA Kaunas",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11883.png"
+    },
+    "venue": {
+      "id": 1822,
+      "name": "Nacionalinės futbolo akademijos stadionas",
+      "address": "Aušros gatvė 42 / Aukštaičių gatvė 51",
+      "city": "Kaunas",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/1822.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11884,
+      "name": "Utenis Utena",
+      "code": "UTE",
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11884.png"
+    },
+    "venue": {
+      "id": 7713,
+      "name": "Utenio Stadionas",
+      "address": "Užpalių g. 100",
+      "city": "Utena",
+      "capacity": 3073,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7713.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11885,
+      "name": "Tauras",
+      "code": "TAU",
+      "country": "Lithuania",
+      "founded": 1942,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11885.png"
+    },
+    "venue": {
+      "id": 7714,
+      "name": "FK Tauras dirbtinės dangos stadionas",
+      "address": null,
+      "city": "Tauragė",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/7714.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11886,
+      "name": "Utenis II",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11886.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 11887,
+      "name": "Šilutė",
+      "code": "SIL",
+      "country": "Lithuania",
+      "founded": 1964,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11887.png"
+    },
+    "venue": {
+      "id": 7715,
+      "name": "Šilutės miesto stadionas",
+      "address": "Stadiono gatvė 10",
+      "city": "Šilutė",
+      "capacity": 2700,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7715.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11888,
+      "name": "Kaunas",
+      "code": "KAU",
+      "country": "Lithuania",
+      "founded": 1993,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11888.png"
+    },
+    "venue": {
+      "id": 1822,
+      "name": "Nacionalinės futbolo akademijos stadionas",
+      "address": "Aušros gatvė 42 / Aukštaičių gatvė 51",
+      "city": "Kaunas",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/1822.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11889,
+      "name": "Kražantė",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11889.png"
+    },
+    "venue": {
+      "id": 7716,
+      "name": "Kelmės miestas stadionas",
+      "address": "Raseinių gatvė 15",
+      "city": "Kelmė",
+      "capacity": 500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7716.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11890,
+      "name": "Lokomotyvas Radviliškis",
+      "code": "LOK",
+      "country": "Lithuania",
+      "founded": 1971,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11890.png"
+    },
+    "venue": {
+      "id": 7717,
+      "name": "Radviliškio miesto centrinis stadionas",
+      "address": null,
+      "city": "Radviliškis",
+      "capacity": 482,
+      "surface": null,
+      "image": "https://media.api-sports.io/football/venues/7717.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11891,
+      "name": "Šilas",
+      "code": "SIL",
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11891.png"
+    },
+    "venue": {
+      "id": 19580,
+      "name": "Prienų stadionas",
+      "address": "Pramonės g. 20",
+      "city": "Prienai",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19580.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11892,
+      "name": "Auska",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 2008,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11892.png"
+    },
+    "venue": {
+      "id": 2643,
+      "name": "Alytaus m. centrinis stadionas",
+      "address": "Birutės gatvė 5",
+      "city": "Alytus",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2643.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11893,
+      "name": "FK Panevezys",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 2015,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11893.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 11894,
+      "name": "Kruoja II",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11894.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 11895,
+      "name": "MRU",
+      "code": "MRU",
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11895.png"
+    },
+    "venue": {
+      "id": 1030,
+      "name": "Vilniaus LFF stadionas",
+      "address": "Liepkalnio gatvė 13/2",
+      "city": "Vilnius",
+      "capacity": 5422,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1030.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11896,
+      "name": "Baltija",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 1945,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11896.png"
+    },
+    "venue": {
+      "id": 7719,
+      "name": "Panevėžio futbolo akademijos stadionas",
+      "address": "Smėlynės g. 2B",
+      "city": "Panevėžys",
+      "capacity": 2500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/7719.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11897,
+      "name": "Žalgirietis",
+      "code": "ZAL",
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11897.png"
+    },
+    "venue": {
+      "id": 1030,
+      "name": "Vilniaus LFF stadionas",
+      "address": "Liepkalnio gatvė 13/2",
+      "city": "Vilnius",
+      "capacity": 5422,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1030.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11898,
+      "name": "Granitas Klaipėda",
+      "code": "GRA",
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11898.png"
+    },
+    "venue": {
+      "id": 2654,
+      "name": "Klaipėdos m. centrinis stadionas",
+      "address": "Sportininkų gatvė 46",
+      "city": "Klaipėda",
+      "capacity": 4940,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2654.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11899,
+      "name": "Polonija",
+      "code": "POL",
+      "country": "Lithuania",
+      "founded": 1951,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11899.png"
+    },
+    "venue": {
+      "id": 1030,
+      "name": "Vilniaus LFF stadionas",
+      "address": "Liepkalnio gatvė 13/2",
+      "city": "Vilnius",
+      "capacity": 5422,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1030.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11900,
+      "name": "Granitas",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11900.png"
+    },
+    "venue": {
+      "id": 7721,
+      "name": "Vilnios naujoji aikste",
+      "address": null,
+      "city": null,
+      "capacity": 300,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7721.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11901,
+      "name": "Kedainiai",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 2006,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11901.png"
+    },
+    "venue": {
+      "id": 2648,
+      "name": "Kedainiu miesto stadionas",
+      "address": null,
+      "city": null,
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2648.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11902,
+      "name": "Venta",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11902.png"
+    },
+    "venue": {
+      "id": 7722,
+      "name": "Daugeliu stadionas",
+      "address": null,
+      "city": null,
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7722.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11903,
+      "name": "Kruoja",
+      "code": "KRU",
+      "country": "Lithuania",
+      "founded": 2016,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11903.png"
+    },
+    "venue": {
+      "id": 2649,
+      "name": "Pakruojo miesto stadionas",
+      "address": "Stadiono Gatvė",
+      "city": "Pakruojis",
+      "capacity": 1280,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2649.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11904,
+      "name": "Vilnius",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 2005,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11904.png"
+    },
+    "venue": {
+      "id": 7723,
+      "name": "Zalgirio stadionas",
+      "address": null,
+      "city": null,
+      "capacity": 6530,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7723.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13971,
+      "name": "Kauno Žalgiris II",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13971.png"
+    },
+    "venue": {
+      "id": 19448,
+      "name": "VDU Valdo Adamkaus stadionas",
+      "address": "Studentų gatvė 11",
+      "city": "Ringaudai",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19448.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13972,
+      "name": "Panevėžys II",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13972.png"
+    },
+    "venue": {
+      "id": 19449,
+      "name": "Žemynos progimnazijos stadionas",
+      "address": "Beržų g.",
+      "city": "Panevėžys",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19449.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14380,
+      "name": "Ateitis",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14380.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14381,
+      "name": "Aukštaitija",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14381.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14382,
+      "name": "Babrungas",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 1942,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14382.png"
+    },
+    "venue": {
+      "id": 21738,
+      "name": "Plungės dirbtinės dangos stadionas",
+      "address": "Stoties gatvė",
+      "city": "Plungė",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21738.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14383,
+      "name": "Juventa-99",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14383.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14384,
+      "name": "Neptūną Klaipėda",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14384.png"
+    },
+    "venue": {
+      "id": 18557,
+      "name": "Klaipėdos centrinio stadiono atsarginė aikštė",
+      "address": "Sportininkų gatvė 46",
+      "city": "Klaipėda",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/18557.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14385,
+      "name": "Radviliškis",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14385.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14386,
+      "name": "Rosą Klaipėda",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14386.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14387,
+      "name": "Saned Joniškis",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14387.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14389,
+      "name": "Tera",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14389.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14390,
+      "name": "Vidzgiris",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 2000,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14390.png"
+    },
+    "venue": {
+      "id": 2643,
+      "name": "Alytaus m. centrinis stadionas",
+      "address": null,
+      "city": null,
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2643.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14391,
+      "name": "Viltis Vilnius",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14391.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16522,
+      "name": "Banga II",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16522.png"
+    },
+    "venue": {
+      "id": 2642,
+      "name": "Gargždų miesto stadionas",
+      "address": "Kvietinių gatvė 26",
+      "city": "Gargždai",
+      "capacity": 2323,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/2642.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16523,
+      "name": "Sūduva II",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16523.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16673,
+      "name": "Fortūna Kaunas",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16673.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16674,
+      "name": "Garliava",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16674.png"
+    },
+    "venue": {
+      "id": 19581,
+      "name": "Garliavos Adomo Mitkaus mokyklos stadionas",
+      "address": "Vytauto g. 4,",
+      "city": "Garliava",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19581.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16675,
+      "name": "Klaipėdos FM",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16675.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16676,
+      "name": "Panerys Vilnius",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16676.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16747,
+      "name": "Be1 NFA",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16747.png"
+    },
+    "venue": {
+      "id": 19639,
+      "name": "Jonavos dirbtinės dangos stadionas",
+      "address": "Žeimių gatvė 17",
+      "city": "Jonava",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19639.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17704,
+      "name": "Žalgiris U19",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17704.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17962,
+      "name": "Lithuania U17",
+      "code": "LIT",
+      "country": "Lithuania",
+      "founded": 1922,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/17962.png"
+    },
+    "venue": {
+      "id": 2303,
+      "name": "Teknikuri Tsentri",
+      "address": "Leonidze Street",
+      "city": "Rustavi",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2303.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18751,
+      "name": "Šiauliai II",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18751.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18840,
+      "name": "FA Šiauliai II",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18840.png"
+    },
+    "venue": {
+      "id": 18559,
+      "name": "Šiaulių Gytarių stadionas",
+      "address": "Kviečių g. 7",
+      "city": "Šiauliai",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/18559.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18863,
+      "name": "Alternatyvus FK",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18863.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18864,
+      "name": "Ataka Vilnius",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18864.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18865,
+      "name": "Ave.Ko",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18865.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18866,
+      "name": "Baltai",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18866.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18867,
+      "name": "Dembava",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18867.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18868,
+      "name": "FKS Ukmergė",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18868.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18869,
+      "name": "Geležinis Vilkas",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18869.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18870,
+      "name": "Kazlų Rūda Kaunas",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18870.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18871,
+      "name": "Medžiai Vilnius",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18871.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18872,
+      "name": "Nadruvis",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18872.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18873,
+      "name": "Nemunas",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18873.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18874,
+      "name": "Pozityvūs",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18874.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18875,
+      "name": "Saulininkas",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18875.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18876,
+      "name": "Sendvaris",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18876.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18877,
+      "name": "TOP Kickers",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18877.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18878,
+      "name": "TransINVEST Vilnius",
+      "code": null,
+      "country": "Lithuania",
+      "founded": 2022,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18878.png"
+    },
+    "venue": {
+      "id": 19583,
+      "name": "Širvintų stadionas",
+      "address": "Vilniaus g. 69",
+      "city": "Širvintos",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19583.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18879,
+      "name": "Trivartis Vilnius",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18879.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18880,
+      "name": "VGTU Vilkai",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18880.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18881,
+      "name": "Šturmas",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18881.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21235,
+      "name": "Futboliukas Vilnius",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21235.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21236,
+      "name": "Pabradė",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21236.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21237,
+      "name": "Sirijus Klaipėda",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21237.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21266,
+      "name": "Navigatoriai Vilnius",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21266.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21267,
+      "name": "Vova Vilnius",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21267.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21504,
+      "name": "Lithuania U18",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/21504.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23156,
+      "name": "Hegelmann II",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23156.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23452,
+      "name": "Euforija",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23452.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23453,
+      "name": "Katastrofa Vilnius",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23453.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23454,
+      "name": "Sviedinys Vilnius",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23454.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23455,
+      "name": "Utenos Utena",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23455.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23456,
+      "name": "Širvėna Biržai",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23456.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23602,
+      "name": "Lithuania U19 W",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23602.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25919,
+      "name": "Vilnius FA",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25919.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25920,
+      "name": "Narjanta Kupiškis",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25920.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25921,
+      "name": "Cementininkas Akmenė",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25921.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26030,
+      "name": "Pempininkai Gargždai",
+      "code": null,
+      "country": "Lithuania",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26030.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

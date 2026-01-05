@@ -1,0 +1,482 @@
+[
+  {
+    "team": {
+      "id": 1534,
+      "name": "Togo",
+      "code": "TOG",
+      "country": "Togo",
+      "founded": 1960,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1534.png"
+    },
+    "venue": {
+      "id": 1563,
+      "name": "Stade de Kégué",
+      "address": "Avenue Jean-Paul 2",
+      "city": "Lomé",
+      "capacity": 30000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1563.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6424,
+      "name": "ASC Kara",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6424.png"
+    },
+    "venue": {
+      "id": 4734,
+      "name": "Stade Municipal",
+      "address": null,
+      "city": "Kara",
+      "capacity": 7500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4734.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8065,
+      "name": "Maranatha Fiokpo",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8065.png"
+    },
+    "venue": {
+      "id": 5740,
+      "name": "Stade Général Améyi",
+      "address": null,
+      "city": "Woumé",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5740.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11048,
+      "name": "Togo U20",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/11048.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15522,
+      "name": "Unisport",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15522.png"
+    },
+    "venue": {
+      "id": 11066,
+      "name": "Stade Municipal",
+      "address": null,
+      "city": "Sokodé",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11066.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19094,
+      "name": "Togo W",
+      "code": null,
+      "country": "Togo",
+      "founded": 1960,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/19094.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20561,
+      "name": "Togo U23",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/20561.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23439,
+      "name": "Barracuda",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23439.png"
+    },
+    "venue": {
+      "id": 20670,
+      "name": "Stade Général Eyadema",
+      "address": "Avenue Sarakawa",
+      "city": "Lomé",
+      "capacity": 15000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20670.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23440,
+      "name": "Binah",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23440.png"
+    },
+    "venue": {
+      "id": 4734,
+      "name": "Stade Municipal",
+      "address": null,
+      "city": "Kara",
+      "capacity": 7500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4734.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23441,
+      "name": "Doumbé de Mango",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23441.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23442,
+      "name": "Dynamic Togolais",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23442.png"
+    },
+    "venue": {
+      "id": 20670,
+      "name": "Stade Général Eyadema",
+      "address": "Avenue Sarakawa",
+      "city": "Lomé",
+      "capacity": 15000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20670.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23443,
+      "name": "Entente II",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23443.png"
+    },
+    "venue": {
+      "id": 20670,
+      "name": "Stade Général Eyadema",
+      "address": "Avenue Sarakawa",
+      "city": "Lomé",
+      "capacity": 15000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20670.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23444,
+      "name": "Gbikinti Bassar",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23444.png"
+    },
+    "venue": {
+      "id": 20671,
+      "name": "Stade de Bassar",
+      "address": null,
+      "city": "Bassar",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20671.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23445,
+      "name": "Gbohloé-su des Lacs",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23445.png"
+    },
+    "venue": {
+      "id": 21523,
+      "name": "Stade Anani Chardey",
+      "address": "Rue Stade de KPOTA",
+      "city": "Aného",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21523.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23446,
+      "name": "Gomido",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23446.png"
+    },
+    "venue": {
+      "id": 20672,
+      "name": "Stade Municipal",
+      "address": null,
+      "city": "Kpalimé",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20672.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23447,
+      "name": "Kakadl",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23447.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23448,
+      "name": "OTR",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23448.png"
+    },
+    "venue": {
+      "id": 20673,
+      "name": "Stade Agoè-Nyivé",
+      "address": "Boulevard Gnassingbé Eyadéma",
+      "city": "Lomé",
+      "capacity": 8500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20673.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23449,
+      "name": "Semassi",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23449.png"
+    },
+    "venue": {
+      "id": 11066,
+      "name": "Stade Municipal",
+      "address": null,
+      "city": "Sokodé",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11066.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23450,
+      "name": "Tambo",
+      "code": null,
+      "country": "Togo",
+      "founded": 2017,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23450.png"
+    },
+    "venue": {
+      "id": 20670,
+      "name": "Stade Général Eyadema",
+      "address": "Avenue Sarakawa",
+      "city": "Lomé",
+      "capacity": 15000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20670.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23451,
+      "name": "AS Kara",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23451.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25274,
+      "name": "ASKO Kara",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25274.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25446,
+      "name": "Haknour",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25446.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26153,
+      "name": "Etoile Filante",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26153.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 27006,
+      "name": "Espoir",
+      "code": null,
+      "country": "Togo",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/27006.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

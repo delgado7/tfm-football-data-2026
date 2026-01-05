@@ -1,0 +1,1122 @@
+[
+  {
+    "team": {
+      "id": 942,
+      "name": "Wellington Phoenix",
+      "code": "WEL",
+      "country": "New-Zealand",
+      "founded": 2007,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/942.png"
+    },
+    "venue": {
+      "id": 130,
+      "name": "Sky Stadium",
+      "address": "Waterloo Quay",
+      "city": "Wellington",
+      "capacity": 37034,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/130.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1716,
+      "name": "New Zealand W",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1891,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1716.png"
+    },
+    "venue": {
+      "id": 22720,
+      "name": "J.S. Blatter Football Complex Tuanaimato Field 1 (Main Stadium)",
+      "address": "Talimatau Road, Tuanaimato",
+      "city": "Apia",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22720.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2529,
+      "name": "Southern United",
+      "code": "SOU",
+      "country": "New-Zealand",
+      "founded": 1889,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2529.png"
+    },
+    "venue": {
+      "id": 1164,
+      "name": "Sunnyvale Park",
+      "address": "Green Island",
+      "city": "Dunedin",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1164.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2530,
+      "name": "Waitakere United",
+      "code": "WAI",
+      "country": "New-Zealand",
+      "founded": 2004,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2530.png"
+    },
+    "venue": {
+      "id": 1166,
+      "name": "Douglas Field at Trusts Stadium",
+      "address": "65-67 Central Park Drive, Henderson",
+      "city": "Waitakere City",
+      "capacity": 4901,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1166.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2532,
+      "name": "Hawkes BAY United",
+      "code": "HAW",
+      "country": "New-Zealand",
+      "founded": 2004,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2532.png"
+    },
+    "venue": {
+      "id": 1163,
+      "name": "Bluewater Stadium (Park Island)",
+      "address": "Clyde Jeffery Drive, Park Island",
+      "city": "Napier",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1163.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2533,
+      "name": "Tasman United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 2015,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2533.png"
+    },
+    "venue": {
+      "id": 1895,
+      "name": "Trafalgar Park",
+      "address": "Trafalgar Street",
+      "city": "Nelson",
+      "capacity": 18000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1895.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2534,
+      "name": "Team Wellington",
+      "code": "TEA",
+      "country": "New-Zealand",
+      "founded": 2004,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2534.png"
+    },
+    "venue": {
+      "id": 1165,
+      "name": "David Farrington Park",
+      "address": "Weka Street / Darlington Road, Miramar North",
+      "city": "Wellington",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1165.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2535,
+      "name": "Wellington Phoenix II",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 2014,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2535.png"
+    },
+    "venue": {
+      "id": 19314,
+      "name": "Fraser Park",
+      "address": "Taita Drive",
+      "city": "Lower Hutt",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19314.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2536,
+      "name": "Hamilton Wanderers",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2536.png"
+    },
+    "venue": {
+      "id": 1896,
+      "name": "Porritt Park",
+      "address": "Crosby Road, Chartwell",
+      "city": "Hamilton",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1896.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2537,
+      "name": "Auckland City",
+      "code": "AUC",
+      "country": "New-Zealand",
+      "founded": 2004,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2537.png"
+    },
+    "venue": {
+      "id": 1161,
+      "name": "Kiwitea Street",
+      "address": "Kiwitea Street, Sandringham",
+      "city": "Auckland",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1161.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2538,
+      "name": "Canterbury United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 2001,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2538.png"
+    },
+    "venue": {
+      "id": 1162,
+      "name": "ASB Football Park",
+      "address": "127 Cranford Street, St. Albans",
+      "city": "Christchurch",
+      "capacity": 8000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/1162.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "code": "ZEA",
+      "country": "New-Zealand",
+      "founded": 1891,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "venue": {
+      "id": 22451,
+      "name": "VFF Freshwater Stadium",
+      "address": "Waterloo Quay",
+      "city": "Port Vila",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22451.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10180,
+      "name": "New Zealand U23",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10180.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10294,
+      "name": "New Zealand U20",
+      "code": "ZEA",
+      "country": "New-Zealand",
+      "founded": 1891,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10294.png"
+    },
+    "venue": {
+      "id": 341,
+      "name": "Estadio Elías Figueroa Brander",
+      "address": "Avenida Guillermo González de Hontaneda, Playa Ancha",
+      "city": "Valparaíso",
+      "capacity": 21113,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/341.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13977,
+      "name": "Eastern Suburbs",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1934,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13977.png"
+    },
+    "venue": {
+      "id": 2788,
+      "name": "Madills Farm",
+      "address": "Baddeley Avenue",
+      "city": "Kohimarama",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2788.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19089,
+      "name": "New Zealand U20 W",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1891,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/19089.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20641,
+      "name": "Havelock North Wanderers",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1948,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20641.png"
+    },
+    "venue": {
+      "id": 20860,
+      "name": "Guthrie Park 1",
+      "address": "46 Brookvale Road, Havelock North",
+      "city": "Hastings",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20860.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20642,
+      "name": "Napier City Rovers",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20642.png"
+    },
+    "venue": {
+      "id": 1163,
+      "name": "Bluewater Stadium (Park Island)",
+      "address": "Clyde Jeffery Drive, Park Island",
+      "city": "Napier",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1163.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20643,
+      "name": "North Wellington",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20643.png"
+    },
+    "venue": {
+      "id": 19557,
+      "name": "Alex Moore Park",
+      "address": "Bannister Avenue, Johnsonville",
+      "city": "Wellington",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19557.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20644,
+      "name": "Petone",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1898,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20644.png"
+    },
+    "venue": {
+      "id": 19558,
+      "name": "Petone Memorial Park Field",
+      "address": "Bracken Street, Petone",
+      "city": "Lower Hutt",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19558.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20645,
+      "name": "Waterside Karori",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1921,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20645.png"
+    },
+    "venue": {
+      "id": 19559,
+      "name": "Karori Park",
+      "address": "418 Karori Road, Karori",
+      "city": "Wellington",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19559.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20647,
+      "name": "Wellington United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20647.png"
+    },
+    "venue": {
+      "id": 20862,
+      "name": "Newtown Park Stadium",
+      "address": "193 Daniell Street, Newtown",
+      "city": "Wellington",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20862.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20649,
+      "name": "Auckland United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 2020,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20649.png"
+    },
+    "venue": {
+      "id": 19323,
+      "name": "Keith Hay Park F1",
+      "address": "Arundel Street, Mount Roskill",
+      "city": "Auckland",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19323.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20650,
+      "name": "Birkenhead United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20650.png"
+    },
+    "venue": {
+      "id": 19324,
+      "name": "Shepherds Park",
+      "address": "Cresta Avenue, Beach Haven",
+      "city": "Auckland",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19324.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20651,
+      "name": "Cashmere Technical",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20651.png"
+    },
+    "venue": {
+      "id": 19325,
+      "name": "Garrick Memorial Park",
+      "address": "43 Hargood Street, Woolston",
+      "city": "Christchurch",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19325.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20652,
+      "name": "Christchurch United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1970,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20652.png"
+    },
+    "venue": {
+      "id": 19326,
+      "name": "Christchurch Football Centre",
+      "address": "466 Yaldhurst Road, Russley",
+      "city": "Christchurch",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19326.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20653,
+      "name": "Melville United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20653.png"
+    },
+    "venue": {
+      "id": 19327,
+      "name": "Gower Park",
+      "address": "Kahikatea Drive, Hamilton West / Alison Street, Melville",
+      "city": "Hamilton",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19327.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20654,
+      "name": "Bay Olympic",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20654.png"
+    },
+    "venue": {
+      "id": 19565,
+      "name": "Olympic Park",
+      "address": "36 Portage Road, New Lynn",
+      "city": "Auckland",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19565.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20655,
+      "name": "Manukau United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 2017,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20655.png"
+    },
+    "venue": {
+      "id": 19566,
+      "name": "Mangere Centre Park",
+      "address": "141 and 161 Robertson Road, Favona, Manukau",
+      "city": "Auckland",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19566.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20656,
+      "name": "North Shore United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20656.png"
+    },
+    "venue": {
+      "id": 20863,
+      "name": "Allen Hill Stadium",
+      "address": "Lake Road",
+      "city": "Devonport",
+      "capacity": 1000,
+      "surface": "sand pitch",
+      "image": "https://media.api-sports.io/football/venues/20863.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20657,
+      "name": "Takapuna",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20657.png"
+    },
+    "venue": {
+      "id": 19567,
+      "name": "Taharoto Park",
+      "address": "Taharoto Road, Takapuna, North Shore",
+      "city": "Auckland",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19567.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20658,
+      "name": "Waiheke United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20658.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20659,
+      "name": "Western Springs",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20659.png"
+    },
+    "venue": {
+      "id": 19568,
+      "name": "Seddon Fields",
+      "address": "Meola Road, Western Springs",
+      "city": "Auckland",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19568.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20660,
+      "name": "Coastal Spirit",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 2007,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20660.png"
+    },
+    "venue": {
+      "id": 19560,
+      "name": "Linfield Park",
+      "address": "Kearneys Road, Bromley",
+      "city": "Christchurch",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19560.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20661,
+      "name": "Dunedin City Royals",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 2021,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20661.png"
+    },
+    "venue": {
+      "id": 20617,
+      "name": "Logan Park 1",
+      "address": "33 Logan Park Drive, North Dunedin",
+      "city": "Dunedin",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20617.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20662,
+      "name": "Ferrymead Bays",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20662.png"
+    },
+    "venue": {
+      "id": 19561,
+      "name": "Ferrymead Park",
+      "address": "Ferrymead Park Dr",
+      "city": "Christchurch",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19561.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20663,
+      "name": "Green Island",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1896,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20663.png"
+    },
+    "venue": {
+      "id": 1164,
+      "name": "Sunnyvale Park",
+      "address": "Green Island",
+      "city": "Dunedin",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1164.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20664,
+      "name": "Mosgiel",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1913,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20664.png"
+    },
+    "venue": {
+      "id": 20864,
+      "name": "Memorial Park Mosgiel",
+      "address": "187 Gordon Road",
+      "city": "Mosgiel",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20864.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20665,
+      "name": "Nelson Suburbs",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1967,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20665.png"
+    },
+    "venue": {
+      "id": 19562,
+      "name": "Saxton Fields",
+      "address": "Saxton Road East, Stoke",
+      "city": "Nelson",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19562.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20666,
+      "name": "Nomads United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1910,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20666.png"
+    },
+    "venue": {
+      "id": 19563,
+      "name": "Tulett Park",
+      "address": "Claridges Road, Casebrook",
+      "city": "Christchurch",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19563.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20667,
+      "name": "Selwyn United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20667.png"
+    },
+    "venue": {
+      "id": 19564,
+      "name": "Foster Park S1",
+      "address": "Foster Park",
+      "city": "Rolleston",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19564.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20672,
+      "name": "Miramar",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20672.png"
+    },
+    "venue": {
+      "id": 1165,
+      "name": "David Farrington Park",
+      "address": "Weka Street / Darlington Road, Miramar North",
+      "city": "Wellington",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1165.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21120,
+      "name": "Stop Out",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21120.png"
+    },
+    "venue": {
+      "id": 20619,
+      "name": "Hutt Park 1",
+      "address": "83 Hutt Park Road, Moera",
+      "city": "Lower Hutt",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20619.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21121,
+      "name": "Whanganui Athletic",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21121.png"
+    },
+    "venue": {
+      "id": 20865,
+      "name": "Wembley Park 1",
+      "address": "1 Wembley Place, Whanganui East",
+      "city": "Whanganui",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20865.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21122,
+      "name": "Twenty 11",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21122.png"
+    },
+    "venue": {
+      "id": 20618,
+      "name": "Avonhead Park",
+      "address": "146 Hawthornden Road, Avonhead",
+      "city": "Christchurch",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20618.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21123,
+      "name": "Manurewa",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1929,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21123.png"
+    },
+    "venue": {
+      "id": 20620,
+      "name": "Memorial Park",
+      "address": "Gibbs Road, Manurewa",
+      "city": "Auckland",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20620.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21124,
+      "name": "West Coast Rangers",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 2021,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21124.png"
+    },
+    "venue": {
+      "id": 20621,
+      "name": "Fred Taylor Park",
+      "address": "155 State Highway 16, Whenuapai",
+      "city": "Waitakere City",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20621.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23210,
+      "name": "Universities",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23210.png"
+    },
+    "venue": {
+      "id": 20866,
+      "name": "Ilam Fields S1",
+      "address": "Ilam Road",
+      "city": "Christchurch",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20866.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23211,
+      "name": "Island Bay United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23211.png"
+    },
+    "venue": {
+      "id": 20861,
+      "name": "Wakefield Park 1",
+      "address": "Adelaide Road, Island Bay",
+      "city": "Wellington",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20861.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23212,
+      "name": "East Coast Bays",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1959,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23212.png"
+    },
+    "venue": {
+      "id": 20867,
+      "name": "Bay City Park",
+      "address": "Andersons Road, Browns Bay",
+      "city": "Auckland",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20867.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23213,
+      "name": "Tauranga City United",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23213.png"
+    },
+    "venue": {
+      "id": 20868,
+      "name": "Links Avenue Reserve",
+      "address": "Mount Maunganui",
+      "city": "Tauranga",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20868.png"
+    }
+  },
+  {
+    "team": {
+      "id": 24310,
+      "name": "Upper Hutt City",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24310.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24608,
+      "name": "Auckland",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 2024,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24608.png"
+    },
+    "venue": {
+      "id": 21101,
+      "name": "Go Media Stadium",
+      "address": "2 Beasley Avenue, Penrose",
+      "city": "Auckland",
+      "capacity": 30000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21101.png"
+    }
+  },
+  {
+    "team": {
+      "id": 25230,
+      "name": "New Zealand U17 W",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": 1891,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/25230.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26120,
+      "name": "West Suburbs",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26120.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26722,
+      "name": "Auckland FC 2",
+      "code": null,
+      "country": "New-Zealand",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26722.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

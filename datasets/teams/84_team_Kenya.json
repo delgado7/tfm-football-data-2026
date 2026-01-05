@@ -1,0 +1,2022 @@
+[
+  {
+    "team": {
+      "id": 1511,
+      "name": "Kenya",
+      "code": "KEN",
+      "country": "Kenya",
+      "founded": 1960,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1511.png"
+    },
+    "venue": {
+      "id": 1592,
+      "name": "Mandela National Stadium",
+      "address": "Jinja Road",
+      "city": "Kampala",
+      "capacity": 45202,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1592.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2459,
+      "name": "Posta Rangers FC",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2459.png"
+    },
+    "venue": {
+      "id": 1949,
+      "name": "Thika Municipal Stadium",
+      "address": "Kenyatta Highway",
+      "city": "Thika",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1949.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2460,
+      "name": "Bandari",
+      "code": null,
+      "country": "Kenya",
+      "founded": 1985,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2460.png"
+    },
+    "venue": {
+      "id": 994,
+      "name": "Mbaraki Sports Club",
+      "address": "Mbaraki",
+      "city": "Mombasa",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/994.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2461,
+      "name": "Chemelil Sugar",
+      "code": null,
+      "country": "Kenya",
+      "founded": 1968,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2461.png"
+    },
+    "venue": {
+      "id": 995,
+      "name": "Chemelil Sports Complex",
+      "address": null,
+      "city": "Chemelil",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/995.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2462,
+      "name": "Homeboyz",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2462.png"
+    },
+    "venue": {
+      "id": 1781,
+      "name": "Bukhungu Stadium",
+      "address": null,
+      "city": "Kakamega",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1781.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2463,
+      "name": "Mathare United",
+      "code": null,
+      "country": "Kenya",
+      "founded": 1994,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2463.png"
+    },
+    "venue": {
+      "id": 996,
+      "name": "Moi International Sports Centre",
+      "address": "A2 Street, Kasarani",
+      "city": "Nairobi",
+      "capacity": 60000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/996.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2464,
+      "name": "Nakumatt",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2464.png"
+    },
+    "venue": {
+      "id": 998,
+      "name": "Ruaraka Stadium",
+      "address": "Thika Road",
+      "city": "Nairobi",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/998.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2465,
+      "name": "Sony Sugar",
+      "code": null,
+      "country": "Kenya",
+      "founded": 1982,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2465.png"
+    },
+    "venue": {
+      "id": 997,
+      "name": "Green Stadium",
+      "address": null,
+      "city": "Awendo",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/997.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2466,
+      "name": "Vihiga United FC",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2466.png"
+    },
+    "venue": {
+      "id": 1921,
+      "name": "Mumias Sports Complex",
+      "address": null,
+      "city": "Mumias",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1921.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2467,
+      "name": "GOR Mahia",
+      "code": "MAH",
+      "country": "Kenya",
+      "founded": 1968,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2467.png"
+    },
+    "venue": {
+      "id": 992,
+      "name": "Nyayo National Stadium",
+      "address": "Langata Road / Mombasa Road",
+      "city": "Nairobi",
+      "capacity": 30000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/992.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2468,
+      "name": "Kariobangi Sharks",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2468.png"
+    },
+    "venue": {
+      "id": 21652,
+      "name": "Police Sacco Stadium",
+      "address": "A2 Street, Kasarani",
+      "city": "Nairobi",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21652.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2469,
+      "name": "Nzoia Sugar",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2469.png"
+    },
+    "venue": {
+      "id": 1903,
+      "name": "Sudi Stadium",
+      "address": "Moi Ave",
+      "city": "Bungoma",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1903.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2470,
+      "name": "Sofapaka",
+      "code": null,
+      "country": "Kenya",
+      "founded": 2004,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2470.png"
+    },
+    "venue": {
+      "id": 19632,
+      "name": "Kasarani Annex Stadium",
+      "address": "A2 Street, Kasarani",
+      "city": "Nairobi",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19632.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2471,
+      "name": "Western Stima",
+      "code": null,
+      "country": "Kenya",
+      "founded": 1999,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2471.png"
+    },
+    "venue": {
+      "id": 1000,
+      "name": "Moi Stadium",
+      "address": "Ondiek Highway",
+      "city": "Kisumu",
+      "capacity": 5000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/1000.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2472,
+      "name": "AFC Leopards",
+      "code": null,
+      "country": "Kenya",
+      "founded": 1964,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2472.png"
+    },
+    "venue": {
+      "id": 992,
+      "name": "Nyayo National Stadium",
+      "address": "Langata Road / Mombasa Road",
+      "city": "Nairobi",
+      "capacity": 30000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/992.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2473,
+      "name": "Zoo Kericho",
+      "code": null,
+      "country": "Kenya",
+      "founded": 2009,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2473.png"
+    },
+    "venue": {
+      "id": 1905,
+      "name": "Kericho Green Stadium",
+      "address": null,
+      "city": "Kericho",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1905.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2474,
+      "name": "Ulinzi Stars",
+      "code": null,
+      "country": "Kenya",
+      "founded": 2003,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2474.png"
+    },
+    "venue": {
+      "id": 999,
+      "name": "Afraha Stadium",
+      "address": "Moi Road",
+      "city": "Nakuru",
+      "capacity": 8200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/999.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2475,
+      "name": "Tusker",
+      "code": null,
+      "country": "Kenya",
+      "founded": 1970,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2475.png"
+    },
+    "venue": {
+      "id": 998,
+      "name": "Ruaraka Stadium",
+      "address": "Thika Road",
+      "city": "Nairobi",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/998.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2476,
+      "name": "KCB",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2476.png"
+    },
+    "venue": {
+      "id": 993,
+      "name": "Kenyatta Stadium",
+      "address": "A2 Street, Kasarani",
+      "city": "Machakos",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/993.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2477,
+      "name": "Ushuru FC",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2477.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2478,
+      "name": "Wazito FC",
+      "code": null,
+      "country": "Kenya",
+      "founded": 2011,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2478.png"
+    },
+    "venue": {
+      "id": 993,
+      "name": "Kenyatta Stadium",
+      "address": null,
+      "city": "Machakos",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/993.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2479,
+      "name": "Thika United",
+      "code": null,
+      "country": "Kenya",
+      "founded": 1999,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2479.png"
+    },
+    "venue": {
+      "id": 1949,
+      "name": "Thika Municipal Stadium",
+      "address": "Kenyatta Highway",
+      "city": "Thika",
+      "capacity": 1200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1949.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2480,
+      "name": "KRA",
+      "code": null,
+      "country": "Kenya",
+      "founded": 2006,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2480.png"
+    },
+    "venue": {
+      "id": 992,
+      "name": "Nyayo National Stadium",
+      "address": "Langata Road / Mombasa Road",
+      "city": "Nairobi",
+      "capacity": 30000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/992.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2481,
+      "name": "Muhoroni Youth",
+      "code": null,
+      "country": "Kenya",
+      "founded": 2003,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2481.png"
+    },
+    "venue": {
+      "id": 2776,
+      "name": "Muhoroni Stadium",
+      "address": null,
+      "city": "Muhoroni",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2776.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2482,
+      "name": "Nairobi City Stars",
+      "code": null,
+      "country": "Kenya",
+      "founded": 2003,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2482.png"
+    },
+    "venue": {
+      "id": 992,
+      "name": "Nyayo National Stadium",
+      "address": "Langata Road / Mombasa Road",
+      "city": "Nairobi",
+      "capacity": 30000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/992.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2483,
+      "name": "Isibania",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2483.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2484,
+      "name": "Kangemi All Stars",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2484.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2485,
+      "name": "Kenya Police",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2485.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2486,
+      "name": "Modern Coast Rangers",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2486.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2487,
+      "name": "Kisumu All Stars",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2487.png"
+    },
+    "venue": {
+      "id": 1000,
+      "name": "Moi Stadium",
+      "address": "Ondiek Highway",
+      "city": "Kisumu",
+      "capacity": 5000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/1000.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2488,
+      "name": "Nakuru AllStars",
+      "code": null,
+      "country": "Kenya",
+      "founded": 2010,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2488.png"
+    },
+    "venue": {
+      "id": 999,
+      "name": "Afraha Stadium",
+      "address": "Moi Road",
+      "city": "Nakuru",
+      "capacity": 8200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/999.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2489,
+      "name": "Administration Police Fc",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2489.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2490,
+      "name": "GFE 105",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2490.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2491,
+      "name": "Nairobi Stima",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2491.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2492,
+      "name": "St Joseph FC",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2492.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2493,
+      "name": "Bidco United",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2493.png"
+    },
+    "venue": {
+      "id": 12240,
+      "name": "Kinoru Stadium",
+      "address": "Kenyatta Highway",
+      "city": "Meru",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12240.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2494,
+      "name": "Coast Stima",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2494.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2495,
+      "name": "Green Commandos",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2495.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2496,
+      "name": "FC Talanta",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2496.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2497,
+      "name": "Kibera Black Stars",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2497.png"
+    },
+    "venue": {
+      "id": 20410,
+      "name": "Ligi Ndogo Grounds",
+      "address": "Ngong Road",
+      "city": "Nairobi",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20410.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11034,
+      "name": "Kenya U20",
+      "code": null,
+      "country": "Kenya",
+      "founded": 1960,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/11034.png"
+    },
+    "venue": {
+      "id": 992,
+      "name": "Nyayo National Stadium",
+      "address": "Langata Road / Mombasa Road",
+      "city": "Nairobi",
+      "capacity": 30000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/992.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11488,
+      "name": "Karuturi Sports",
+      "code": null,
+      "country": "Kenya",
+      "founded": 1994,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11488.png"
+    },
+    "venue": {
+      "id": 7586,
+      "name": "Sher Karuturi Sports Ground",
+      "address": "Moi South Lake Road",
+      "city": null,
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7586.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11489,
+      "name": "Oserian",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11489.png"
+    },
+    "venue": {
+      "id": 7587,
+      "name": "Oserian Stadium",
+      "address": null,
+      "city": null,
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7587.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16934,
+      "name": "Kenya W",
+      "code": null,
+      "country": "Kenya",
+      "founded": 1960,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/16934.png"
+    },
+    "venue": {
+      "id": 19211,
+      "name": "Ulinzi Sports Complex",
+      "address": "Lang&apos;ata",
+      "city": "Nairobi",
+      "capacity": 7500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19211.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17125,
+      "name": "Kenya U23",
+      "code": null,
+      "country": "Kenya",
+      "founded": 1960,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/17125.png"
+    },
+    "venue": {
+      "id": 992,
+      "name": "Nyayo National Stadium",
+      "address": "Langata Road / Mombasa Road",
+      "city": "Nairobi",
+      "capacity": 30000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/992.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17897,
+      "name": "Talanta",
+      "code": null,
+      "country": "Kenya",
+      "founded": 2012,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17897.png"
+    },
+    "venue": {
+      "id": 19632,
+      "name": "Kasarani Annex Stadium",
+      "address": "A2 Street, Kasarani",
+      "city": "Nairobi",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19632.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17898,
+      "name": "Vihiga Bullets",
+      "code": null,
+      "country": "Kenya",
+      "founded": 2018,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17898.png"
+    },
+    "venue": {
+      "id": 1781,
+      "name": "Bukhungu Stadium",
+      "address": null,
+      "city": "Kakamega",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1781.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19476,
+      "name": "APS Bomet",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19476.png"
+    },
+    "venue": {
+      "id": 19334,
+      "name": "Bomet Stadium",
+      "address": "Chepngaina",
+      "city": "Bomet",
+      "capacity": 37000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19334.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19477,
+      "name": "Assad",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19477.png"
+    },
+    "venue": {
+      "id": 20409,
+      "name": "Shamu Ground",
+      "address": "Mbaraki",
+      "city": "Ukunda",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20409.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19478,
+      "name": "Coastal Heroes",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19478.png"
+    },
+    "venue": {
+      "id": 994,
+      "name": "Mbaraki Sports Club",
+      "address": "Mbaraki",
+      "city": "Mombasa",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/994.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19479,
+      "name": "Dandora Love",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19479.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19480,
+      "name": "Fortune Sacco",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19480.png"
+    },
+    "venue": {
+      "id": 18834,
+      "name": "Kianyaga Stadium",
+      "address": null,
+      "city": "Kianyaga",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18834.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19481,
+      "name": "Gusii",
+      "code": null,
+      "country": "Kenya",
+      "founded": 2021,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19481.png"
+    },
+    "venue": {
+      "id": 18835,
+      "name": "Gusii Stadium",
+      "address": null,
+      "city": "Kisii",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18835.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19482,
+      "name": "MCF",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19482.png"
+    },
+    "venue": {
+      "id": 993,
+      "name": "Kenyatta Stadium",
+      "address": "Kenyatta Highway",
+      "city": "Machakos",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/993.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19483,
+      "name": "Mara Sugar",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19483.png"
+    },
+    "venue": {
+      "id": 997,
+      "name": "Green Stadium",
+      "address": null,
+      "city": "Awendo",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/997.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19484,
+      "name": "Migori Youth",
+      "code": null,
+      "country": "Kenya",
+      "founded": 1982,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19484.png"
+    },
+    "venue": {
+      "id": 18836,
+      "name": "Migori Stadium",
+      "address": null,
+      "city": "Migori",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18836.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19485,
+      "name": "Mombasa Elite",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19485.png"
+    },
+    "venue": {
+      "id": 994,
+      "name": "Mbaraki Sports Club",
+      "address": "Mbaraki",
+      "city": "Mombasa",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/994.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19486,
+      "name": "Murang'a SEAL",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19486.png"
+    },
+    "venue": {
+      "id": 21653,
+      "name": "SportPesa Arena",
+      "address": "Gikuu",
+      "city": "Murang&apos;a",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21653.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19487,
+      "name": "Mwatate United",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19487.png"
+    },
+    "venue": {
+      "id": 998,
+      "name": "Ruaraka Stadium",
+      "address": "Thika Road",
+      "city": "Nairobi",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/998.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19488,
+      "name": "Naivas",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19488.png"
+    },
+    "venue": {
+      "id": 20216,
+      "name": "Camp Toyoyo",
+      "address": "Shule Road",
+      "city": "Nairobi",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20216.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19489,
+      "name": "Shabana",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19489.png"
+    },
+    "venue": {
+      "id": 21654,
+      "name": "Raila Odinga Homa Bay Stadium",
+      "address": "Homabay-Mbita Road, Sofia Shopping Centre",
+      "city": "Homa Bay",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21654.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19490,
+      "name": "Silibwet",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19490.png"
+    },
+    "venue": {
+      "id": 18833,
+      "name": "Silibwet Stadium",
+      "address": "C24",
+      "city": "Silibwet",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18833.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20686,
+      "name": "Darajani Gogo",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20686.png"
+    },
+    "venue": {
+      "id": 20216,
+      "name": "Camp Toyoyo",
+      "address": "Shule Road",
+      "city": "Nairobi",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20216.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20687,
+      "name": "Kajiado",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20687.png"
+    },
+    "venue": {
+      "id": 20217,
+      "name": "Ildamat Stadium",
+      "address": null,
+      "city": "Kajiado",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20217.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21214,
+      "name": "Equity Bank",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21214.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22230,
+      "name": "Luanda Villa",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22230.png"
+    },
+    "venue": {
+      "id": 20411,
+      "name": "Mumboha Sports Ground",
+      "address": null,
+      "city": "Luanda",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20411.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22231,
+      "name": "Nairobi United",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22231.png"
+    },
+    "venue": {
+      "id": 992,
+      "name": "Nyayo National Stadium",
+      "address": "Langata Road / Mombasa Road",
+      "city": "Nairobi",
+      "capacity": 30000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/992.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22808,
+      "name": "Dimba Patriots",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22808.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22809,
+      "name": "Mulembe United",
+      "code": null,
+      "country": "Kenya",
+      "founded": 2023,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22809.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23399,
+      "name": "Al Azizia",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23399.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23400,
+      "name": "Bomachoge Borabu",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23400.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23401,
+      "name": "Bumbani Stars",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23401.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23402,
+      "name": "Bungoma Superstars",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23402.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23403,
+      "name": "Compel",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23403.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23404,
+      "name": "Denmak",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23404.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23405,
+      "name": "Harvest of Hope",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23405.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23406,
+      "name": "Karatina Homeboyz",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23406.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23407,
+      "name": "MOFA",
+      "code": null,
+      "country": "Kenya",
+      "founded": 2022,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23407.png"
+    },
+    "venue": {
+      "id": 21654,
+      "name": "Raila Odinga Homa Bay Stadium",
+      "address": "Homabay-Mbita Road, Sofia Shopping Centre",
+      "city": "Homa Bay",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21654.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23408,
+      "name": "Nyamira Super Eagles",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23408.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23409,
+      "name": "PAC University",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23409.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23410,
+      "name": "Shalimar",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23410.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23411,
+      "name": "Solian City",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23411.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23412,
+      "name": "Zetech Titans",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23412.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24097,
+      "name": "Kenya U17",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24097.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24667,
+      "name": "3K",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24667.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24668,
+      "name": "SamWest Blackboots",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24668.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25744,
+      "name": "Donholm Seniors",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25744.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25745,
+      "name": "Far East United",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25745.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25746,
+      "name": "Githurai Allstars",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25746.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25747,
+      "name": "Ishiara",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25747.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25748,
+      "name": "Jumbo T",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25748.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25749,
+      "name": "Kakamega Veterans",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25749.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25750,
+      "name": "Kapenguria United",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25750.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25751,
+      "name": "Kibera Soccer",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25751.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25752,
+      "name": "Plantech Kenya",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/25752.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25753,
+      "name": "RVNP",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25753.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25754,
+      "name": "Samitsi",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25754.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26663,
+      "name": "Kabati Youth FC",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26663.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26664,
+      "name": "Soy United",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26664.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26726,
+      "name": "Mully Children Family FC",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26726.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26876,
+      "name": "Gucha Stars",
+      "code": null,
+      "country": "Kenya",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26876.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

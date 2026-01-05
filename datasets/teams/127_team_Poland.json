@@ -1,0 +1,6042 @@
+[
+  {
+    "team": {
+      "id": 24,
+      "name": "Poland",
+      "code": "POL",
+      "country": "Poland",
+      "founded": 1919,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/24.png"
+    },
+    "venue": {
+      "id": 20760,
+      "name": "Stadion Śląski",
+      "address": "ul. Katowicka 10",
+      "city": "Chorzów",
+      "capacity": 55211,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20760.png"
+    }
+  },
+  {
+    "team": {
+      "id": 335,
+      "name": "Miedz Legnica",
+      "code": "MIE",
+      "country": "Poland",
+      "founded": 1971,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/335.png"
+    },
+    "venue": {
+      "id": 1254,
+      "name": "Stadion im. Orła Białego",
+      "address": "Aleja Orła Białego 1",
+      "city": "Legnica",
+      "capacity": 6244,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1254.png"
+    }
+  },
+  {
+    "team": {
+      "id": 336,
+      "name": "Jagiellonia",
+      "code": "JAG",
+      "country": "Poland",
+      "founded": 1927,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/336.png"
+    },
+    "venue": {
+      "id": 1249,
+      "name": "Stadion Miejski",
+      "address": "ul. Słoneczna 1",
+      "city": "Białystok",
+      "capacity": 22372,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1249.png"
+    }
+  },
+  {
+    "team": {
+      "id": 337,
+      "name": "Slask Wroclaw",
+      "code": "SLA",
+      "country": "Poland",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/337.png"
+    },
+    "venue": {
+      "id": 18628,
+      "name": "Tarczyński Arena",
+      "address": "al. Śląska 1",
+      "city": "Wrocław",
+      "capacity": 42771,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18628.png"
+    }
+  },
+  {
+    "team": {
+      "id": 338,
+      "name": "Wisla Krakow",
+      "code": "WIS",
+      "country": "Poland",
+      "founded": 1906,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/338.png"
+    },
+    "venue": {
+      "id": 1258,
+      "name": "Stadion Miejski im. Henryka Reymana",
+      "address": "ul. Reymonta 22",
+      "city": "Kraków",
+      "capacity": 33268,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1258.png"
+    }
+  },
+  {
+    "team": {
+      "id": 339,
+      "name": "Legia Warszawa",
+      "code": "LEG",
+      "country": "Poland",
+      "founded": 1916,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/339.png"
+    },
+    "venue": {
+      "id": 1253,
+      "name": "Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego",
+      "address": "ul. Łazienkowska 3",
+      "city": "Warszawa",
+      "capacity": 31103,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1253.png"
+    }
+  },
+  {
+    "team": {
+      "id": 340,
+      "name": "Gornik Zabrze",
+      "code": "GOR",
+      "country": "Poland",
+      "founded": 1948,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/340.png"
+    },
+    "venue": {
+      "id": 18625,
+      "name": "Stadion im. Ernesta Pohla",
+      "address": "ul. Roosevelta 81",
+      "city": "Zabrze",
+      "capacity": 31871,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18625.png"
+    }
+  },
+  {
+    "team": {
+      "id": 341,
+      "name": "Wisla Plock",
+      "code": "WIS",
+      "country": "Poland",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/341.png"
+    },
+    "venue": {
+      "id": 19930,
+      "name": "Orlen Stadion",
+      "address": "Ignacego Łukasiewicza 34",
+      "city": "Płock",
+      "capacity": 15004,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19930.png"
+    }
+  },
+  {
+    "team": {
+      "id": 342,
+      "name": "Zaglebie Sosnowiec",
+      "code": "ZAG",
+      "country": "Poland",
+      "founded": 1906,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/342.png"
+    },
+    "venue": {
+      "id": 1261,
+      "name": "Stadion Ludowy",
+      "address": "ul. Kresowa 1",
+      "city": "Sosnowiec",
+      "capacity": 7500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1261.png"
+    }
+  },
+  {
+    "team": {
+      "id": 343,
+      "name": "Lechia Gdansk",
+      "code": "LEC",
+      "country": "Poland",
+      "founded": 1945,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/343.png"
+    },
+    "venue": {
+      "id": 18627,
+      "name": "Polsat Plus Arena Gdańsk",
+      "address": "Pokoleń Lechii Gdańsk 1",
+      "city": "Gdańsk",
+      "capacity": 43615,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18627.png"
+    }
+  },
+  {
+    "team": {
+      "id": 344,
+      "name": "Arka Gdynia",
+      "code": "ARK",
+      "country": "Poland",
+      "founded": 1929,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/344.png"
+    },
+    "venue": {
+      "id": 1246,
+      "name": "Stadion Miejski",
+      "address": "ul. Olimpijska 5/9, Redłowo",
+      "city": "Gdynia",
+      "capacity": 15139,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1246.png"
+    }
+  },
+  {
+    "team": {
+      "id": 345,
+      "name": "Zaglebie Lubin",
+      "code": "ZAG",
+      "country": "Poland",
+      "founded": 1945,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/345.png"
+    },
+    "venue": {
+      "id": 21908,
+      "name": "KGHM Zagłębie Arena",
+      "address": "ul. Marii Skłodowskiej Curie 98",
+      "city": "Lubin",
+      "capacity": 16068,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21908.png"
+    }
+  },
+  {
+    "team": {
+      "id": 346,
+      "name": "Korona Kielce",
+      "code": "KOR",
+      "country": "Poland",
+      "founded": 1973,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/346.png"
+    },
+    "venue": {
+      "id": 22306,
+      "name": "EXBUD Arena",
+      "address": "ul. Ściegiennego 8",
+      "city": "Kielce",
+      "capacity": 15550,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22306.png"
+    }
+  },
+  {
+    "team": {
+      "id": 347,
+      "name": "Lech Poznan",
+      "code": "LEC",
+      "country": "Poland",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/347.png"
+    },
+    "venue": {
+      "id": 20110,
+      "name": "Enea Stadion",
+      "address": "ul. Bułgarska 17",
+      "city": "Poznań",
+      "capacity": 43269,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20110.png"
+    }
+  },
+  {
+    "team": {
+      "id": 348,
+      "name": "Pogon Szczecin",
+      "code": "POG",
+      "country": "Poland",
+      "founded": 1948,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/348.png"
+    },
+    "venue": {
+      "id": 1256,
+      "name": "Stadion Miejski im. Floriana Krygiera",
+      "address": "Mieczysława Karłowicza 28",
+      "city": "Szczecin",
+      "capacity": 21163,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1256.png"
+    }
+  },
+  {
+    "team": {
+      "id": 349,
+      "name": "Piast Gliwice",
+      "code": "PIA",
+      "country": "Poland",
+      "founded": 1945,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/349.png"
+    },
+    "venue": {
+      "id": 1255,
+      "name": "Stadion Miejski",
+      "address": "ul. Stefana Okrzei 20",
+      "city": "Gliwice",
+      "capacity": 9913,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1255.png"
+    }
+  },
+  {
+    "team": {
+      "id": 350,
+      "name": "Cracovia Krakow",
+      "code": "CRA",
+      "country": "Poland",
+      "founded": 1906,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/350.png"
+    },
+    "venue": {
+      "id": 1247,
+      "name": "Stadion Cracovii im. Józefa Piłsudskiego",
+      "address": "ul. Józefa Kałuży 1",
+      "city": "Kraków",
+      "capacity": 15016,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1247.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1749,
+      "name": "Poland W",
+      "code": null,
+      "country": "Poland",
+      "founded": 1919,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1749.png"
+    },
+    "venue": {
+      "id": 22309,
+      "name": "Stadion Miejski im. Grzegorza Lato",
+      "address": "ul. Solskiego 1",
+      "city": "Mielec",
+      "capacity": 6864,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22309.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3481,
+      "name": "Bytovia Bytów",
+      "code": null,
+      "country": "Poland",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3481.png"
+    },
+    "venue": {
+      "id": 2282,
+      "name": "Stadion MOSiR",
+      "address": "ul. Mickiewicza 13",
+      "city": "Bytów",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2282.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3482,
+      "name": "Chojniczanka Chojnice",
+      "code": "CHO",
+      "country": "Poland",
+      "founded": 1930,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3482.png"
+    },
+    "venue": {
+      "id": 2283,
+      "name": "Stadion Miejski Chojnice",
+      "address": "ul. Mickiewicza 12",
+      "city": "Chojnice",
+      "capacity": 4500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2283.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3483,
+      "name": "Chrobry Głogów",
+      "code": "GLO",
+      "country": "Poland",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3483.png"
+    },
+    "venue": {
+      "id": 2284,
+      "name": "Stadion GOS",
+      "address": "ul. Wita Stwosza 3",
+      "city": "Głogów",
+      "capacity": 2895,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2284.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3484,
+      "name": "GKS Katowice",
+      "code": null,
+      "country": "Poland",
+      "founded": 1964,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3484.png"
+    },
+    "venue": {
+      "id": 22596,
+      "name": "Arena Katowice",
+      "address": "Upadowa 13",
+      "city": "Katowice",
+      "capacity": 15048,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22596.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3485,
+      "name": "Garbarnia Kraków",
+      "code": "GAR",
+      "country": "Poland",
+      "founded": 1921,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3485.png"
+    },
+    "venue": {
+      "id": 2286,
+      "name": "Stadion Garbarni przy ul. Barskiej",
+      "address": "ul. Rydlówka 23",
+      "city": "Kraków",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2286.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3486,
+      "name": "Jastrzębie",
+      "code": null,
+      "country": "Poland",
+      "founded": 1962,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3486.png"
+    },
+    "venue": {
+      "id": 2287,
+      "name": "Stadion Miejski",
+      "address": "ul. Harcerska 14b",
+      "city": "Jastrzębie Zdrój",
+      "capacity": 20000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2287.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3487,
+      "name": "Nieciecza",
+      "code": "TER",
+      "country": "Poland",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3487.png"
+    },
+    "venue": {
+      "id": 18632,
+      "name": "Stadion Sportowy Bruk-Bet Termalica",
+      "address": "ul. Nieciecza 150",
+      "city": "Nieciecza",
+      "capacity": 4666,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18632.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3488,
+      "name": "Odra Opole",
+      "code": "ODR",
+      "country": "Poland",
+      "founded": 1945,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3488.png"
+    },
+    "venue": {
+      "id": 22307,
+      "name": "Itaka Arena",
+      "address": "ul. Leonarda Olejnika 1",
+      "city": "Opole",
+      "capacity": 11600,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22307.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3489,
+      "name": "Podbeskidzie",
+      "code": "POD",
+      "country": "Poland",
+      "founded": 1907,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3489.png"
+    },
+    "venue": {
+      "id": 2290,
+      "name": "Stadion Miejski",
+      "address": "ul. Rychlińskiego 19",
+      "city": "Bielsko-Biała",
+      "capacity": 15292,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2290.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3490,
+      "name": "Puszcza Niepołomice",
+      "code": "PUS",
+      "country": "Poland",
+      "founded": 1923,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3490.png"
+    },
+    "venue": {
+      "id": 22308,
+      "name": "Stadion Miejski w Niepołomicach",
+      "address": "ul. Janusza Kusocińskiego 2",
+      "city": "Niepołomice",
+      "capacity": 2118,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22308.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3491,
+      "name": "Raków Częstochowa",
+      "code": "RAK",
+      "country": "Poland",
+      "founded": 1921,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3491.png"
+    },
+    "venue": {
+      "id": 18633,
+      "name": "Miejski Stadion Piłkarski Raków",
+      "address": "ul. Limanowskiego 83",
+      "city": "Częstochowa",
+      "capacity": 5500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18633.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3492,
+      "name": "Sandecja Nowy Sącz",
+      "code": "SAN",
+      "country": "Poland",
+      "founded": 1910,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3492.png"
+    },
+    "venue": {
+      "id": 2293,
+      "name": "Stadion im. Ojca Władysława Augustynka",
+      "address": "ul. Kilińskiego 47",
+      "city": "Nowy Sącz",
+      "capacity": 7000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2293.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3493,
+      "name": "Stal Mielec",
+      "code": "STA",
+      "country": "Poland",
+      "founded": 1939,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3493.png"
+    },
+    "venue": {
+      "id": 22309,
+      "name": "Stadion Miejski im. Grzegorza Lato",
+      "address": "ul. Solskiego 1",
+      "city": "Mielec",
+      "capacity": 6864,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22309.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3494,
+      "name": "Stomil Olsztyn",
+      "code": "OLS",
+      "country": "Poland",
+      "founded": 2003,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3494.png"
+    },
+    "venue": {
+      "id": 2295,
+      "name": "Stadion OSiR",
+      "address": "ul. Marszałka Józefa Piłsudskiego 69A",
+      "city": "Olsztyn",
+      "capacity": 16800,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2295.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3495,
+      "name": "Tychy 71",
+      "code": "TYC",
+      "country": "Poland",
+      "founded": 1971,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3495.png"
+    },
+    "venue": {
+      "id": 2296,
+      "name": "Stadion Miejski",
+      "address": "ul. Edukacji 7",
+      "city": "Tychy",
+      "capacity": 15300,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2296.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3496,
+      "name": "Warta Poznań",
+      "code": "WAR",
+      "country": "Poland",
+      "founded": 1912,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3496.png"
+    },
+    "venue": {
+      "id": 20110,
+      "name": "Enea Stadion",
+      "address": "ul. Bułgarska 17",
+      "city": "Poznań",
+      "capacity": 43269,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20110.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3497,
+      "name": "Wigry Suwałki",
+      "code": "WIG",
+      "country": "Poland",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3497.png"
+    },
+    "venue": {
+      "id": 2298,
+      "name": "Stadion Miejski",
+      "address": "ul. Zarzecze 26",
+      "city": "Suwałki",
+      "capacity": 4800,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2298.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3498,
+      "name": "ŁKS Łódź",
+      "code": "ŁKS",
+      "country": "Poland",
+      "founded": 1908,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3498.png"
+    },
+    "venue": {
+      "id": 12602,
+      "name": "Stadion Miejski LKS Lodz",
+      "address": "Al. Unii Lubelskiej 2",
+      "city": "Łódź",
+      "capacity": 18033,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12602.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4246,
+      "name": "Bełchatów",
+      "code": "BEL",
+      "country": "Poland",
+      "founded": 1977,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4246.png"
+    },
+    "venue": {
+      "id": 3241,
+      "name": "Stadion GKS-u",
+      "address": "ul. Sportowa 3",
+      "city": "Bełchatów",
+      "capacity": 5238,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3241.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4247,
+      "name": "Olimpia Grudziądz",
+      "code": "OLI",
+      "country": "Poland",
+      "founded": 1923,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4247.png"
+    },
+    "venue": {
+      "id": 3242,
+      "name": "Stadion Miejski im. Bronisława Malinowskiego",
+      "address": "ul. marsz. Józefa Piłsudskiego 14",
+      "city": "Grudziądz",
+      "capacity": 5323,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3242.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4248,
+      "name": "Radomiak Radom",
+      "code": "RAD",
+      "country": "Poland",
+      "founded": 1910,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4248.png"
+    },
+    "venue": {
+      "id": 20753,
+      "name": "Stadion Radomiaka",
+      "address": "Andrzeja Struga 63",
+      "city": "Radom",
+      "capacity": 8840,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20753.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6934,
+      "name": "Chemik Bydgoszcz",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6934.png"
+    },
+    "venue": {
+      "id": 5053,
+      "name": "Stadion im. Czesława Kobusa",
+      "address": "ul. Glinki 79",
+      "city": "Bydgoszcz",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5053.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6935,
+      "name": "Chemik Police",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6935.png"
+    },
+    "venue": {
+      "id": 5054,
+      "name": "Stadion OSiR",
+      "address": "Siedlecka 1",
+      "city": "Police",
+      "capacity": 2795,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5054.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6936,
+      "name": "Chełmianka Chełm",
+      "code": null,
+      "country": "Poland",
+      "founded": 1955,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6936.png"
+    },
+    "venue": {
+      "id": 5055,
+      "name": "Stadion Miejski",
+      "address": "I Pułku Szwoleżerów 15a",
+      "city": "Chełm",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5055.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6937,
+      "name": "Concordia Elbląg",
+      "code": "CON",
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6937.png"
+    },
+    "venue": {
+      "id": 5056,
+      "name": "Stadion MOSiR ul. Krakusa",
+      "address": "ul. Krakusa 25",
+      "city": "Elbląg",
+      "capacity": 900,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5056.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6938,
+      "name": "Elana Toruń",
+      "code": null,
+      "country": "Poland",
+      "founded": 1968,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6938.png"
+    },
+    "venue": {
+      "id": 5057,
+      "name": "Stadion Miejski im. Grzegorza Duneckiego",
+      "address": "ul. Gen. J. Bema 23/29",
+      "city": "Toruń",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5057.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6939,
+      "name": "Gryf Słupsk",
+      "code": null,
+      "country": "Poland",
+      "founded": 1956,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6939.png"
+    },
+    "venue": {
+      "id": 12608,
+      "name": "Stadion ul. Zielona",
+      "address": "Zielona 9",
+      "city": "Słupsk",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12608.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6940,
+      "name": "Gryf Wejherowo",
+      "code": "WEJ",
+      "country": "Poland",
+      "founded": 1921,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6940.png"
+    },
+    "venue": {
+      "id": 5058,
+      "name": "Stadion WKS Gryf Wejherowo",
+      "address": "ul. Sportowa",
+      "city": "Wejherowo",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5058.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6941,
+      "name": "Górnik Łęczna",
+      "code": "GOR",
+      "country": "Poland",
+      "founded": 1979,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6941.png"
+    },
+    "venue": {
+      "id": 19952,
+      "name": "Bogdanka Arena",
+      "address": "Aleja Jana Pawła II 13",
+      "city": "Łęczna",
+      "capacity": 7464,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19952.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6942,
+      "name": "Hutnik Kraków",
+      "code": null,
+      "country": "Poland",
+      "founded": 1950,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6942.png"
+    },
+    "venue": {
+      "id": 5060,
+      "name": "Stadion Suche Stawy",
+      "address": "ul. Ptaszyckiego 4",
+      "city": "Kraków",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5060.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6943,
+      "name": "KSZO 1929",
+      "code": null,
+      "country": "Poland",
+      "founded": 1929,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6943.png"
+    },
+    "venue": {
+      "id": 5061,
+      "name": "Miejski Stadion Sportowy",
+      "address": "ul. Świętokrzyska 11",
+      "city": "Ostrowiec Świętokrzyski",
+      "capacity": 7430,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5061.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6944,
+      "name": "Legia Warszawa II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6944.png"
+    },
+    "venue": {
+      "id": 22294,
+      "name": "Legia Training Center",
+      "address": "ul. Legionistów 3",
+      "city": "Książenice",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22294.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6945,
+      "name": "Olimpia Elbląg",
+      "code": null,
+      "country": "Poland",
+      "founded": 1945,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6945.png"
+    },
+    "venue": {
+      "id": 5063,
+      "name": "Stadion Miejski",
+      "address": "ul. Agrykola 8",
+      "city": "Elbląg",
+      "capacity": 7000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5063.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6946,
+      "name": "Olimpia Zambrów",
+      "code": "ZAM",
+      "country": "Poland",
+      "founded": 1953,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6946.png"
+    },
+    "venue": {
+      "id": 5064,
+      "name": "Stadion Miejski",
+      "address": "ul. Kardynała Stefana Wyszyńskiego 8",
+      "city": "Zambrów",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5064.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6947,
+      "name": "Pogoń Siedlce",
+      "code": "SIE",
+      "country": "Poland",
+      "founded": 1944,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6947.png"
+    },
+    "venue": {
+      "id": 5065,
+      "name": "Stadion ROSRRiT",
+      "address": "ul. Jana Pawła II 2a (ul. Północna 2a)",
+      "city": "Siedlce",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5065.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6948,
+      "name": "Polonia Środa",
+      "code": null,
+      "country": "Poland",
+      "founded": 1919,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6948.png"
+    },
+    "venue": {
+      "id": 5066,
+      "name": "Stadion 700-lecia Środy Wielkopolskiej",
+      "address": "Sportowa 12",
+      "city": "Środa Wielkopolska",
+      "capacity": 3115,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5066.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6949,
+      "name": "ROW Rybnik",
+      "code": "RYB",
+      "country": "Poland",
+      "founded": 1964,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6949.png"
+    },
+    "venue": {
+      "id": 5067,
+      "name": "Stadion MOSiR",
+      "address": "ul. Gliwicka 72",
+      "city": "Rybnik",
+      "capacity": 10304,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5067.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6950,
+      "name": "Rekord Bielsko-Biała",
+      "code": null,
+      "country": "Poland",
+      "founded": 1994,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6950.png"
+    },
+    "venue": {
+      "id": 5068,
+      "name": "Stadion BTS Rekord",
+      "address": "ul. Startowa 13",
+      "city": "Bielsko-Biała",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5068.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6951,
+      "name": "Resovia Rzeszów",
+      "code": null,
+      "country": "Poland",
+      "founded": 1905,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6951.png"
+    },
+    "venue": {
+      "id": 5075,
+      "name": "Stadion Stal",
+      "address": "ul. Hetmańska 69",
+      "city": "Rzeszów",
+      "capacity": 12700,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5075.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6952,
+      "name": "Rozwój Katowice",
+      "code": "ROZ",
+      "country": "Poland",
+      "founded": 1939,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6952.png"
+    },
+    "venue": {
+      "id": 19234,
+      "name": "Ośrodek Sportowy Kolejarz",
+      "address": "ul. Alfreda 1",
+      "city": "Katowice",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19234.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6953,
+      "name": "Ruch Chorzów",
+      "code": "RUC",
+      "country": "Poland",
+      "founded": 1920,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6953.png"
+    },
+    "venue": {
+      "id": 1255,
+      "name": "Stadion Miejski",
+      "address": "ul. Stefana Okrzei 20",
+      "city": "Gliwice",
+      "capacity": 9913,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1255.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6954,
+      "name": "SKRA Częstochowa",
+      "code": null,
+      "country": "Poland",
+      "founded": 1926,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6954.png"
+    },
+    "venue": {
+      "id": 22305,
+      "name": "KS Skra Częstochowa Akademia",
+      "address": "Kopalniana 4A",
+      "city": "Częstochowa",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22305.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6955,
+      "name": "Siarka Tarnobrzeg",
+      "code": "TAR",
+      "country": "Poland",
+      "founded": 1957,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6955.png"
+    },
+    "venue": {
+      "id": 5073,
+      "name": "Stadion OSiR Wisła",
+      "address": "al. Niepodległości 2",
+      "city": "Tarnobrzeg",
+      "capacity": 3676,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5073.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6956,
+      "name": "Stal Brzeg",
+      "code": null,
+      "country": "Poland",
+      "founded": 1967,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6956.png"
+    },
+    "venue": {
+      "id": 5074,
+      "name": "Stadion MOSiR",
+      "address": "ul. Sportowa 1",
+      "city": "Brzeg",
+      "capacity": 2100,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5074.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6957,
+      "name": "Stal Rzeszów",
+      "code": "STA",
+      "country": "Poland",
+      "founded": 1944,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6957.png"
+    },
+    "venue": {
+      "id": 5075,
+      "name": "Stadion Stal",
+      "address": "ul. Hetmańska 69",
+      "city": "Rzeszów",
+      "capacity": 12700,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5075.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6958,
+      "name": "Stal Stalowa Wola",
+      "code": "STA",
+      "country": "Poland",
+      "founded": 1938,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6958.png"
+    },
+    "venue": {
+      "id": 11362,
+      "name": "Podkarpackie Centrum Piłki Nożnej",
+      "address": "ul. Hutnicza 15",
+      "city": "Stalowa Wola",
+      "capacity": 3764,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11362.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6959,
+      "name": "Stargard Szczeciński",
+      "code": "BSS",
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6959.png"
+    },
+    "venue": {
+      "id": 5077,
+      "name": "Stadion Miejski",
+      "address": "ul. Ceglana 1",
+      "city": "Stargard Szczeciński",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5077.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6960,
+      "name": "Stilon Gorzów",
+      "code": null,
+      "country": "Poland",
+      "founded": 2011,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6960.png"
+    },
+    "venue": {
+      "id": 5078,
+      "name": "Stadion OSiR ul. Olimpijska",
+      "address": "ul. Olimpijska 1 / ul. Myśliborska 1",
+      "city": "Gorzów Wielkopolski",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5078.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6961,
+      "name": "Unia Skierniewice",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6961.png"
+    },
+    "venue": {
+      "id": 5079,
+      "name": "Stadion Miejski w Skierniewicach",
+      "address": "Pomologiczna 10",
+      "city": "Skierniewice",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5079.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6962,
+      "name": "Widzew Łódź",
+      "code": "WID",
+      "country": "Poland",
+      "founded": 1910,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6962.png"
+    },
+    "venue": {
+      "id": 5080,
+      "name": "Stadion Miejski Widzewa Łódź",
+      "address": "al. Piłsudskiego 138",
+      "city": "Łódź",
+      "capacity": 18018,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5080.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6963,
+      "name": "Zagłębie Lubin II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6963.png"
+    },
+    "venue": {
+      "id": 21908,
+      "name": "KGHM Zagłębie Arena",
+      "address": "ul. Marii Skłodowskiej Curie 98",
+      "city": "Lubin",
+      "capacity": 16068,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21908.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6964,
+      "name": "Znicz Pruszków",
+      "code": "ZNI",
+      "country": "Poland",
+      "founded": 1923,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6964.png"
+    },
+    "venue": {
+      "id": 5082,
+      "name": "Stadion Znicza (MZOS)",
+      "address": "ul. Bohaterów Warszawy 4",
+      "city": "Pruszków",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5082.png"
+    }
+  },
+  {
+    "team": {
+      "id": 7905,
+      "name": "Korona Kielce U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/7905.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 7958,
+      "name": "Lech Poznań U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/7958.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 8215,
+      "name": "Poland U21",
+      "code": null,
+      "country": "Poland",
+      "founded": 1919,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/8215.png"
+    },
+    "venue": {
+      "id": 1245,
+      "name": "Stadion Narodowy",
+      "address": "Aleja Księcia J. Poniatowskiego 1",
+      "city": "Warszawa",
+      "capacity": 58145,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1245.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9132,
+      "name": "Górnik Polkowice",
+      "code": "GOR",
+      "country": "Poland",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9132.png"
+    },
+    "venue": {
+      "id": 6319,
+      "name": "Stadion Górnik",
+      "address": "ul. Kopalniana 4",
+      "city": "Polkowice",
+      "capacity": 4635,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6319.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9133,
+      "name": "Lech Poznań II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9133.png"
+    },
+    "venue": {
+      "id": 6320,
+      "name": "Stadion Amiki Wronki",
+      "address": "ul. Lesna 15a",
+      "city": "Wronki",
+      "capacity": 5296,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6320.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9134,
+      "name": "Legionovia Legionowo",
+      "code": "LEG",
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9134.png"
+    },
+    "venue": {
+      "id": 6321,
+      "name": "Stadion Miejski w Legionowie im. ks. płk. Jana Mrugacza",
+      "address": "ul. Parkowa 27a",
+      "city": "Legionowo",
+      "capacity": 1730,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6321.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10298,
+      "name": "Poland U20",
+      "code": null,
+      "country": "Poland",
+      "founded": 1919,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10298.png"
+    },
+    "venue": {
+      "id": 1245,
+      "name": "Stadion Narodowy",
+      "address": "Aleja Księcia J. Poniatowskiego 1",
+      "city": "Warszawa",
+      "capacity": 58145,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1245.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10373,
+      "name": "Moldova U19",
+      "code": "MOL",
+      "country": "Poland",
+      "founded": 1990,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10373.png"
+    },
+    "venue": {
+      "id": 2615,
+      "name": "Stadionul Zimbru",
+      "address": "Bulevardul Dacia, nr. 45",
+      "city": "Chişinău",
+      "capacity": 10500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2615.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10376,
+      "name": "Poland U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10376.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10379,
+      "name": "San Marino U19",
+      "code": "MAR",
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/10379.png"
+    },
+    "venue": {
+      "id": 7195,
+      "name": "Stadion MKS-u Korsze",
+      "address": "ul. Wojska Polskiego 39",
+      "city": "Korsze",
+      "capacity": 372,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7195.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10916,
+      "name": "Górnik Łęczna W",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/10916.png"
+    },
+    "venue": {
+      "id": 19952,
+      "name": "Bogdanka Arena",
+      "address": "Aleja Jana Pawła II 13",
+      "city": "Łęczna",
+      "capacity": 7464,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19952.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12775,
+      "name": "Górnik Konin",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12775.png"
+    },
+    "venue": {
+      "id": 11337,
+      "name": "Stadion Miejski im. Złotej Jedenastki Kazimierza Górskiego",
+      "address": "ul. Podwale 1",
+      "city": "Konin",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11337.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12776,
+      "name": "Górnik Zabrze II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12776.png"
+    },
+    "venue": {
+      "id": 11350,
+      "name": "Stadion MOSiR",
+      "address": "Mickiewicza 66a, Mikulczyce",
+      "city": "Zabrze",
+      "capacity": 13000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11350.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12789,
+      "name": "Hetman Zamosc",
+      "code": null,
+      "country": "Poland",
+      "founded": 1934,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12789.png"
+    },
+    "venue": {
+      "id": 8145,
+      "name": "Stadion OSiR w Zamościu",
+      "address": "ul. Królowej Jadwigi 8",
+      "city": "Zamość",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8145.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12801,
+      "name": "Kalisz",
+      "code": null,
+      "country": "Poland",
+      "founded": 1925,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12801.png"
+    },
+    "venue": {
+      "id": 8157,
+      "name": "Stadion OSRiR",
+      "address": "ul. Łódzka 19-29",
+      "city": "Kalisz",
+      "capacity": 8166,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8157.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12806,
+      "name": "Kluczbork",
+      "code": "KLU",
+      "country": "Poland",
+      "founded": 2003,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12806.png"
+    },
+    "venue": {
+      "id": 8161,
+      "name": "Stadion Miejski",
+      "address": "ul. Sportowa 7",
+      "city": "Kluczbork",
+      "capacity": 3306,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8161.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12815,
+      "name": "Miedź Legnica II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12815.png"
+    },
+    "venue": {
+      "id": 22310,
+      "name": "Boisko piłkarskie przy Stadionie Miejskim - sztuczna nawierzchnia",
+      "address": "Hetmańska 2",
+      "city": "Legnica",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/22310.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12829,
+      "name": "Pelikan Łowicz",
+      "code": "PEL",
+      "country": "Poland",
+      "founded": 1945,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12829.png"
+    },
+    "venue": {
+      "id": 8179,
+      "name": "Stadion Pelikan",
+      "address": "ul. Starzyńskiego 6/8",
+      "city": "Łowicz",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8179.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12834,
+      "name": "Podhale Nowy Targ",
+      "code": null,
+      "country": "Poland",
+      "founded": 2009,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12834.png"
+    },
+    "venue": {
+      "id": 8183,
+      "name": "Stadion Miejski im. Józefa Piłsudskiego",
+      "address": "Tysiąclecia 74",
+      "city": "Nowy Targ",
+      "capacity": 700,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8183.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12835,
+      "name": "Polonia Bytom",
+      "code": "POL",
+      "country": "Poland",
+      "founded": 1920,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12835.png"
+    },
+    "venue": {
+      "id": 20481,
+      "name": "Stadion Polonii Bytom",
+      "address": "Piłkarska 8",
+      "city": "Bytom",
+      "capacity": 1175,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20481.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12837,
+      "name": "Radunia Stężyca",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12837.png"
+    },
+    "venue": {
+      "id": 8186,
+      "name": "Gminny Stadion Sportowy",
+      "address": "Abrahama 11",
+      "city": "Stężyca",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8186.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12841,
+      "name": "Ruch Wysokie Mazowieckie",
+      "code": null,
+      "country": "Poland",
+      "founded": 1955,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12841.png"
+    },
+    "venue": {
+      "id": 8189,
+      "name": "Stadion 1 Maja",
+      "address": "ul. 1 Maja 14",
+      "city": "Wysokie Mazowieckie",
+      "capacity": 958,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8189.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12842,
+      "name": "Ruch Zdzieszowice",
+      "code": "RUC",
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12842.png"
+    },
+    "venue": {
+      "id": 8190,
+      "name": "Stadion Miejski",
+      "address": "ul. Rozwadzka",
+      "city": "Zdzieszowice",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8190.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12856,
+      "name": "Sokół Aleksandrów",
+      "code": null,
+      "country": "Poland",
+      "founded": 1998,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12856.png"
+    },
+    "venue": {
+      "id": 8202,
+      "name": "Stadion im. Włodzimierza Smolarka",
+      "address": "ul. 11-go Listopada 98",
+      "city": "Aleksandrów Łódzki",
+      "capacity": 2086,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8202.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12857,
+      "name": "Sokół Ostróda",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12857.png"
+    },
+    "venue": {
+      "id": 8203,
+      "name": "Stadion Sokoła Ostróda",
+      "address": "3 Maja 19",
+      "city": "Ostróda",
+      "capacity": 4998,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8203.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12869,
+      "name": "Swit",
+      "code": "SWI",
+      "country": "Poland",
+      "founded": 1935,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12869.png"
+    },
+    "venue": {
+      "id": 5062,
+      "name": "Stadion Miejski",
+      "address": "ul. Sportowa 66",
+      "city": "Nowy Dwór Mazowiecki",
+      "capacity": 3400,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5062.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12884,
+      "name": "Unia Janikowo",
+      "code": null,
+      "country": "Poland",
+      "founded": 1958,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12884.png"
+    },
+    "venue": {
+      "id": 8225,
+      "name": "Stadion Miejski",
+      "address": "ul. Główna 40",
+      "city": "Janikowo",
+      "capacity": 3828,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8225.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12899,
+      "name": "Znicz Biała Piska",
+      "code": null,
+      "country": "Poland",
+      "founded": 1954,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12899.png"
+    },
+    "venue": {
+      "id": 8239,
+      "name": "Stadion Miejski przy Zespole Szkół nr 1",
+      "address": "ul. Sportowa 1",
+      "city": "Biała Piska",
+      "capacity": 500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8239.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12900,
+      "name": "Śląsk Wrocław II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12900.png"
+    },
+    "venue": {
+      "id": 8240,
+      "name": "Stadion Oporowska",
+      "address": "ul. Oporowska 62",
+      "city": "Wrocław",
+      "capacity": 8346,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8240.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12901,
+      "name": "Ślęza Wrocław",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12901.png"
+    },
+    "venue": {
+      "id": 11353,
+      "name": "Kompleks Piłkarski 1KS Ślęza Wrocław",
+      "address": "Kłokoczycka 5",
+      "city": "Wrocław",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/11353.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12902,
+      "name": "Świt Skolwin",
+      "code": null,
+      "country": "Poland",
+      "founded": 1952,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12902.png"
+    },
+    "venue": {
+      "id": 8242,
+      "name": "Stadion Miejski Skolwin",
+      "address": "Stołczyńska 100",
+      "city": "Szczecin",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8242.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13843,
+      "name": "Zawisza Bydgoszcz",
+      "code": "ZAW",
+      "country": "Poland",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13843.png"
+    },
+    "venue": {
+      "id": 8563,
+      "name": "Stadion im. Zdzisława Krzyszkowiaka",
+      "address": "ul. Gdańska 163",
+      "city": "Bydgoszcz",
+      "capacity": 20247,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8563.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14142,
+      "name": "Jaguar Gdańsk",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14142.png"
+    },
+    "venue": {
+      "id": 12727,
+      "name": "Stadion Jaguar Kokoszki",
+      "address": "Budowlanych 49/5",
+      "city": "Gdańsk",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12727.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14143,
+      "name": "Lechia Zielona Góra",
+      "code": null,
+      "country": "Poland",
+      "founded": 2015,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14143.png"
+    },
+    "venue": {
+      "id": 11354,
+      "name": "Stadion MOSiR",
+      "address": "ul. Urszuli 3a",
+      "city": "Zielona Góra",
+      "capacity": 11000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11354.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14144,
+      "name": "Orlęta Radzyń Podlaski",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14144.png"
+    },
+    "venue": {
+      "id": 11363,
+      "name": "Stadion Miejski",
+      "address": "ul. Warszawska 77",
+      "city": "Radzyń Podlaski",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11363.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14145,
+      "name": "Polonia Nysa",
+      "code": null,
+      "country": "Poland",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14145.png"
+    },
+    "venue": {
+      "id": 11355,
+      "name": "Stadion KS Polonia Nysa",
+      "address": "Sudecka 23",
+      "city": "Nysa",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11355.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14266,
+      "name": "Karpaty Krosno",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14266.png"
+    },
+    "venue": {
+      "id": 9336,
+      "name": "Stadion MOSiR",
+      "address": "ul. Legionów 6",
+      "city": "Krosno",
+      "capacity": 2240,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/9336.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14267,
+      "name": "Pawłowice Śląskie",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14267.png"
+    },
+    "venue": {
+      "id": 11356,
+      "name": "Stadion Pniówek",
+      "address": "Świerczewskiego 16a",
+      "city": "Pawłowice Śląskie",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11356.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14562,
+      "name": "Motor Lublin",
+      "code": "MOT",
+      "country": "Poland",
+      "founded": 1950,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14562.png"
+    },
+    "venue": {
+      "id": 22597,
+      "name": "Motor Lublin Arena",
+      "address": "ul. Krochmalna",
+      "city": "Lublin",
+      "capacity": 15500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22597.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14750,
+      "name": "Pogoń Grod. Mazowiecki",
+      "code": null,
+      "country": "Poland",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14750.png"
+    },
+    "venue": {
+      "id": 5082,
+      "name": "Stadion Znicza (MZOS)",
+      "address": "ul. Bohaterów Warszawy 4",
+      "city": "Pruszków",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5082.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14910,
+      "name": "Arka Gdynia U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14910.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14911,
+      "name": "Cracovia U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14911.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14912,
+      "name": "Escola Varsovia U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14912.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14913,
+      "name": "Gwarek Zabrze U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14913.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14914,
+      "name": "Górnik Zabrze U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14914.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14915,
+      "name": "Hutnik Kraków U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14915.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14916,
+      "name": "Jagiellonia U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14916.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14917,
+      "name": "Korona Kielce U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14917.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14918,
+      "name": "Lech Poznań U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14918.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14919,
+      "name": "Lechia Gdańsk U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14919.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14920,
+      "name": "Legia Warszawa U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14920.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14921,
+      "name": "Pogoń Szczecin U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14921.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14922,
+      "name": "SMS Łódź U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14922.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14923,
+      "name": "Wisła Kraków U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14923.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14924,
+      "name": "Zagłębie Lubin U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14924.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14925,
+      "name": "Śląsk Wrocław U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14925.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16233,
+      "name": "Broń Radom",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16233.png"
+    },
+    "venue": {
+      "id": 18635,
+      "name": "Stadion Lekkoatletyczno-Piłkarski im. Marszałka Józefa Piłsudskiego",
+      "address": "ul. Narutowicza 9",
+      "city": "Radom",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18635.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16234,
+      "name": "Błonianka Błonie",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16234.png"
+    },
+    "venue": {
+      "id": 11327,
+      "name": "Stadion Błonianka",
+      "address": "Legionów 3",
+      "city": "Błonie",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11327.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16235,
+      "name": "Huragan Morąg",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16235.png"
+    },
+    "venue": {
+      "id": 11328,
+      "name": "Stadion Huragan",
+      "address": "Żeromskiego 36",
+      "city": "Morąg",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11328.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16236,
+      "name": "Jagiellonia II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16236.png"
+    },
+    "venue": {
+      "id": 12153,
+      "name": "Ośrodek Szkoleniowy Jagiellonii Białystok",
+      "address": "Elewatorska 4",
+      "city": "Białystok",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12153.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16237,
+      "name": "Kutno",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16237.png"
+    },
+    "venue": {
+      "id": 11330,
+      "name": "Stadion Miejski im. Henryka Reymana",
+      "address": "ul. Kościuszki 26",
+      "city": "Kutno",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11330.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16238,
+      "name": "Lechia T. Mazowiecki",
+      "code": null,
+      "country": "Poland",
+      "founded": 1923,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16238.png"
+    },
+    "venue": {
+      "id": 11331,
+      "name": "Stadion im. Braci Gadajów",
+      "address": "Nowowiejska 9/27",
+      "city": "Tomaszów Mazowiecki",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11331.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16239,
+      "name": "Polonia Warszawa",
+      "code": null,
+      "country": "Poland",
+      "founded": 1911,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16239.png"
+    },
+    "venue": {
+      "id": 11332,
+      "name": "Stadion Polonii im. generała Kazimierza Sosnkowskiego",
+      "address": "ul. Konwiktorska 6",
+      "city": "Warszawa",
+      "capacity": 7150,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11332.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16240,
+      "name": "Radomsko",
+      "code": null,
+      "country": "Poland",
+      "founded": 1979,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16240.png"
+    },
+    "venue": {
+      "id": 11333,
+      "name": "Stadion RKS",
+      "address": "ul. Brzeźnicka 23",
+      "city": "Radomsko",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11333.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16241,
+      "name": "Ursus Warszawa",
+      "code": "URS",
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16241.png"
+    },
+    "venue": {
+      "id": 11334,
+      "name": "Stadion Gminny",
+      "address": "ul. Sosnkowskiego 3",
+      "city": "Warszawa",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11334.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16242,
+      "name": "Wasilków",
+      "code": null,
+      "country": "Poland",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16242.png"
+    },
+    "venue": {
+      "id": 11335,
+      "name": "Stadion Miejski w Wasilkowie",
+      "address": "Supraślska 21",
+      "city": "Wasilków",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11335.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16243,
+      "name": "Wikielec",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16243.png"
+    },
+    "venue": {
+      "id": 11336,
+      "name": "Stadion Wikielec",
+      "address": null,
+      "city": "Wikielec",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11336.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16244,
+      "name": "Bałtyk Gdynia",
+      "code": null,
+      "country": "Poland",
+      "founded": 1930,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16244.png"
+    },
+    "venue": {
+      "id": 11338,
+      "name": "Narodowy Stadion Rugby",
+      "address": "ul. Sportowa 5/9",
+      "city": "Gdynia",
+      "capacity": 3425,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/11338.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16245,
+      "name": "Bałtyk Koszalin",
+      "code": null,
+      "country": "Poland",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16245.png"
+    },
+    "venue": {
+      "id": 11339,
+      "name": "Stadion ZOS Bałtyk Koszalin",
+      "address": "ul. Andersa 16",
+      "city": "Koszalin",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11339.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16246,
+      "name": "Flota Świnoujście",
+      "code": "SWI",
+      "country": "Poland",
+      "founded": 1957,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16246.png"
+    },
+    "venue": {
+      "id": 11340,
+      "name": "Stadion Miejski",
+      "address": "ul. Matejki 22",
+      "city": "Świnoujście",
+      "capacity": 3070,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11340.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16247,
+      "name": "Gwardia Koszalin",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16247.png"
+    },
+    "venue": {
+      "id": 11341,
+      "name": "Stadion im. Stanisława Figasa",
+      "address": "ul. Fałata 34",
+      "city": "Koszalin",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11341.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16248,
+      "name": "Jarota Jarocin",
+      "code": "JAR",
+      "country": "Poland",
+      "founded": 1998,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16248.png"
+    },
+    "venue": {
+      "id": 11342,
+      "name": "Stadion Miejski",
+      "address": "ul. Sportowa 6",
+      "city": "Jarocin",
+      "capacity": 1984,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11342.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16249,
+      "name": "Kotwica Kołobrzeg",
+      "code": null,
+      "country": "Poland",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16249.png"
+    },
+    "venue": {
+      "id": 11343,
+      "name": "Stadion Miejski im. Sebastiana Karpiniuka",
+      "address": "Śliwińskiego 10",
+      "city": "Kołobrzeg",
+      "capacity": 3014,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11343.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16250,
+      "name": "Mieszko Gniezno",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16250.png"
+    },
+    "venue": {
+      "id": 11344,
+      "name": "Stadion MKS Mieszko Gniezno",
+      "address": "Strumykowa 8",
+      "city": "Gniezno",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11344.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16251,
+      "name": "Nielba Wągrowiec",
+      "code": null,
+      "country": "Poland",
+      "founded": 1925,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16251.png"
+    },
+    "venue": {
+      "id": 11345,
+      "name": "Stadion OSiR im. Stanisława Bąka",
+      "address": "ul. Kościuszki 59",
+      "city": "Wągrowiec",
+      "capacity": 4460,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11345.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16252,
+      "name": "Pogoń Szczecin II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16252.png"
+    },
+    "venue": {
+      "id": 1256,
+      "name": "Stadion Miejski im. Floriana Krygiera",
+      "address": "Mieczysława Karłowicza 28",
+      "city": "Szczecin",
+      "capacity": 21163,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1256.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16253,
+      "name": "Pomorzanin Toruń",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16253.png"
+    },
+    "venue": {
+      "id": 5057,
+      "name": "Stadion Miejski im. Grzegorza Duneckiego",
+      "address": "ul. Gen. J. Bema 23/29",
+      "city": "Toruń",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5057.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16254,
+      "name": "Przodkowo",
+      "code": null,
+      "country": "Poland",
+      "founded": 1995,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16254.png"
+    },
+    "venue": {
+      "id": 11346,
+      "name": "Stadion Miejski",
+      "address": "Sportowa 1",
+      "city": "Przodkowo",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11346.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16255,
+      "name": "Sokół Kleczew",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16255.png"
+    },
+    "venue": {
+      "id": 11347,
+      "name": "Stadion Miejski",
+      "address": "Aleja 600-lecia 21",
+      "city": "Kleczew",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11347.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16256,
+      "name": "Starogard Gdański",
+      "code": null,
+      "country": "Poland",
+      "founded": 2008,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16256.png"
+    },
+    "venue": {
+      "id": 11348,
+      "name": "Stadion Miejski im. Kazimierza Deyny",
+      "address": "Olimpijczyków Starogardzkich 1",
+      "city": "Starogard Gdański",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11348.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16257,
+      "name": "Unia Swarzędz",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16257.png"
+    },
+    "venue": {
+      "id": 11349,
+      "name": "Stadion Miejski",
+      "address": "ul. Świętego Marcina 1",
+      "city": "Swarzędz",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11349.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16258,
+      "name": "Gać Oława",
+      "code": null,
+      "country": "Poland",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16258.png"
+    },
+    "venue": {
+      "id": 11357,
+      "name": "Stadion w Gaciu",
+      "address": "Gać 10",
+      "city": "Gać",
+      "capacity": 600,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11357.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16259,
+      "name": "Goczałkowice Zdrój",
+      "code": null,
+      "country": "Poland",
+      "founded": 1960,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16259.png"
+    },
+    "venue": {
+      "id": 12619,
+      "name": "Panatoni Arena",
+      "address": "ul. Uzdrowiskowa 41",
+      "city": "Goczałkowice-Zdrój",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12619.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16260,
+      "name": "Gwarek Tarnowskie Góry",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16260.png"
+    },
+    "venue": {
+      "id": 11359,
+      "name": "Stadion Towarzystwa Sportowego Gwarek",
+      "address": "ul. Wojska Polskiego 2",
+      "city": "Tarnowskie Góry",
+      "capacity": 999,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11359.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16261,
+      "name": "Piast Żmigród",
+      "code": null,
+      "country": "Poland",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16261.png"
+    },
+    "venue": {
+      "id": 11360,
+      "name": "Stadion OSiR",
+      "address": "ul. Sportowa",
+      "city": "Żmigród",
+      "capacity": 900,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11360.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16262,
+      "name": "Polonia-Stal Świdnica",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16262.png"
+    },
+    "venue": {
+      "id": 11361,
+      "name": "Stadion OSiR w Świdnicy",
+      "address": "Śląska 35",
+      "city": "Świdnica",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11361.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16263,
+      "name": "Warta Gorzów",
+      "code": null,
+      "country": "Poland",
+      "founded": 1945,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16263.png"
+    },
+    "venue": {
+      "id": 5078,
+      "name": "Stadion OSiR ul. Olimpijska",
+      "address": "ul. Olimpijska 1 / ul. Myśliborska 1",
+      "city": "Gorzów Wielkopolski",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5078.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16264,
+      "name": "Avia Świdnik",
+      "code": null,
+      "country": "Poland",
+      "founded": 1952,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16264.png"
+    },
+    "venue": {
+      "id": 11364,
+      "name": "Stadion Świdnik",
+      "address": "Sportowa 2",
+      "city": "Świdnik",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11364.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16265,
+      "name": "Cracovia Kraków II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16265.png"
+    },
+    "venue": {
+      "id": 11365,
+      "name": "Boisko przy ul. Wielickiej",
+      "address": "Wielicka 101",
+      "city": "Kraków",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11365.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16266,
+      "name": "Jutrzenka Giebułtów",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16266.png"
+    },
+    "venue": {
+      "id": 11366,
+      "name": "Stadion Jutrzenka Giebułtów",
+      "address": "Sportowa 3",
+      "city": "Giebułtów",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11366.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16267,
+      "name": "Korona Kielce II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16267.png"
+    },
+    "venue": {
+      "id": 11367,
+      "name": "Stadion Korona",
+      "address": "ul. Szczepaniaka 29",
+      "city": "Kielce",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11367.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16268,
+      "name": "Lewart",
+      "code": null,
+      "country": "Poland",
+      "founded": 1923,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16268.png"
+    },
+    "venue": {
+      "id": 20870,
+      "name": "Stadion Miejski w Lubartowie",
+      "address": "Parkowa 6",
+      "city": "Lubartów",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20870.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16269,
+      "name": "Podlasie Biała Podlaska",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16269.png"
+    },
+    "venue": {
+      "id": 11368,
+      "name": "Stadion MOSiR",
+      "address": "ul. Piłsudskiego 38",
+      "city": "Biała Podlaska",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11368.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16270,
+      "name": "Sokół Sieniawa",
+      "code": null,
+      "country": "Poland",
+      "founded": 1960,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16270.png"
+    },
+    "venue": {
+      "id": 11369,
+      "name": "Stadion Miejski",
+      "address": "ul. Sportowa 1",
+      "city": "Sieniawa",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11369.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16271,
+      "name": "Stal Kraśnik",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16271.png"
+    },
+    "venue": {
+      "id": 11370,
+      "name": "Stadion MOSiR",
+      "address": "Aleja Niepodległości 44",
+      "city": "Kraśnik",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11370.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16272,
+      "name": "Wisła Puławy",
+      "code": "PUL",
+      "country": "Poland",
+      "founded": 1923,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16272.png"
+    },
+    "venue": {
+      "id": 11371,
+      "name": "Stadion MOSiR",
+      "address": "ul. gen. Józefa Hauke-Bosaka 1",
+      "city": "Puławy",
+      "capacity": 4418,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11371.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16273,
+      "name": "Wisła Sandomierz",
+      "code": null,
+      "country": "Poland",
+      "founded": 1925,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16273.png"
+    },
+    "venue": {
+      "id": 11372,
+      "name": "Miejski Stadion Sportowy Sandomierz",
+      "address": "ul. Koseły 3a",
+      "city": "Sandomierz",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11372.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16274,
+      "name": "Wisłoka Dębica",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16274.png"
+    },
+    "venue": {
+      "id": 11373,
+      "name": "Stadion Miejski",
+      "address": "Parkowa 1",
+      "city": "Dębica",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11373.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16275,
+      "name": "Wiązownica",
+      "code": null,
+      "country": "Poland",
+      "founded": 1979,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16275.png"
+    },
+    "venue": {
+      "id": 18851,
+      "name": "Stadion Gminny Wiązownica",
+      "address": "ul. Sportowa",
+      "city": "Wiązownica",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18851.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16276,
+      "name": "Wólczanka W. Pełkińska",
+      "code": null,
+      "country": "Poland",
+      "founded": 1975,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16276.png"
+    },
+    "venue": {
+      "id": 11374,
+      "name": "Stadion Miejski w Wólce Pełkińskiej",
+      "address": null,
+      "city": "Wólka Pełkińska",
+      "capacity": 800,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11374.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16277,
+      "name": "Łagów",
+      "code": null,
+      "country": "Poland",
+      "founded": 1979,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16277.png"
+    },
+    "venue": {
+      "id": 12142,
+      "name": "Stadion w Łagówie",
+      "address": "ul. Zapłotnia 1",
+      "city": "Łagów",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12142.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16391,
+      "name": "Górnik Zabrze U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16391.png"
+    },
+    "venue": {
+      "id": 18625,
+      "name": "Stadion im. Ernesta Pohla",
+      "address": "ul. Roosevelta 81",
+      "city": "Zabrze",
+      "capacity": 31871,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18625.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16838,
+      "name": "Czarni Sosnowiec W",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16838.png"
+    },
+    "venue": {
+      "id": 22142,
+      "name": "Stadion im. Jana Ciszewskiego",
+      "address": "al. Mireckiego 31",
+      "city": "Sosnowiec",
+      "capacity": 700,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22142.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17053,
+      "name": "Jeziorak Iława",
+      "code": null,
+      "country": "Poland",
+      "founded": 1945,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17053.png"
+    },
+    "venue": {
+      "id": 12019,
+      "name": "Stadion Miejski",
+      "address": "ul. Sienkiewicza 1",
+      "city": "Iława",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12019.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17058,
+      "name": "LZS Agroplon Gluszyna",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17058.png"
+    },
+    "venue": {
+      "id": 7922,
+      "name": "Stadion Miejski",
+      "address": "ul. Pułaskiego 5",
+      "city": "Namysłów",
+      "capacity": 2460,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7922.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17075,
+      "name": "Odra Wodzislaw",
+      "code": null,
+      "country": "Poland",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17075.png"
+    },
+    "venue": {
+      "id": 12293,
+      "name": "Stadion Miejski",
+      "address": "ul. Bogumińska 8",
+      "city": "Wodzisław Śląski",
+      "capacity": 6620,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12293.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17115,
+      "name": "Wieczysta Kraków",
+      "code": null,
+      "country": "Poland",
+      "founded": 1942,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17115.png"
+    },
+    "venue": {
+      "id": 19931,
+      "name": "ArcelorMittal Park",
+      "address": "gen. Mariusza Zaruskiego 2",
+      "city": "Sosnowiec",
+      "capacity": 11600,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19931.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17118,
+      "name": "Śląsk Świętochłowice",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17118.png"
+    },
+    "venue": {
+      "id": 12626,
+      "name": "Boisko MKS Śląsk Świętochłowice",
+      "address": "Łagiewnicka 80",
+      "city": "Świętochłowice",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12626.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17322,
+      "name": "Unia Tarnow",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17322.png"
+    },
+    "venue": {
+      "id": 12155,
+      "name": "Stadion Miejski",
+      "address": "Zbylitowska 3",
+      "city": "Tarnów",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12155.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17361,
+      "name": "Polonia Warszawa U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17361.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17362,
+      "name": "Raków Częstochowa U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17362.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17363,
+      "name": "Stal Rzeszów U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17363.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17364,
+      "name": "Warta Poznań U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17364.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17394,
+      "name": "Mamry Giżycko",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17394.png"
+    },
+    "venue": {
+      "id": 12704,
+      "name": "Stadion Miejski MOSIR Giżycko",
+      "address": "Stanisława Moniuszki 5",
+      "city": "Giżycko",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12704.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17395,
+      "name": "Pilica Białobrzegi",
+      "code": null,
+      "country": "Poland",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17395.png"
+    },
+    "venue": {
+      "id": 18845,
+      "name": "Stadion Miejski",
+      "address": "ul. 11 Listopada 57",
+      "city": "Białobrzegi",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18845.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17396,
+      "name": "Wissa Szczuczyn",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17396.png"
+    },
+    "venue": {
+      "id": 12154,
+      "name": "Stadion Miejski",
+      "address": "ul. Sportowa 4",
+      "city": "Szczuczyn",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12154.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17397,
+      "name": "ŁKS Łódź II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17397.png"
+    },
+    "venue": {
+      "id": 12602,
+      "name": "Stadion Miejski LKS Lodz",
+      "address": "Al. Unii Lubelskiej 2",
+      "city": "Łódź",
+      "capacity": 18033,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12602.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17398,
+      "name": "Kluczevia Stargard",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17398.png"
+    },
+    "venue": {
+      "id": 21903,
+      "name": "Boisko ZKS Kluczevia",
+      "address": "Juliana Ursyna Niemcewicza",
+      "city": "Stargard",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21903.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17399,
+      "name": "Pogoń Nowe Skalmierzyce",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17399.png"
+    },
+    "venue": {
+      "id": 12731,
+      "name": "Stadion Miejsko-Gminny w Nowych Skalmierzycach",
+      "address": "Mostowa 1a",
+      "city": "Nowe Skalmierzyce",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12731.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17400,
+      "name": "Stolem Gniewino",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17400.png"
+    },
+    "venue": {
+      "id": 18706,
+      "name": "Stadion GOTiS",
+      "address": "ul. Sportowa 1",
+      "city": "Gniewino",
+      "capacity": 1010,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18706.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17401,
+      "name": "Carina Gubin",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17401.png"
+    },
+    "venue": {
+      "id": 18849,
+      "name": "Stadion Miejski Gubin",
+      "address": "Generała Sikorskiego 89",
+      "city": "Gubin",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18849.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17402,
+      "name": "Karkonosze Jelenia Góra",
+      "code": null,
+      "country": "Poland",
+      "founded": 1953,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17402.png"
+    },
+    "venue": {
+      "id": 19259,
+      "name": "Stadion Miejski",
+      "address": "Złotnicza 12",
+      "city": "Jelenia Góra",
+      "capacity": 1558,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19259.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17403,
+      "name": "Czarni Połaniec",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17403.png"
+    },
+    "venue": {
+      "id": 12156,
+      "name": "Stadion MKS Czarni Połaniec",
+      "address": "Sportowa 1",
+      "city": "Połaniec",
+      "capacity": 900,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12156.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17404,
+      "name": "Korona Rzeszow",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17404.png"
+    },
+    "venue": {
+      "id": 5075,
+      "name": "Stadion Stal",
+      "address": "ul. Hetmańska 69",
+      "city": "Rzeszów",
+      "capacity": 12700,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5075.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17405,
+      "name": "Tomasovia Tomaszów",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17405.png"
+    },
+    "venue": {
+      "id": 12157,
+      "name": "Stadion Miejski",
+      "address": "Aleja Sportowa 8",
+      "city": "Tomaszów Lubelski",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12157.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17699,
+      "name": "Pogoń Szczecin U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17699.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17741,
+      "name": "Powiśle Dzierzgoń",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17741.png"
+    },
+    "venue": {
+      "id": 20777,
+      "name": "Stadion DKS Powiśle Dzierzgoń",
+      "address": "Krzywa 19",
+      "city": "Dzierzgoń",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20777.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17742,
+      "name": "Włocłavia Włocławek",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17742.png"
+    },
+    "venue": {
+      "id": 12392,
+      "name": "Stadion Kujawiaka Włocławek",
+      "address": "ul. Leśna 53A",
+      "city": "Włocławek",
+      "capacity": 4840,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12392.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17970,
+      "name": "Poland U17",
+      "code": null,
+      "country": "Poland",
+      "founded": 1919,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/17970.png"
+    },
+    "venue": {
+      "id": 1245,
+      "name": "Stadion Narodowy",
+      "address": "Aleja Księcia J. Poniatowskiego 1",
+      "city": "Warszawa",
+      "capacity": 58145,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1245.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18165,
+      "name": "Glinik Gorlice",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18165.png"
+    },
+    "venue": {
+      "id": 12633,
+      "name": "Stadion GKS Glinik w Gorlicach",
+      "address": "Henryka Sienkiewicza 15",
+      "city": "Gorlice",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12633.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18383,
+      "name": "Centra Ostrow Wielkopolski",
+      "code": null,
+      "country": "Poland",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18383.png"
+    },
+    "venue": {
+      "id": 12732,
+      "name": "Stadion Miejski",
+      "address": "ul. Józefa Piłsudskiego",
+      "city": "Ostrów Wielkopolski",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12732.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18385,
+      "name": "Gedania Gdansk",
+      "code": null,
+      "country": "Poland",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18385.png"
+    },
+    "venue": {
+      "id": 12733,
+      "name": "Boisko Gedania 1922 Gdańsk",
+      "address": "gen. Józefa Hallera 201",
+      "city": "Gdańsk",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12733.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18407,
+      "name": "Radzionkow",
+      "code": null,
+      "country": "Poland",
+      "founded": 1919,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18407.png"
+    },
+    "venue": {
+      "id": 19263,
+      "name": "Stadion Ruch Radzionków",
+      "address": "Knosały 113",
+      "city": "Radzionków",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19263.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18408,
+      "name": "Solec K.",
+      "code": null,
+      "country": "Poland",
+      "founded": 1924,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18408.png"
+    },
+    "venue": {
+      "id": 18707,
+      "name": "Stadion OSiR",
+      "address": "ul Sportowa 1",
+      "city": "Solec Kujawski",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18707.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19053,
+      "name": "UKS Łódź",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19053.png"
+    },
+    "venue": {
+      "id": 22143,
+      "name": "Stadion UKS SMS",
+      "address": "ul. Milionowa 12",
+      "city": "Łódź",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/22143.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19131,
+      "name": "Victoria Horia",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19131.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19233,
+      "name": "Grünwald",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19233.png"
+    },
+    "venue": {
+      "id": 18719,
+      "name": "Stadion Miejski",
+      "address": "Kłodnicka 58",
+      "city": "Ruda Śląska-Halemba",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18719.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19246,
+      "name": "Kuźnia Ustroń",
+      "code": null,
+      "country": "Poland",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19246.png"
+    },
+    "venue": {
+      "id": 18726,
+      "name": "Stadion Kuźni Ustroń",
+      "address": "Sportowa 3",
+      "city": "Ustroń, Poland",
+      "capacity": 680,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18726.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19618,
+      "name": "Mławianka Mława",
+      "code": null,
+      "country": "Poland",
+      "founded": 1923,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19618.png"
+    },
+    "venue": {
+      "id": 20778,
+      "name": "Stadion MOSiR Mlawa",
+      "address": "Mikołaja Kopernika 38",
+      "city": "Mlawa",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20778.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19619,
+      "name": "Warta Sieradz",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19619.png"
+    },
+    "venue": {
+      "id": 18847,
+      "name": "Stadion MOSiR",
+      "address": "Sportowa 1",
+      "city": "Sieradz",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18847.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19620,
+      "name": "Vineta Wolin",
+      "code": null,
+      "country": "Poland",
+      "founded": 1979,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19620.png"
+    },
+    "venue": {
+      "id": 18848,
+      "name": "Stadion Miejski",
+      "address": "Świerczewskiego 3",
+      "city": "Wolin",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18848.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19621,
+      "name": "Chrobry Głogów II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19621.png"
+    },
+    "venue": {
+      "id": 18850,
+      "name": "MZKS Głogów Boisko piłkarskie",
+      "address": "ul. Wita Stwosza 3",
+      "city": "Głogów",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18850.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19622,
+      "name": "Raków Częstochowa II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19622.png"
+    },
+    "venue": {
+      "id": 19830,
+      "name": "Boisko sztuczna murawa Raków",
+      "address": "Raków",
+      "city": "Częstochowa",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19830.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19623,
+      "name": "Lublinianka",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19623.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19661,
+      "name": "Chojniczanka Chojnice II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19661.png"
+    },
+    "venue": {
+      "id": 2283,
+      "name": "Stadion Miejski Chojnice",
+      "address": "ul. Mickiewicza 12",
+      "city": "Chojnice",
+      "capacity": 4500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2283.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19693,
+      "name": "Luzino",
+      "code": null,
+      "country": "Poland",
+      "founded": 2009,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19693.png"
+    },
+    "venue": {
+      "id": 19829,
+      "name": "Boisko za płytą główną GOSRiT Luzino",
+      "address": "Adama Mickiewicza 22",
+      "city": "Luzino",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19829.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19698,
+      "name": "Nieciecza II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19698.png"
+    },
+    "venue": {
+      "id": 18632,
+      "name": "Stadion Sportowy Bruk-Bet Termalica",
+      "address": "ul. Nieciecza 150",
+      "city": "Nieciecza",
+      "capacity": 4666,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18632.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19713,
+      "name": "Sparta KW",
+      "code": null,
+      "country": "Poland",
+      "founded": 1927,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19713.png"
+    },
+    "venue": {
+      "id": 21911,
+      "name": "Stadion Miejski",
+      "address": "Głowackiego 42",
+      "city": "Kazimierza Wielka",
+      "capacity": 800,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21911.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19723,
+      "name": "Victoria Września",
+      "code": null,
+      "country": "Poland",
+      "founded": 1931,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19723.png"
+    },
+    "venue": {
+      "id": 21904,
+      "name": "Stadion Miejski",
+      "address": "Kosynierów 1",
+      "city": "Września",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21904.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19728,
+      "name": "Wiślanie Jaśkowice",
+      "code": null,
+      "country": "Poland",
+      "founded": 1981,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19728.png"
+    },
+    "venue": {
+      "id": 19833,
+      "name": "Stadion Milenium",
+      "address": "Torowa 46",
+      "city": "Skawina",
+      "capacity": 600,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19833.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19742,
+      "name": "Lechia Dzierżoniów",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19742.png"
+    },
+    "venue": {
+      "id": 18902,
+      "name": "Stadion im. Jerzego Michałowicza",
+      "address": "Wrocławska 47",
+      "city": "Dzierżoniów",
+      "capacity": 4500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18902.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19743,
+      "name": "Start Jełowa",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19743.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19749,
+      "name": "Miedź Legnica U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19749.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20244,
+      "name": "Zagłębie Lubin U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20244.png"
+    },
+    "venue": {
+      "id": 1260,
+      "name": "Stadion Zagłębia Lubin",
+      "address": "ul. Marii Skłodowskiej Curie 98",
+      "city": "Lubin",
+      "capacity": 16068,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1260.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20587,
+      "name": "Arka Gdynia U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20587.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20588,
+      "name": "Cracovia U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20588.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20589,
+      "name": "Escola Varsovia U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20589.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20590,
+      "name": "Jagiellonia U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20590.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20591,
+      "name": "Lechia Gdańsk U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20591.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20592,
+      "name": "Miedź Legnica U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20592.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20593,
+      "name": "Polonia Warszawa U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20593.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20594,
+      "name": "Raków Częstochowa U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20594.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20595,
+      "name": "Wisła Kraków U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20595.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20596,
+      "name": "Śląsk Wrocław U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20596.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20625,
+      "name": "Cartusia Kartuzy",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20625.png"
+    },
+    "venue": {
+      "id": 19394,
+      "name": "Stadion Gminny",
+      "address": "3 Maja 39",
+      "city": "Kartuzy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19394.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20824,
+      "name": "Mlawa",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20824.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20827,
+      "name": "Ceramika Opoczno",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20827.png"
+    },
+    "venue": {
+      "id": 19432,
+      "name": "Stadion Ceramika Opoczno",
+      "address": "al. Sportowa 1",
+      "city": "Opoczno",
+      "capacity": 4700,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19432.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20830,
+      "name": "Jarosław",
+      "code": null,
+      "country": "Poland",
+      "founded": 1938,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20830.png"
+    },
+    "venue": {
+      "id": 19433,
+      "name": "Stadion JKS-u",
+      "address": "ul. Bandurskiego 2",
+      "city": "Jarosław",
+      "capacity": 1674,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19433.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20863,
+      "name": "Polonia Przemyśl",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20863.png"
+    },
+    "venue": {
+      "id": 19462,
+      "name": "Stadion ul. Sanocka",
+      "address": "Sanocka 18",
+      "city": "Przemyśl",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19462.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20877,
+      "name": "Zagłębie Sosnowiec II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20877.png"
+    },
+    "venue": {
+      "id": 19717,
+      "name": "Boisko Kresowa 1",
+      "address": "Kresowa 1",
+      "city": "Sosnowiec",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19717.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21455,
+      "name": "Odra Bytom Odrzański",
+      "code": null,
+      "country": "Poland",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21455.png"
+    },
+    "venue": {
+      "id": 19769,
+      "name": "Stadion miejski w Bytomiu Odrzańskim",
+      "address": "Sportowa 12",
+      "city": "Bytom Odrzański",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19769.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21475,
+      "name": "Poland U16",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/21475.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21476,
+      "name": "Poland U18",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/21476.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21522,
+      "name": "Kuźnia Jawor",
+      "code": null,
+      "country": "Poland",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21522.png"
+    },
+    "venue": {
+      "id": 19992,
+      "name": "Stadion Miejski w Jaworze",
+      "address": "Parkowa 8",
+      "city": "Jawor",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19992.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21584,
+      "name": "GKS Katowice W",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21584.png"
+    },
+    "venue": {
+      "id": 2285,
+      "name": "Stadion ul. Bukowa",
+      "address": "ul. Bukowa 1",
+      "city": "Katowice",
+      "capacity": 10052,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2285.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21655,
+      "name": "Victoria Sulejówek",
+      "code": null,
+      "country": "Poland",
+      "founded": 1957,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21655.png"
+    },
+    "venue": {
+      "id": 19827,
+      "name": "Stadion Miejski",
+      "address": "Krasińskiego 6",
+      "city": "Sulejówek",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19827.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21656,
+      "name": "Łomża",
+      "code": null,
+      "country": "Poland",
+      "founded": 1926,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21656.png"
+    },
+    "venue": {
+      "id": 19828,
+      "name": "Stadion Miejski",
+      "address": "ul. Zjazd 18",
+      "city": "Łomża",
+      "capacity": 3440,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19828.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21657,
+      "name": "Noteć Czarnków",
+      "code": null,
+      "country": "Poland",
+      "founded": 1920,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21657.png"
+    },
+    "venue": {
+      "id": 19995,
+      "name": "Stadion Noteć Czarnków",
+      "address": "Nowa 8",
+      "city": "Czarnków",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19995.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21658,
+      "name": "Starowice Dolne",
+      "code": null,
+      "country": "Poland",
+      "founded": 2002,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21658.png"
+    },
+    "venue": {
+      "id": 19831,
+      "name": "Stadion Starowice Dolne",
+      "address": "Starowice Dolne",
+      "city": "Gmina Grodków",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19831.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21659,
+      "name": "Unia Turza Śląska",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21659.png"
+    },
+    "venue": {
+      "id": 19832,
+      "name": "Stadion LKS Unia Turza Śląska",
+      "address": "ul. Bogumińska 17",
+      "city": "Turza Śląska",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19832.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21660,
+      "name": "Star Starachowice",
+      "code": null,
+      "country": "Poland",
+      "founded": 1926,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21660.png"
+    },
+    "venue": {
+      "id": 19996,
+      "name": "Stadion Miejski",
+      "address": "Szkolna 14",
+      "city": "Starachowice",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19996.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21661,
+      "name": "Świdniczanka Świdnik",
+      "code": null,
+      "country": "Poland",
+      "founded": 1960,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21661.png"
+    },
+    "venue": {
+      "id": 11364,
+      "name": "Stadion Świdnik",
+      "address": "Sportowa 2",
+      "city": "Świdnik",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11364.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21859,
+      "name": "Odra Opole U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21859.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21860,
+      "name": "Sandecja Nowy Sącz U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21860.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21861,
+      "name": "Warta Poznań U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21861.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21862,
+      "name": "Widzew Łódź U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21862.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22197,
+      "name": "Start Krasnystaw",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22197.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22257,
+      "name": "Akademia Piłkarska LG",
+      "code": null,
+      "country": "Poland",
+      "founded": 2010,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22257.png"
+    },
+    "venue": {
+      "id": 22144,
+      "name": "Boisko przy Zespole Szkół Morskich",
+      "address": "Wyzwolenia 8",
+      "city": "Gdańsk",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22144.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22259,
+      "name": "Pogon Szczecin W",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22259.png"
+    },
+    "venue": {
+      "id": 22145,
+      "name": "Stadion Floriana Krygiera boisko nr. 3",
+      "address": "Mieczysława Karłowicza 28",
+      "city": "Szczecin",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22145.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22260,
+      "name": "Pogon Tczew W",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22260.png"
+    },
+    "venue": {
+      "id": 22146,
+      "name": "Stadion przy ulicy Elżbiety",
+      "address": "Elżbiety 21a",
+      "city": "Tczew",
+      "capacity": 1200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22146.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22261,
+      "name": "Rekord Bielsko-Biala W",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22261.png"
+    },
+    "venue": {
+      "id": 5068,
+      "name": "Stadion BTS Rekord",
+      "address": "ul. Startowa 13",
+      "city": "Bielsko-Biała",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5068.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22262,
+      "name": "Slask Wroclaw W",
+      "code": null,
+      "country": "Poland",
+      "founded": 2020,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22262.png"
+    },
+    "venue": {
+      "id": 22147,
+      "name": "Boisko Sportowe GEM",
+      "address": "ul. Mianowskiego 2b, Śródmieście",
+      "city": "Wrocław",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/22147.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22263,
+      "name": "Stomilanki Olsztyn W",
+      "code": null,
+      "country": "Poland",
+      "founded": 2011,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22263.png"
+    },
+    "venue": {
+      "id": 2295,
+      "name": "Stadion OSiR",
+      "address": "ul. Marszałka Józefa Piłsudskiego 69A",
+      "city": "Olsztyn",
+      "capacity": 16800,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2295.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22264,
+      "name": "UJ Krakow W",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22264.png"
+    },
+    "venue": {
+      "id": 22148,
+      "name": "Stadion Miejski KS Prądniczanka",
+      "address": "świętego Andrzeja Boboli 5",
+      "city": "Krakow",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/22148.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22896,
+      "name": "Calisia Kalisz",
+      "code": null,
+      "country": "Poland",
+      "founded": 1925,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22896.png"
+    },
+    "venue": {
+      "id": 8157,
+      "name": "Stadion OSRiR",
+      "address": "ul. Łódzka 19-29",
+      "city": "Kalisz",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8157.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22907,
+      "name": "Piast Nowa Ruda",
+      "code": null,
+      "country": "Poland",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22907.png"
+    },
+    "venue": {
+      "id": 20528,
+      "name": "Stadion KS Piast Nowa Ruda",
+      "address": "Sportowa 1",
+      "city": "Nowa Ruda",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20528.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22910,
+      "name": "Sparta Katowice",
+      "code": null,
+      "country": "Poland",
+      "founded": 1924,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22910.png"
+    },
+    "venue": {
+      "id": 20531,
+      "name": "Stadion Rapid",
+      "address": "ul. Grażyńskiego 51, Koszutka",
+      "city": "Katowice",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20531.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23046,
+      "name": "Wisła Płock II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23046.png"
+    },
+    "venue": {
+      "id": 20574,
+      "name": "Stadion Miejski im. Bernarda Szymańskiego",
+      "address": "Sportowa 3",
+      "city": "Płock",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20574.png"
+    }
+  },
+  {
+    "team": {
+      "id": 24324,
+      "name": "Wisła Kraków II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24324.png"
+    },
+    "venue": {
+      "id": 21913,
+      "name": "Stadion KS Dalin",
+      "address": "Zdrojowa 7a",
+      "city": "Myślenice",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21913.png"
+    }
+  },
+  {
+    "team": {
+      "id": 24325,
+      "name": "Podlesianka",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24325.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24326,
+      "name": "Polonia Słubice",
+      "code": null,
+      "country": "Poland",
+      "founded": 1945,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24326.png"
+    },
+    "venue": {
+      "id": 20871,
+      "name": "Stadion SOSiR",
+      "address": "ul. Sportowa 1",
+      "city": "Słubice",
+      "capacity": 7000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20871.png"
+    }
+  },
+  {
+    "team": {
+      "id": 24327,
+      "name": "Kotwica Kórnik",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24327.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24328,
+      "name": "Wda Świecie",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24328.png"
+    },
+    "venue": {
+      "id": 20872,
+      "name": "Stadion Miejski",
+      "address": "Sienkiewicza 18",
+      "city": "Świecie nad Wisłą",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20872.png"
+    }
+  },
+  {
+    "team": {
+      "id": 24329,
+      "name": "Wybrzeże Rewalskie Rewal",
+      "code": null,
+      "country": "Poland",
+      "founded": 1973,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24329.png"
+    },
+    "venue": {
+      "id": 21905,
+      "name": "Boisko LKS Wybrzeże Rewalskie",
+      "address": "Szkolna 1",
+      "city": "Rewal",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21905.png"
+    }
+  },
+  {
+    "team": {
+      "id": 24330,
+      "name": "Polonia Lidzbark Warm.",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24330.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24369,
+      "name": "LSS Voința Sibiu",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24369.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24392,
+      "name": "Resovia Rzeszów W",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24392.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24393,
+      "name": "Skra Częstochowa W",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24393.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24519,
+      "name": "Stal Rzeszów U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24519.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24785,
+      "name": "Barycz Sułów",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24785.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24786,
+      "name": "Grom Nowy Staw",
+      "code": null,
+      "country": "Poland",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24786.png"
+    },
+    "venue": {
+      "id": 21190,
+      "name": "Stadion Miejski OSiR Nowy Staw",
+      "address": "Sportowa 5",
+      "city": "Nowy Staw",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21190.png"
+    }
+  },
+  {
+    "team": {
+      "id": 24787,
+      "name": "Podbeskidzie II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24787.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25232,
+      "name": "Poland U17 W",
+      "code": null,
+      "country": "Poland",
+      "founded": 1919,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/25232.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26028,
+      "name": "Poland U19 W",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/26028.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26149,
+      "name": "Lech Poznan W",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26149.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26177,
+      "name": "Troszyn",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26177.png"
+    },
+    "venue": {
+      "id": 21900,
+      "name": "Stadion Piłkarski KS CK Troszyn",
+      "address": "Juliusza Słowackiego",
+      "city": "Troszyn",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21900.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26178,
+      "name": "Widzew II",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26178.png"
+    },
+    "venue": {
+      "id": 21901,
+      "name": "Stadion MOSiR Łódź",
+      "address": "Stanisława Małachowskiego 9",
+      "city": "Łódź",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21901.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26179,
+      "name": "Ząbkovia Ząbki",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26179.png"
+    },
+    "venue": {
+      "id": 21902,
+      "name": "Stadion Dolcanu Ząbki",
+      "address": "ul. Słowackiego 21",
+      "city": "Ząbki",
+      "capacity": 3583,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21902.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26180,
+      "name": "Lipno Stęszew",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26180.png"
+    },
+    "venue": {
+      "id": 21906,
+      "name": "Boisko Lipno Stęszew",
+      "address": "Trzebawska 15",
+      "city": "Stęszew",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21906.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26181,
+      "name": "Tłuchowia",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26181.png"
+    },
+    "venue": {
+      "id": 21907,
+      "name": "Boisko GZS Tłuchowia Tłuchowo",
+      "address": null,
+      "city": "Tłuchówek",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21907.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26182,
+      "name": "Stal Jasień",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26182.png"
+    },
+    "venue": {
+      "id": 21909,
+      "name": "Stadion MKS Stal Jasień",
+      "address": "Żarska 48",
+      "city": "Jasień",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21909.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26183,
+      "name": "Słowianin",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26183.png"
+    },
+    "venue": {
+      "id": 21910,
+      "name": "Boisko Wolibòrz",
+      "address": null,
+      "city": "Wolibórz",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21910.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26184,
+      "name": "Naprzód",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26184.png"
+    },
+    "venue": {
+      "id": 21914,
+      "name": "Stadion Naprzód",
+      "address": "Sportowa 1",
+      "city": "Jędrzejów",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21914.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26185,
+      "name": "Sokół Kolb.",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26185.png"
+    },
+    "venue": {
+      "id": 21915,
+      "name": "Stadion Kolbuszowa Dolna",
+      "address": "ul. Nad Nilem 6",
+      "city": "Kolbuszowa Dolna",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21915.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26309,
+      "name": "Arkonia Szczecin U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26309.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26310,
+      "name": "Znicz Pruszkow Youth",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26310.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26374,
+      "name": "Arkonia U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26374.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26375,
+      "name": "Resovia U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26375.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26376,
+      "name": "Znicz Pruszków U19",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26376.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26386,
+      "name": "Beskid",
+      "code": null,
+      "country": "Poland",
+      "founded": 1919,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26386.png"
+    },
+    "venue": {
+      "id": 22311,
+      "name": "Stadion Miejski ul. Kościuszki",
+      "address": "Kościuszki 1",
+      "city": "Andrychów",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22311.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26405,
+      "name": "Małapanew",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26405.png"
+    },
+    "venue": {
+      "id": 22598,
+      "name": "Stadion Miejski w Ozimku",
+      "address": "Częstochowska 27",
+      "city": "Ozimek",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22598.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26668,
+      "name": "Goczałkowice Zdrój B",
+      "code": null,
+      "country": "Poland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26668.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

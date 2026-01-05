@@ -1,0 +1,4082 @@
+[
+  {
+    "team": {
+      "id": 552,
+      "name": "Maribor",
+      "code": "MAR",
+      "country": "Slovenia",
+      "founded": 1960,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/552.png"
+    },
+    "venue": {
+      "id": 1441,
+      "name": "Ljudski vrt",
+      "address": "Mladinska ul. 29",
+      "city": "Maribor",
+      "capacity": 12994,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1441.png"
+    }
+  },
+  {
+    "team": {
+      "id": 615,
+      "name": "NK Domzale",
+      "code": "DOM",
+      "country": "Slovenia",
+      "founded": 1921,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/615.png"
+    },
+    "venue": {
+      "id": 1440,
+      "name": "Športni Park",
+      "address": "Kopališka cesta 4",
+      "city": "Domžale",
+      "capacity": 3100,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1440.png"
+    }
+  },
+  {
+    "team": {
+      "id": 677,
+      "name": "Olimpija Ljubljana",
+      "code": "LJU",
+      "country": "Slovenia",
+      "founded": 1911,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/677.png"
+    },
+    "venue": {
+      "id": 1442,
+      "name": "Stadion Stožice",
+      "address": null,
+      "city": "Ljubljana",
+      "capacity": 16432,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1442.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1091,
+      "name": "Slovenia",
+      "code": "SLO",
+      "country": "Slovenia",
+      "founded": 1920,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1091.png"
+    },
+    "venue": {
+      "id": 3332,
+      "name": "Stadion Z'dežele",
+      "address": "Opekarniška cesta 15a",
+      "city": "Celje",
+      "capacity": 13059,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3332.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1774,
+      "name": "Slovenia W",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1920,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1774.png"
+    },
+    "venue": {
+      "id": 11939,
+      "name": "Športni Park Šiška",
+      "address": "Milčinskega ulica 2",
+      "city": "Ljubljana",
+      "capacity": 2308,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11939.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4197,
+      "name": "Mura",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 2012,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4197.png"
+    },
+    "venue": {
+      "id": 3201,
+      "name": "Mestni Štadion Fazanerija",
+      "address": "Kopališka ulica 45",
+      "city": "Murska Sobota",
+      "capacity": 5400,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3201.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4358,
+      "name": "Aluminij",
+      "code": "ALU",
+      "country": "Slovenia",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4358.png"
+    },
+    "venue": {
+      "id": 3330,
+      "name": "Športni Park Aluminij",
+      "address": "Kajuhova 16",
+      "city": "Kidričevo",
+      "capacity": 2600,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3330.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4359,
+      "name": "Bravo",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 2006,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4359.png"
+    },
+    "venue": {
+      "id": 11939,
+      "name": "Športni Park Šiška",
+      "address": "Milčinskega ulica 2",
+      "city": "Ljubljana",
+      "capacity": 2308,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11939.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4360,
+      "name": "Celje",
+      "code": "CEL",
+      "country": "Slovenia",
+      "founded": 1919,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4360.png"
+    },
+    "venue": {
+      "id": 3332,
+      "name": "Stadion Z'dežele",
+      "address": "Opekarniška cesta 15a",
+      "city": "Celje",
+      "capacity": 13059,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3332.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4361,
+      "name": "Rudar",
+      "code": "VEL",
+      "country": "Slovenia",
+      "founded": 1948,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4361.png"
+    },
+    "venue": {
+      "id": 3333,
+      "name": "Štadion Ob Jezeru",
+      "address": "Cesta na jezero 7",
+      "city": "Velenje",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3333.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4362,
+      "name": "Tabor Sežana",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1923,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4362.png"
+    },
+    "venue": {
+      "id": 3334,
+      "name": "Stadion Rajko Štolfa",
+      "address": "Kosovelova 4b",
+      "city": "Sežana",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3334.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4363,
+      "name": "Triglav",
+      "code": "TRI",
+      "country": "Slovenia",
+      "founded": 1920,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4363.png"
+    },
+    "venue": {
+      "id": 3335,
+      "name": "Športni Center Stanko Mlakar",
+      "address": "Partizanska cesta 39",
+      "city": "Kranj",
+      "capacity": 2077,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3335.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4364,
+      "name": "Gorica",
+      "code": "GOR",
+      "country": "Slovenia",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4364.png"
+    },
+    "venue": {
+      "id": 3336,
+      "name": "Športni Park",
+      "address": "Bazoviška ulica 4",
+      "city": "Nova Gorica",
+      "capacity": 3066,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3336.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4365,
+      "name": "Krško",
+      "code": "KRS",
+      "country": "Slovenia",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4365.png"
+    },
+    "venue": {
+      "id": 3337,
+      "name": "Štadion Matije Gubca",
+      "address": "Cesta Krških žrtev 130a",
+      "city": "Krško",
+      "capacity": 13728,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3337.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4366,
+      "name": "Beltinci",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 2007,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4366.png"
+    },
+    "venue": {
+      "id": 3338,
+      "name": "Športni park Beltinci",
+      "address": "Mladinska 2",
+      "city": "Beltinci",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3338.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4367,
+      "name": "Bilje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4367.png"
+    },
+    "venue": {
+      "id": 3339,
+      "name": "Stadion V dolinci",
+      "address": "Bilje 3",
+      "city": "Renče",
+      "capacity": 1300,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3339.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4368,
+      "name": "Brda Dobrovo",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4368.png"
+    },
+    "venue": {
+      "id": 3340,
+      "name": "Igrišče v Vipolžah",
+      "address": "Vipolže 20D",
+      "city": "Dobrovo",
+      "capacity": 600,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3340.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4369,
+      "name": "Brežice",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1919,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4369.png"
+    },
+    "venue": {
+      "id": 3341,
+      "name": "Stadion Brežice",
+      "address": "Ob stadionu",
+      "city": "Brežice",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3341.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4370,
+      "name": "Dekani",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1938,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4370.png"
+    },
+    "venue": {
+      "id": 3342,
+      "name": "Igrišče Ivan Gregorič",
+      "address": "Dekani 75 A",
+      "city": "Dekani",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3342.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4371,
+      "name": "Dob",
+      "code": "DOB",
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4371.png"
+    },
+    "venue": {
+      "id": 19113,
+      "name": "Športni Park Dob",
+      "address": "Ljubljanska cesta 33",
+      "city": "Dob pri Domžalah",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19113.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4372,
+      "name": "Dravograd",
+      "code": "DRA",
+      "country": "Slovenia",
+      "founded": 1948,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4372.png"
+    },
+    "venue": {
+      "id": 3344,
+      "name": "Športni center Dravograd",
+      "address": "Prežihova ulica",
+      "city": "Dravograd",
+      "capacity": 2118,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3344.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4373,
+      "name": "Fužinar",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1937,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4373.png"
+    },
+    "venue": {
+      "id": 11940,
+      "name": "Športni center Vinka Cajnka",
+      "address": "Kopališka ulica",
+      "city": "Slovenj Gradec",
+      "capacity": 1050,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11940.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4374,
+      "name": "Koper",
+      "code": "KOP",
+      "country": "Slovenia",
+      "founded": 1920,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4374.png"
+    },
+    "venue": {
+      "id": 3346,
+      "name": "ŠRC Bonifika",
+      "address": "Ljubljanska cesta 2",
+      "city": "Koper",
+      "capacity": 4190,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3346.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4375,
+      "name": "Krka",
+      "code": "KRK",
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4375.png"
+    },
+    "venue": {
+      "id": 3347,
+      "name": "Stadion Portoval",
+      "address": "Topliška cesta 4",
+      "city": "Novo mesto",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3347.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4376,
+      "name": "Nafta",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1903,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4376.png"
+    },
+    "venue": {
+      "id": 3348,
+      "name": "Športni park Lendava",
+      "address": "Kolodvorska ul. 7",
+      "city": "Lendava",
+      "capacity": 3020,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3348.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4377,
+      "name": "NŠ Drava",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 2004,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4377.png"
+    },
+    "venue": {
+      "id": 3349,
+      "name": "Mestni Štadion",
+      "address": "Čučkova ul. 7",
+      "city": "Ptuj",
+      "capacity": 3200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3349.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4378,
+      "name": "Radomlje",
+      "code": "RAD",
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4378.png"
+    },
+    "venue": {
+      "id": 1440,
+      "name": "Športni Park",
+      "address": "Kopališka cesta 4",
+      "city": "Domžale",
+      "capacity": 3100,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1440.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4379,
+      "name": "Rogaška",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1999,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4379.png"
+    },
+    "venue": {
+      "id": 3351,
+      "name": "Športni center Rogaška Slatina",
+      "address": "Sotelska Cesta 55",
+      "city": "Rogaška Slatina",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3351.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4380,
+      "name": "Ankaran Hrvatini",
+      "code": "ANK",
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4380.png"
+    },
+    "venue": {
+      "id": 3336,
+      "name": "Športni Park",
+      "address": "Bazoviška ulica 4",
+      "city": "Nova Gorica",
+      "capacity": 3066,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3336.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4381,
+      "name": "Ilirija",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1911,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4381.png"
+    },
+    "venue": {
+      "id": 3352,
+      "name": "Športni park Ilirija",
+      "address": "Vodnikova 155",
+      "city": "Ljubljana",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3352.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6718,
+      "name": "Bistrica",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1958,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6718.png"
+    },
+    "venue": {
+      "id": 4906,
+      "name": "Stadion Srednja Bistrica",
+      "address": "Srednja Bistrica 49 b",
+      "city": "Srednja Bistrica",
+      "capacity": 750,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4906.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6719,
+      "name": "Bled",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1938,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6719.png"
+    },
+    "venue": {
+      "id": 4907,
+      "name": "Športni park Bledec",
+      "address": null,
+      "city": "Bled",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4907.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6720,
+      "name": "Dobrovce",
+      "code": "DOB",
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6720.png"
+    },
+    "venue": {
+      "id": 11409,
+      "name": "Športni park",
+      "address": "Kidričeva cesta 55",
+      "city": "Dobrovce",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11409.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6721,
+      "name": "Grad",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6721.png"
+    },
+    "venue": {
+      "id": 4908,
+      "name": "Stadion NK Grad",
+      "address": "Grad 172",
+      "city": "Grad",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4908.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6722,
+      "name": "Odranci",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1973,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6722.png"
+    },
+    "venue": {
+      "id": 9624,
+      "name": "Športni park",
+      "address": "Prešernova 23",
+      "city": "Odranci",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/9624.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6723,
+      "name": "Partizan Pesnica",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6723.png"
+    },
+    "venue": {
+      "id": 4910,
+      "name": "Stadion NK Pesnica",
+      "address": "Pesnica pri Mariboru",
+      "city": "Pesnica",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4910.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6724,
+      "name": "Tolmin",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6724.png"
+    },
+    "venue": {
+      "id": 4911,
+      "name": "Stadion Na Brajdi",
+      "address": "Ulica padlih borcev 1D",
+      "city": "Tolmin",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4911.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6725,
+      "name": "Videm",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6725.png"
+    },
+    "venue": {
+      "id": 4912,
+      "name": "Športni park Videm",
+      "address": "Videm pri Ptuju 49",
+      "city": "Videm pri Ptuju",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4912.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6726,
+      "name": "Šampion Celje",
+      "code": "CEL",
+      "country": "Slovenia",
+      "founded": 1995,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6726.png"
+    },
+    "venue": {
+      "id": 4913,
+      "name": "Igrišče Olimp",
+      "address": "Opekarniška cesta 4",
+      "city": "Celje",
+      "capacity": 500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/4913.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6727,
+      "name": "Šencur",
+      "code": "SEN",
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6727.png"
+    },
+    "venue": {
+      "id": 4914,
+      "name": "Športni park",
+      "address": "Pipanova 45",
+      "city": "Šenčur",
+      "capacity": 800,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4914.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8231,
+      "name": "Slovenia U21",
+      "code": "SLO",
+      "country": "Slovenia",
+      "founded": 1920,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/8231.png"
+    },
+    "venue": {
+      "id": 1442,
+      "name": "Stadion Stožice",
+      "address": null,
+      "city": "Ljubljana",
+      "capacity": 16038,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1442.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10348,
+      "name": "Slovenia U19",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10348.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 12744,
+      "name": "Brinje-Grosuplje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 2003,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12744.png"
+    },
+    "venue": {
+      "id": 8102,
+      "name": "Stadion Brinje",
+      "address": "Ob Grosupeljščici 19",
+      "city": "Grosuplje",
+      "capacity": 1200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8102.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12904,
+      "name": "Šmartno",
+      "code": "SMA",
+      "country": "Slovenia",
+      "founded": 1928,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12904.png"
+    },
+    "venue": {
+      "id": 8244,
+      "name": "Štadion Šmartno ob Paki",
+      "address": "Šmartno ob Paki 117",
+      "city": "Šmartno ob Paki",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8244.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14007,
+      "name": "Primorje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 2011,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14007.png"
+    },
+    "venue": {
+      "id": 18694,
+      "name": "Nogometni stadion Ajdovščina",
+      "address": "Goriška cesta 44",
+      "city": "Ajdovščina",
+      "capacity": 1705,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18694.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14451,
+      "name": "Adria",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14451.png"
+    },
+    "venue": {
+      "id": 11415,
+      "name": "Igrišče Pri Štantu Miren",
+      "address": "Miren 186b",
+      "city": "Miren",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11415.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14452,
+      "name": "Bohinj",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1955,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14452.png"
+    },
+    "venue": {
+      "id": 9627,
+      "name": "Stadion Danica",
+      "address": "Pot v Danico 1",
+      "city": "Bohinjska Bistrica",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/9627.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14453,
+      "name": "Mons Claudius",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14453.png"
+    },
+    "venue": {
+      "id": 9628,
+      "name": "Rogatec Športni Park",
+      "address": "Ptujska cesta 25",
+      "city": "Rogatec",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/9628.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14454,
+      "name": "Čarda Martjanci",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14454.png"
+    },
+    "venue": {
+      "id": 9629,
+      "name": "Nogometno igrišče v Martjancih",
+      "address": "Martjanci 19",
+      "city": "Martjanci",
+      "capacity": 1200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/9629.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14509,
+      "name": "NK Polana",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1977,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14509.png"
+    },
+    "venue": {
+      "id": 10388,
+      "name": null,
+      "address": null,
+      "city": "Velika Polana",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10388.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16301,
+      "name": "Cirkulane",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16301.png"
+    },
+    "venue": {
+      "id": 12104,
+      "name": "Športni park",
+      "address": "Dolane 8",
+      "city": "Cirkulane",
+      "capacity": 800,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12104.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16302,
+      "name": "Dravinja",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1934,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16302.png"
+    },
+    "venue": {
+      "id": 11410,
+      "name": "Štadion Dobrava",
+      "address": "Dobrava pri Konjicah 2",
+      "city": "Slovenske Konjice",
+      "capacity": 1200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11410.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16303,
+      "name": "Korotan Prevalje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 2002,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16303.png"
+    },
+    "venue": {
+      "id": 21123,
+      "name": "Športni park Ugasle peči",
+      "address": "Ugasle peči 1",
+      "city": "Prevalje",
+      "capacity": 1800,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21123.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16304,
+      "name": "Podvinci",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1979,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16304.png"
+    },
+    "venue": {
+      "id": 11412,
+      "name": "Stadion Podvinci",
+      "address": "Podvinci 46",
+      "city": "Podvici",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11412.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16305,
+      "name": "Zreče",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16305.png"
+    },
+    "venue": {
+      "id": 11413,
+      "name": "Zreški Stadion",
+      "address": "Šolska cesta 3",
+      "city": "Zreče",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11413.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16306,
+      "name": "Šmarje pri Jelšah",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16306.png"
+    },
+    "venue": {
+      "id": 11414,
+      "name": "Stadion Šmarje pri Jelšah",
+      "address": null,
+      "city": "Šmarje pri Jelšah",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11414.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16307,
+      "name": "Izola",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1996,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16307.png"
+    },
+    "venue": {
+      "id": 11416,
+      "name": "Mestni stadion Izola",
+      "address": "Cankarjev drevored 28",
+      "city": "Izola",
+      "capacity": 6729,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11416.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16308,
+      "name": "Postojna",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16308.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16309,
+      "name": "Sava Kranj",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1933,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16309.png"
+    },
+    "venue": {
+      "id": 11417,
+      "name": "Športni park Stražišče",
+      "address": "Škofjeloška cesta 12",
+      "city": "Kranj",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11417.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16310,
+      "name": "Svoboda",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1952,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16310.png"
+    },
+    "venue": {
+      "id": 11418,
+      "name": "Športni park Svoboda",
+      "address": "Gerbičeva 61A",
+      "city": "Ljubljana",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11418.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16311,
+      "name": "Vipava",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16311.png"
+    },
+    "venue": {
+      "id": 11419,
+      "name": "Stadion ob Beli",
+      "address": "Glavni trg 15",
+      "city": "Vipava",
+      "capacity": 1200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11419.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16312,
+      "name": "Zagorje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1906,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16312.png"
+    },
+    "venue": {
+      "id": 11420,
+      "name": "Mestni stadion",
+      "address": "Cesta 9. avgusta 48",
+      "city": "Zagorje ob Savi",
+      "capacity": 1080,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11420.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16313,
+      "name": "Škofja Loka",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16313.png"
+    },
+    "venue": {
+      "id": 19114,
+      "name": "Štadion Puštal",
+      "address": "Puštal 128",
+      "city": "Škofja Loka",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19114.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16314,
+      "name": "Šobec Lesce",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16314.png"
+    },
+    "venue": {
+      "id": 11421,
+      "name": "Štadion Na Žagi",
+      "address": "Alpska cesta 58",
+      "city": "Lesce",
+      "capacity": 800,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11421.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16315,
+      "name": "Žiri",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1973,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16315.png"
+    },
+    "venue": {
+      "id": 11422,
+      "name": "Športnem Parku Polje",
+      "address": "Polje 29",
+      "city": "Žiri",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11422.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17979,
+      "name": "Slovenia U17",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17979.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19244,
+      "name": "Jesenice",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1912,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19244.png"
+    },
+    "venue": {
+      "id": 18725,
+      "name": "Igrišče NK Jesenice",
+      "address": "Ledarska ulica 4",
+      "city": "Jesenice",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18725.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19258,
+      "name": "Nová Baňa",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19258.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19269,
+      "name": "Rudar Trbovlje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19269.png"
+    },
+    "venue": {
+      "id": 18735,
+      "name": "Stadion Rudar",
+      "address": "Rudarska cesta 6",
+      "city": "Trbovlje",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/18735.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19732,
+      "name": "Zavrč",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19732.png"
+    },
+    "venue": {
+      "id": 19179,
+      "name": "Stadion NK Zavrč",
+      "address": "Zavrč 11",
+      "city": "Zavrč",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19179.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20112,
+      "name": "Akumulator Mežica",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20112.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20113,
+      "name": "Apače",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20113.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20114,
+      "name": "Arne Tabor 69",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1969,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20114.png"
+    },
+    "venue": {
+      "id": 9618,
+      "name": null,
+      "address": "Na gmajni 1, Šentvid",
+      "city": "Ljubljana",
+      "capacity": 700,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/9618.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20115,
+      "name": "Bakovci",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20115.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20116,
+      "name": "Bela Krajina",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1926,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20116.png"
+    },
+    "venue": {
+      "id": 19115,
+      "name": "ŠRC Loka Črnomelj",
+      "address": "Pri stadionu 2",
+      "city": "Črnomelj",
+      "capacity": 1517,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19115.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20117,
+      "name": "Bistrc",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20117.png"
+    },
+    "venue": {
+      "id": 19120,
+      "name": "Športni center Trnovo",
+      "address": "Vilharjeva cesta 31 A",
+      "city": "Ilirska Bistrica",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19120.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20118,
+      "name": "Bitnje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20118.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20119,
+      "name": "Bogojina",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1944,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20119.png"
+    },
+    "venue": {
+      "id": 19116,
+      "name": "ŠRC Bogojina",
+      "address": "Bogojina 2",
+      "city": "Bogojina",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19116.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20120,
+      "name": "Boreas Ajdovščina",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20120.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20121,
+      "name": "Britof",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20121.png"
+    },
+    "venue": {
+      "id": 19117,
+      "name": "Stadion NK Britof",
+      "address": null,
+      "city": "Britof",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19117.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20122,
+      "name": "Bukovci",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20122.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20123,
+      "name": "Cankova",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20123.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20124,
+      "name": "Dokležovje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20124.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20125,
+      "name": "Dornava",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20125.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20126,
+      "name": "Dragomer",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20126.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20127,
+      "name": "Dren Vrhnika",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20127.png"
+    },
+    "venue": {
+      "id": 20273,
+      "name": "Športni park Vrhnika",
+      "address": "Tržaška cesta 2a",
+      "city": "Vrhnika",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20273.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20128,
+      "name": "Duplek",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20128.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20129,
+      "name": "Galeb Ankaran",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20129.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20130,
+      "name": "Gančani",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20130.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20131,
+      "name": "Gerečja vas",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20131.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20132,
+      "name": "Goričanka",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20132.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20133,
+      "name": "Gorišnica",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20133.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20134,
+      "name": "Grajena",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20134.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20135,
+      "name": "Hajdina",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20135.png"
+    },
+    "venue": {
+      "id": 20363,
+      "name": "Športni park Spodnja Hajdina",
+      "address": null,
+      "city": "Spodnja Hajdina",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20363.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20136,
+      "name": "Hajdoše",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20136.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20137,
+      "name": "Hodoš",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20137.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20138,
+      "name": "Hotiza",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1970,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20138.png"
+    },
+    "venue": {
+      "id": 19118,
+      "name": "Športni park Hotiza",
+      "address": null,
+      "city": "Hotiza",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19118.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20139,
+      "name": "IB 1975 Ljubljana",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1975,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20139.png"
+    },
+    "venue": {
+      "id": 19119,
+      "name": "Stadion ZSD",
+      "address": null,
+      "city": null,
+      "capacity": 2486,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19119.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20140,
+      "name": "Zidgrad Idrija",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20140.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20141,
+      "name": "Ihan",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20141.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20142,
+      "name": "Ilirska Bistrica",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20142.png"
+    },
+    "venue": {
+      "id": 19120,
+      "name": "Športni center Trnovo",
+      "address": "Vilharjeva cesta 31 A",
+      "city": "Ilirska Bistrica",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19120.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20143,
+      "name": "Ivančna Gorica",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1973,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20143.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": "Ljubljanska cesta 2a",
+      "city": "Ivančna Gorica",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20144,
+      "name": "Ižakovci",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20144.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20145,
+      "name": "Jevnica",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1958,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20145.png"
+    },
+    "venue": {
+      "id": 19121,
+      "name": "ŠRC Jevnica",
+      "address": null,
+      "city": "Jevnica",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19121.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20146,
+      "name": "Jezero Medvode",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20146.png"
+    },
+    "venue": {
+      "id": 19122,
+      "name": "Stadion ob Sori",
+      "address": "Medvoška cesta 9",
+      "city": "Medvode",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19122.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20147,
+      "name": "Jurovski dol",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20147.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20148,
+      "name": "Kamnik",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20148.png"
+    },
+    "venue": {
+      "id": 19123,
+      "name": "Stadion Prijateljstva",
+      "address": "Cankarjeva cesta 23A",
+      "city": "Kamnik",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19123.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20149,
+      "name": "Kobilje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20149.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20150,
+      "name": "Kolpa",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20150.png"
+    },
+    "venue": {
+      "id": 19124,
+      "name": "Podzemelj Sports Park",
+      "address": "Podzemelj",
+      "city": "Podzemelj",
+      "capacity": 500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19124.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20151,
+      "name": "Komen",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20151.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20152,
+      "name": "Korte",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20152.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20153,
+      "name": "Kočevje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1920,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20153.png"
+    },
+    "venue": {
+      "id": 20274,
+      "name": "Štadion Gaj",
+      "address": "Cesta na stadion",
+      "city": "Kočevje",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20274.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20154,
+      "name": "Košana",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20154.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20155,
+      "name": "Kranj",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1973,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20155.png"
+    },
+    "venue": {
+      "id": 19125,
+      "name": "Športni park Zarica",
+      "address": "Savska Loka 24",
+      "city": "Kranj",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19125.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20156,
+      "name": "Kranjska Gora",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20156.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20157,
+      "name": "Kresnice",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20157.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20158,
+      "name": "Laby's Mengo",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20158.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20159,
+      "name": "Laško",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20159.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20160,
+      "name": "Leskovec",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20160.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20161,
+      "name": "Limbuš Pekre",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20161.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20162,
+      "name": "Lipa",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20162.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20163,
+      "name": "Litija",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20163.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20164,
+      "name": "Ljubno ob Savinji",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20164.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20165,
+      "name": "Makole",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20165.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20166,
+      "name": "Malečnik",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20166.png"
+    },
+    "venue": {
+      "id": 19126,
+      "name": "Športni center Berl",
+      "address": "Malečnik 55",
+      "city": "Malečnik",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19126.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20167,
+      "name": "Maribor Tabor",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20167.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20168,
+      "name": "Marjeta na Dravskem polj",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20168.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20169,
+      "name": "Markovci",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20169.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20170,
+      "name": "Miklavž",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20170.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20171,
+      "name": "Mladinec Lovrenc",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20171.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20172,
+      "name": "Moravče",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20172.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20173,
+      "name": "Mostje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20173.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20174,
+      "name": "Mozirje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20174.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20175,
+      "name": "NK Ljubljana",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20175.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20176,
+      "name": "Naklo",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20176.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20177,
+      "name": "Olimpija Dolga vas",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20177.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20178,
+      "name": "Oplotnica",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20178.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20179,
+      "name": "Ormož",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20179.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20180,
+      "name": "Peca",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20180.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20181,
+      "name": "Podlehnik",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20181.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20182,
+      "name": "Pohorje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1956,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20182.png"
+    },
+    "venue": {
+      "id": 19127,
+      "name": "Stadion NK Pohorje",
+      "address": "Stadionska 15",
+      "city": "Ruše",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19127.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20183,
+      "name": "Polet Škofja Loka",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20183.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20184,
+      "name": "Polskava",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20184.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20185,
+      "name": "Posavje Krško",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20185.png"
+    },
+    "venue": {
+      "id": 3337,
+      "name": "Štadion Matije Gubca",
+      "address": "Cesta Krških žrtev 130a",
+      "city": "Krško",
+      "capacity": 13728,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3337.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20186,
+      "name": "Pragersko",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20186.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20187,
+      "name": "Preddvor",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20187.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20188,
+      "name": "Prekmurec Dobrovnik",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20188.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20189,
+      "name": "Radenska Slatina",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20189.png"
+    },
+    "venue": {
+      "id": 19128,
+      "name": "ŠC NK Slatina",
+      "address": "Slatinska cesta 2",
+      "city": "Radenci",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19128.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20190,
+      "name": "Radlje ob Dravi",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20190.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20191,
+      "name": "Rakičan",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20191.png"
+    },
+    "venue": {
+      "id": 19129,
+      "name": "Igrišče NK Rakičan",
+      "address": "Panonska ul. 4a, Rakičan",
+      "city": "Murska Sobota",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19129.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20192,
+      "name": "Rače",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20192.png"
+    },
+    "venue": {
+      "id": 20275,
+      "name": "Igrišče Rače",
+      "address": "Kolodvorska ulica 6",
+      "city": "Rače",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20275.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20193,
+      "name": "Renče",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20193.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20194,
+      "name": "Rogoznica",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20194.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20195,
+      "name": "Roho",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20195.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20196,
+      "name": "Serdica",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20196.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20197,
+      "name": "Skorba",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20197.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20198,
+      "name": "Slovan Ljubljana",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20198.png"
+    },
+    "venue": {
+      "id": 19132,
+      "name": "Športni park Kodeljevo",
+      "address": "Gortanova ulica 21",
+      "city": "Ljubljana",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19132.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20199,
+      "name": "Slovenja vas",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20199.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20200,
+      "name": "Središče",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20200.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20201,
+      "name": "Starše",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20201.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20202,
+      "name": "Stojnci",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 0,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20202.png"
+    },
+    "venue": {
+      "id": 19130,
+      "name": "Stadion NK Stojnci",
+      "address": null,
+      "city": null,
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19130.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20203,
+      "name": "Svoboda Kisovec",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20203.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20204,
+      "name": "Tišina",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20204.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20205,
+      "name": "Trebnje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20205.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20206,
+      "name": "Tromejnik",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20206.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": "Kuzma 22C",
+      "city": "Kuzma",
+      "capacity": 800,
+      "surface": "grass",
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20207,
+      "name": "Tržec",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20207.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20208,
+      "name": "Tržič",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20208.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20209,
+      "name": "Velesovo Cerklje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20209.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20210,
+      "name": "Vir",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20210.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20211,
+      "name": "Visoko",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20211.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20212,
+      "name": "Vojnik",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20212.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20213,
+      "name": "Zgornja Polskava",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20213.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20214,
+      "name": "Črenšovci",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1976,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20214.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": "Ulica Prekmurske čete 20",
+      "city": "Črenšovci",
+      "capacity": 1300,
+      "surface": "grass",
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20215,
+      "name": "Šalovci",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20215.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20216,
+      "name": "Šmartno Ljubljana",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20216.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20217,
+      "name": "Šoštanj",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20217.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20218,
+      "name": "Žalec",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20218.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20219,
+      "name": "Železniki",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20219.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20220,
+      "name": "Bistrica Srednja B.",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20220.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20221,
+      "name": "Graničar Lendava",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20221.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20222,
+      "name": "Nafta veterani",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20222.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20223,
+      "name": "Nedelica",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20223.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20224,
+      "name": "Panonija Gaberje",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20224.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20225,
+      "name": "Turnišče",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20225.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": "Štefana Kovača 73",
+      "city": "Turnišče",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20226,
+      "name": "Čentiba",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20226.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20342,
+      "name": "Boč Poljčane",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20342.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20343,
+      "name": "Cven",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20343.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20344,
+      "name": "Ljutomer",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20344.png"
+    },
+    "venue": {
+      "id": 19180,
+      "name": "ŠRC Ljutomer",
+      "address": null,
+      "city": "Ljutomer",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19180.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20346,
+      "name": "Puconci",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20346.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20347,
+      "name": "Radgona",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20347.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": "Cesta na Stadion 1A",
+      "city": "Gornja Radgona",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20348,
+      "name": "Veržej",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1963,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20348.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": "Mlinska cesta",
+      "city": "Veržej",
+      "capacity": 800,
+      "surface": "grass",
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20454,
+      "name": "Križevci",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20454.png"
+    },
+    "venue": {
+      "id": 19305,
+      "name": "Športni Center - ŠD NK Križevci",
+      "address": "Križevci 11a",
+      "city": "Križevci",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19305.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21480,
+      "name": "Slovenia U18",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/21480.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21583,
+      "name": "ŽNK Mura",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21583.png"
+    },
+    "venue": {
+      "id": 19128,
+      "name": "ŠC NK Slatina",
+      "address": "Slatinska cesta 2",
+      "city": "Radenci",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19128.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22323,
+      "name": "Komenda",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1957,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22323.png"
+    },
+    "venue": {
+      "id": 20276,
+      "name": "Hipodrom Komenda",
+      "address": "Glavarjeva 98",
+      "city": "Komenda",
+      "capacity": 1200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20276.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22324,
+      "name": "Lenart",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22324.png"
+    },
+    "venue": {
+      "id": 20277,
+      "name": "ŠRC Polena",
+      "address": "Ulica heroja Lacka",
+      "city": "Lenart",
+      "capacity": 750,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20277.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22325,
+      "name": "OŠ Olimpija",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22325.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22326,
+      "name": "Rošnja Loka",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22326.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22327,
+      "name": "Šentjernej",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22327.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22454,
+      "name": "Jadran Hrpelje-Kozina",
+      "code": null,
+      "country": "Slovenia",
+      "founded": 1976,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22454.png"
+    },
+    "venue": {
+      "id": 20328,
+      "name": "Stadion Krvavi Potok",
+      "address": "Krvavi Potok",
+      "city": "Kozina",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20328.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22455,
+      "name": "Vodice Šempas",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22455.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22590,
+      "name": "Roma",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22590.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26617,
+      "name": "Bravo U19",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26617.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26820,
+      "name": "Tromejnik Montpreis",
+      "code": null,
+      "country": "Slovenia",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26820.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

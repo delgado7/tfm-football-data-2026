@@ -1,0 +1,1802 @@
+[
+  {
+    "team": {
+      "id": 568,
+      "name": "Sheriff Tiraspol",
+      "code": "SHE",
+      "country": "Moldova",
+      "founded": 1997,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/568.png"
+    },
+    "venue": {
+      "id": 1093,
+      "name": "Bolshaya Sportivnaya Arena",
+      "address": "ul. K. Libnekhta 1/2",
+      "city": "Tiraspol",
+      "capacity": 13460,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1093.png"
+    }
+  },
+  {
+    "team": {
+      "id": 647,
+      "name": "Zaria Balti",
+      "code": "OLI",
+      "country": "Moldova",
+      "founded": 2020,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/647.png"
+    },
+    "venue": {
+      "id": 21294,
+      "name": "Stadionul Locomotiv",
+      "address": "Str. Goricovo",
+      "city": "Bălţi",
+      "capacity": 1450,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21294.png"
+    }
+  },
+  {
+    "team": {
+      "id": 691,
+      "name": "Milsami Orhei",
+      "code": "MIL",
+      "country": "Moldova",
+      "founded": 2005,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/691.png"
+    },
+    "venue": {
+      "id": 1094,
+      "name": "Complexul Sportiv Raional",
+      "address": "Str. Tricolorului",
+      "city": "Orhei",
+      "capacity": 3160,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1094.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1114,
+      "name": "Moldova",
+      "code": "MOL",
+      "country": "Moldova",
+      "founded": 1990,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1114.png"
+    },
+    "venue": {
+      "id": 2615,
+      "name": "Stadionul Zimbru",
+      "address": "Bulevardul Dacia, nr. 45",
+      "city": "Chişinău",
+      "capacity": 10500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2615.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1757,
+      "name": "Moldova W",
+      "code": null,
+      "country": "Moldova",
+      "founded": 1990,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1757.png"
+    },
+    "venue": {
+      "id": 19104,
+      "name": "Stadionul Orăşenesc",
+      "address": "Str. Marii Adunări Naţionale",
+      "city": "Nisporeni",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19104.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2271,
+      "name": "Petrocub",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2271.png"
+    },
+    "venue": {
+      "id": 1092,
+      "name": "Stadionul Orăşenesc",
+      "address": "Str. Metropolit Varlaam",
+      "city": "Hînceşti",
+      "capacity": 2672,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1092.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4198,
+      "name": "Speranţa Nisporeni",
+      "code": "SPE",
+      "country": "Moldova",
+      "founded": 1991,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4198.png"
+    },
+    "venue": {
+      "id": 1094,
+      "name": "Complexul Sportiv Raional",
+      "address": "Str. Tricolorului",
+      "city": "Orhei",
+      "capacity": 3023,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1094.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4630,
+      "name": "Codru Lozova",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4630.png"
+    },
+    "venue": {
+      "id": 3489,
+      "name": "Baza Zimbru",
+      "address": "Str. Butucului, nr. 1",
+      "city": "Lozova",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3489.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4631,
+      "name": "Dinamo-Auto",
+      "code": "DIN",
+      "country": "Moldova",
+      "founded": 2009,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4631.png"
+    },
+    "venue": {
+      "id": 3490,
+      "name": "Stadionul Dinamo-Auto",
+      "address": null,
+      "city": "Ternovca",
+      "capacity": 1300,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3490.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4632,
+      "name": "Sfîntul Gheorghe",
+      "code": "SFI",
+      "country": "Moldova",
+      "founded": 2003,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4632.png"
+    },
+    "venue": {
+      "id": 3491,
+      "name": "Stadionul Sătesc",
+      "address": null,
+      "city": "Suruceni",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3491.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4633,
+      "name": "Zimbru",
+      "code": "ZIM",
+      "country": "Moldova",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4633.png"
+    },
+    "venue": {
+      "id": 2615,
+      "name": "Stadionul Zimbru",
+      "address": "Bulevardul Dacia, nr. 45",
+      "city": "Chişinău",
+      "capacity": 10500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2615.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4634,
+      "name": "Dacia",
+      "code": "DAC",
+      "country": "Moldova",
+      "founded": 2000,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4634.png"
+    },
+    "venue": {
+      "id": 3492,
+      "name": "Stadionul Moldova",
+      "address": null,
+      "city": "Speia",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3492.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4635,
+      "name": "Spicul Chișcăreni",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4635.png"
+    },
+    "venue": {
+      "id": 1094,
+      "name": "Complexul Sportiv Raional",
+      "address": "Str. Tricolorului",
+      "city": "Orhei",
+      "capacity": 3023,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1094.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4637,
+      "name": "Saxan",
+      "code": "SAX",
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4637.png"
+    },
+    "venue": {
+      "id": 3494,
+      "name": "Stadionul Ceadîr Lunga",
+      "address": null,
+      "city": "Ceadîr Lunga",
+      "capacity": 4000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/3494.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4638,
+      "name": "Ungheni",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/4638.png"
+    },
+    "venue": {
+      "id": 3495,
+      "name": "Stadionul Ungheni",
+      "address": "Str. M. Bălcescu, nr. 9",
+      "city": "Ungheni",
+      "capacity": 3500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/3495.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5372,
+      "name": "Iskra",
+      "code": null,
+      "country": "Moldova",
+      "founded": 2013,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5372.png"
+    },
+    "venue": {
+      "id": 20040,
+      "name": "Stadionul Orăşenesc Rîbnița",
+      "address": "Str. Cernişevschi, nr. 15",
+      "city": "Rîbniţa",
+      "capacity": 4500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20040.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5373,
+      "name": "CS Sparta II",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5373.png"
+    },
+    "venue": {
+      "id": 4055,
+      "name": "Stadionul Selemet",
+      "address": null,
+      "city": "Selemet",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4055.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5374,
+      "name": "Cahul",
+      "code": "CAH",
+      "country": "Moldova",
+      "founded": 1980,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5374.png"
+    },
+    "venue": {
+      "id": 4056,
+      "name": "Stadionul Raionul Atlant",
+      "address": "Strada Dunării",
+      "city": "Cahul",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/4056.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5375,
+      "name": "Dacia-Buiucani",
+      "code": null,
+      "country": "Moldova",
+      "founded": 1997,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5375.png"
+    },
+    "venue": {
+      "id": 20757,
+      "name": "Baza Zimbru 2",
+      "address": "Str. Butucului, nr. 1",
+      "city": "Chişinău",
+      "capacity": 2850,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20757.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5376,
+      "name": "Floreşti",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5376.png"
+    },
+    "venue": {
+      "id": 4058,
+      "name": "Stadionul Izvoare",
+      "address": "ul. Kommunisticheskaya",
+      "city": "Izvoare",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4058.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5377,
+      "name": "Grănicerul",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5377.png"
+    },
+    "venue": {
+      "id": 4059,
+      "name": "Stadionul Glodeni",
+      "address": "Str. Suveranităţii, nr. 2",
+      "city": "Glodeni",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4059.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5378,
+      "name": "Real Succes",
+      "code": null,
+      "country": "Moldova",
+      "founded": 2009,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5378.png"
+    },
+    "venue": {
+      "id": 1863,
+      "name": "Stadionul CS Real Succes",
+      "address": "Str. Mihai Viteazul, nr. 15",
+      "city": "Chişinău",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/1863.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5379,
+      "name": "Sireți",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5379.png"
+    },
+    "venue": {
+      "id": 4060,
+      "name": "Stadionul Hârtop",
+      "address": null,
+      "city": "Sireți",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4060.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5380,
+      "name": "Spartanii Selemet",
+      "code": null,
+      "country": "Moldova",
+      "founded": 2011,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5380.png"
+    },
+    "venue": {
+      "id": 4055,
+      "name": "Stadionul Selemet",
+      "address": null,
+      "city": "Selemet",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4055.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5381,
+      "name": "Speranța Drochia",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5381.png"
+    },
+    "venue": {
+      "id": 12360,
+      "name": "Complexul Sportiv Drochia",
+      "address": null,
+      "city": "Drochia",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12360.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5382,
+      "name": "Sîngerei",
+      "code": null,
+      "country": "Moldova",
+      "founded": 2011,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5382.png"
+    },
+    "venue": {
+      "id": 4062,
+      "name": "Stadionul Sîngerei",
+      "address": "Str. Independenței",
+      "city": "Sîngerei",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4062.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5383,
+      "name": "Tighina",
+      "code": null,
+      "country": "Moldova",
+      "founded": 1950,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5383.png"
+    },
+    "venue": {
+      "id": 4063,
+      "name": "Stadion Dinamo",
+      "address": "ul. Kommunisticheskaya",
+      "city": "Tighina",
+      "capacity": 5061,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4063.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5384,
+      "name": "Victoria Bardar",
+      "code": "BAR",
+      "country": "Moldova",
+      "founded": 1995,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/5384.png"
+    },
+    "venue": {
+      "id": 4057,
+      "name": "Joma Arena",
+      "address": "Str. Ghidighici 1/2, Buiucani",
+      "city": "Chişinău",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/4057.png"
+    }
+  },
+  {
+    "team": {
+      "id": 7930,
+      "name": "Sheriff U19",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/7930.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 8209,
+      "name": "Moldova U21",
+      "code": "MOL",
+      "country": "Moldova",
+      "founded": 1990,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/8209.png"
+    },
+    "venue": {
+      "id": 2615,
+      "name": "Stadionul Zimbru",
+      "address": "Bulevardul Dacia, nr. 45",
+      "city": "Chişinău",
+      "capacity": 10500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2615.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10151,
+      "name": "Sparta",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/10151.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10879,
+      "name": "Anenii Noi",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/10879.png"
+    },
+    "venue": {
+      "id": 21857,
+      "name": "Stadionul Anenii Noi",
+      "address": null,
+      "city": "Anenii Noi",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21857.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13161,
+      "name": "Academia",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13161.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 13841,
+      "name": "Tiraspol",
+      "code": "TIR",
+      "country": "Moldova",
+      "founded": 1993,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13841.png"
+    },
+    "venue": {
+      "id": 1093,
+      "name": "Bolshaya Sportivnaya Arena",
+      "address": "ul. K. Libnekhta 1/2",
+      "city": "Tiraspol",
+      "capacity": 13460,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1093.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13842,
+      "name": "Veris",
+      "code": "VER",
+      "country": "Moldova",
+      "founded": 2011,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13842.png"
+    },
+    "venue": {
+      "id": 8562,
+      "name": "Stadionul CPSM",
+      "address": null,
+      "city": "Vadul lui Vodă",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/8562.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14008,
+      "name": "CSF Bălți",
+      "code": null,
+      "country": "Moldova",
+      "founded": 2020,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14008.png"
+    },
+    "venue": {
+      "id": 19653,
+      "name": "Stadionul Orăşenesc",
+      "address": "Strada Kiev, nr. 115",
+      "city": "Bălţi",
+      "capacity": 5953,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19653.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14009,
+      "name": "Făleşti",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14009.png"
+    },
+    "venue": {
+      "id": 10760,
+      "name": "Stadionul Făleşti",
+      "address": "Str. Ştefan cel Mare 50",
+      "city": "Făleşti",
+      "capacity": 4000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/10760.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14010,
+      "name": "Olimp Comrat",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14010.png"
+    },
+    "venue": {
+      "id": 10761,
+      "name": "Stadion im. V.G. Mumzhieva",
+      "address": "Str. Lenina, nr. 19",
+      "city": "Komrat",
+      "capacity": 4000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/10761.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14011,
+      "name": "Sheriff II",
+      "code": null,
+      "country": "Moldova",
+      "founded": 1997,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14011.png"
+    },
+    "venue": {
+      "id": 19654,
+      "name": "Malaya Sportivnaya Arena",
+      "address": "ul. K. Libnekhta 1/2",
+      "city": "Tiraspol",
+      "capacity": 9300,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19654.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14012,
+      "name": "Sucleia",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14012.png"
+    },
+    "venue": {
+      "id": 3494,
+      "name": "Stadionul Ceadîr Lunga",
+      "address": "ul. Mira",
+      "city": "Ceadîr Lunga",
+      "capacity": 4000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/3494.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14886,
+      "name": "ARF Ialoveni",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14886.png"
+    },
+    "venue": {
+      "id": 10763,
+      "name": "Stadionul Mileştii Mici",
+      "address": null,
+      "city": "Mileştii Mici",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10763.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14887,
+      "name": "Academia Viitorul",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14887.png"
+    },
+    "venue": {
+      "id": 10764,
+      "name": "Stadion Sănătăuca",
+      "address": null,
+      "city": "Sănătăuca",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10764.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14888,
+      "name": "Bogzești",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14888.png"
+    },
+    "venue": {
+      "id": 10765,
+      "name": "Stadionul Teleneşti",
+      "address": "Str. Ion Neculce, nr. 5",
+      "city": "Teleneşti",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10765.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14889,
+      "name": "CSF Cricova",
+      "code": null,
+      "country": "Moldova",
+      "founded": 2009,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14889.png"
+    },
+    "venue": {
+      "id": 10766,
+      "name": "Stadionul Satului",
+      "address": "Strada Minerilor",
+      "city": "Cricova",
+      "capacity": 1624,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10766.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14890,
+      "name": "Cimişlia",
+      "code": null,
+      "country": "Moldova",
+      "founded": 2009,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14890.png"
+    },
+    "venue": {
+      "id": 10767,
+      "name": "Stadionul Orăşenesc",
+      "address": "Str. 1 Mai",
+      "city": "Cimişlia",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10767.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14891,
+      "name": "Codru Călărași II",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14891.png"
+    },
+    "venue": {
+      "id": 10768,
+      "name": "Stadionul Orăşenesc",
+      "address": "Str. Bojole",
+      "city": "Călăraşi",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10768.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14892,
+      "name": "Cruiz",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14892.png"
+    },
+    "venue": {
+      "id": 10769,
+      "name": "Stadion Camenca",
+      "address": "ul. Lenin 38",
+      "city": "Camenca",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10769.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14893,
+      "name": "Edineţ",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14893.png"
+    },
+    "venue": {
+      "id": 10770,
+      "name": "Stadionul Orăşenesc",
+      "address": "Str. Alexandru cel Bun, nr. 18",
+      "city": "Edineţ",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10770.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14894,
+      "name": "FCM Ungheni",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14894.png"
+    },
+    "venue": {
+      "id": 3495,
+      "name": "Stadionul Ungheni",
+      "address": "Str. M. Bălcescu, nr. 9",
+      "city": "Ungheni",
+      "capacity": 3500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/3495.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14895,
+      "name": "Maiak Chirsova",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14895.png"
+    },
+    "venue": {
+      "id": 10761,
+      "name": "Stadion im. V.G. Mumzhieva",
+      "address": "Str. Lenina, nr. 19",
+      "city": "Komrat",
+      "capacity": 4000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/10761.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14896,
+      "name": "Mănoilești",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14896.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14897,
+      "name": "Pepeni",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14897.png"
+    },
+    "venue": {
+      "id": 10772,
+      "name": "Stadionul Sătesc",
+      "address": "L267",
+      "city": "Pepeni",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10772.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14898,
+      "name": "Sinteza Căuşeni",
+      "code": null,
+      "country": "Moldova",
+      "founded": 1992,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14898.png"
+    },
+    "venue": {
+      "id": 10773,
+      "name": "Stadionul Căuşeni",
+      "address": "Str. Mihai Eminescu, nr. 24 A",
+      "city": "Căuşeni",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10773.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14899,
+      "name": "Slobozia Mare",
+      "code": null,
+      "country": "Moldova",
+      "founded": 1990,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14899.png"
+    },
+    "venue": {
+      "id": 10774,
+      "name": "Stadionul Slobozia Mare",
+      "address": "Str. Libertăţii, nr. 50",
+      "city": "Slobozia Mare",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10774.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14900,
+      "name": "Socol Copceac",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14900.png"
+    },
+    "venue": {
+      "id": 10775,
+      "name": "Stadionul Copceac",
+      "address": null,
+      "city": "Copceac",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10775.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14901,
+      "name": "Sporting Trestieni",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14901.png"
+    },
+    "venue": {
+      "id": 19104,
+      "name": "Stadionul Orăşenesc",
+      "address": "Str. Marii Adunări Naţionale",
+      "city": "Nisporeni",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19104.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14902,
+      "name": "Visoca",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14902.png"
+    },
+    "venue": {
+      "id": 20041,
+      "name": "Stadionul Soroca",
+      "address": "Str. Independenţei, nr. 27",
+      "city": "Soroca",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20041.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14903,
+      "name": "Văsieni",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14903.png"
+    },
+    "venue": {
+      "id": 3491,
+      "name": "Stadionul Sătesc",
+      "address": "M1-Văsieni",
+      "city": "Suruceni",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3491.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17276,
+      "name": "Budai",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17276.png"
+    },
+    "venue": {
+      "id": 10765,
+      "name": "Stadionul Teleneşti",
+      "address": "Str. Ion Neculce, nr. 5",
+      "city": "Teleneşti",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10765.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17622,
+      "name": "CS Atletic",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17622.png"
+    },
+    "venue": {
+      "id": 19105,
+      "name": "Stadionul Nicolae Simatoc",
+      "address": null,
+      "city": "Lozova",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19105.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17623,
+      "name": "Congaz",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17623.png"
+    },
+    "venue": {
+      "id": 3494,
+      "name": "Stadionul Ceadîr Lunga",
+      "address": "Str. Octombrie, nr. 85",
+      "city": "Ceadîr Lunga",
+      "capacity": 4000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/3494.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17624,
+      "name": "EFA Visoca",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17624.png"
+    },
+    "venue": {
+      "id": 19106,
+      "name": "Stadionul Sătesc Visoca",
+      "address": null,
+      "city": "Visoca",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19106.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17625,
+      "name": "FC Stăuceni",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17625.png"
+    },
+    "venue": {
+      "id": 19107,
+      "name": "Complexul Sport Olimp Stăuceni",
+      "address": "Strada Ion Creangă",
+      "city": "Stăuceni",
+      "capacity": 2500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19107.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17626,
+      "name": "Gagauziya-Oguzsport",
+      "code": "GAG",
+      "country": "Moldova",
+      "founded": 1991,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17626.png"
+    },
+    "venue": {
+      "id": 10761,
+      "name": "Stadion im. V.G. Mumzhieva",
+      "address": "Str. Lenina, nr. 19",
+      "city": "Komrat",
+      "capacity": 4000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/10761.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17627,
+      "name": "Ocniţa",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17627.png"
+    },
+    "venue": {
+      "id": 19108,
+      "name": "Stadionul Ocniţa",
+      "address": "Str. Burebista",
+      "city": "Ocniţa",
+      "capacity": 2500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19108.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17628,
+      "name": "Rîşcani",
+      "code": "RIS",
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17628.png"
+    },
+    "venue": {
+      "id": 4061,
+      "name": "Stadionul Orăşenesc",
+      "address": null,
+      "city": "Rîşcani",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4061.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17629,
+      "name": "Teleneşti",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17629.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17965,
+      "name": "Moldova U17",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17965.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20088,
+      "name": "La Familia",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20088.png"
+    },
+    "venue": {
+      "id": 20042,
+      "name": "Stadionul Şelkovic",
+      "address": "ul. 40-let VLKSM",
+      "city": "Tighina",
+      "capacity": 2500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20042.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20089,
+      "name": "Vulturii Cutezători",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20089.png"
+    },
+    "venue": {
+      "id": 4062,
+      "name": "Stadionul Sîngerei",
+      "address": "Str. Independenței",
+      "city": "Sîngerei",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4062.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20090,
+      "name": "Țarigrad",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20090.png"
+    },
+    "venue": {
+      "id": 20043,
+      "name": "Stadionul Țarigrad",
+      "address": null,
+      "city": "Țarigrad",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20043.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20301,
+      "name": "Victoria",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20301.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21306,
+      "name": "Speranis Nisporeni",
+      "code": null,
+      "country": "Moldova",
+      "founded": 2022,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21306.png"
+    },
+    "venue": {
+      "id": 10776,
+      "name": "Teren sintetic Nisporeni",
+      "address": "Strada Chişinăului, nr. 2",
+      "city": "Nisporeni",
+      "capacity": 2500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/10776.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22016,
+      "name": "Inter Soroca",
+      "code": null,
+      "country": "Moldova",
+      "founded": 1977,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22016.png"
+    },
+    "venue": {
+      "id": 20041,
+      "name": "Stadionul Soroca",
+      "address": "Str. Independenţei, nr. 27",
+      "city": "Soroca",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20041.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22183,
+      "name": "Barsa Ungheni",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22183.png"
+    },
+    "venue": {
+      "id": 3495,
+      "name": "Stadionul Ungheni",
+      "address": "Str. M. Bălcescu, nr. 9",
+      "city": "Ungheni",
+      "capacity": 3500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/3495.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22184,
+      "name": "CF Ghidighici",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22184.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22185,
+      "name": "Constructorul Leova",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22185.png"
+    },
+    "venue": {
+      "id": 21295,
+      "name": "Stadionul Leova",
+      "address": "Str. Mihai Eminescu",
+      "city": "Leova",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21295.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22186,
+      "name": "FC Chișinău",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22186.png"
+    },
+    "venue": {
+      "id": 19104,
+      "name": "Stadionul Orăşenesc",
+      "address": "Str. Marii Adunări Naţionale",
+      "city": "Nisporeni",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19104.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22434,
+      "name": "Moldova U18",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22434.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22969,
+      "name": "Fortuna",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22969.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": "Pleşeni",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24956,
+      "name": "Oguzsport",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24956.png"
+    },
+    "venue": {
+      "id": 10761,
+      "name": "Stadion im. V.G. Mumzhieva",
+      "address": "Str. Lenina, nr. 19",
+      "city": "Komrat",
+      "capacity": 4000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/10761.png"
+    }
+  },
+  {
+    "team": {
+      "id": 24968,
+      "name": "Academia Rebeja U19",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24968.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25026,
+      "name": "Atletico Bălți",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25026.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25027,
+      "name": "Lia Sadaclia",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25027.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25028,
+      "name": "Nisporeni 2023",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25028.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25029,
+      "name": "Steaua Nordului",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25029.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26115,
+      "name": "Politehnica UTM",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26115.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26152,
+      "name": "Zimbru II",
+      "code": null,
+      "country": "Moldova",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26152.png"
+    },
+    "venue": {
+      "id": 21854,
+      "name": "Stadionul CPTF (Baza Zimbru artificial)",
+      "address": "Strada Butucului, nr. 1",
+      "city": "Chişinău",
+      "capacity": 2142,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21854.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26756,
+      "name": "FC Atletico Balti",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26756.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26757,
+      "name": "FC National Ialoveni",
+      "code": null,
+      "country": "Moldova",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26757.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

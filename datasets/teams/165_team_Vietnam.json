@@ -1,0 +1,1202 @@
+[
+  {
+    "team": {
+      "id": 1542,
+      "name": "Vietnam",
+      "code": "VIE",
+      "country": "Vietnam",
+      "founded": 1962,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1542.png"
+    },
+    "venue": {
+      "id": 22439,
+      "name": "Sân vận động Gò Đậu (Go Dau Stadium)",
+      "address": "Đurộng 30/4",
+      "city": "Thủ Dầu Một (Thu Dau Mot)",
+      "capacity": 20250,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22439.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3668,
+      "name": "Binh Duong",
+      "code": "BIN",
+      "country": "Vietnam",
+      "founded": 1976,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3668.png"
+    },
+    "venue": {
+      "id": 22439,
+      "name": "Sân vận động Gò Đậu (Go Dau Stadium)",
+      "address": "Đurộng 30/4",
+      "city": "Thủ Dầu Một (Thu Dau Mot)",
+      "capacity": 20250,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22439.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3669,
+      "name": "Da Nang",
+      "code": "NAN",
+      "country": "Vietnam",
+      "founded": 1976,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3669.png"
+    },
+    "venue": {
+      "id": 2467,
+      "name": "Sân Vận Động Hòa Xuân",
+      "address": "Dương Loan",
+      "city": "Đà Nẵng (Da Nang)",
+      "capacity": 20500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2467.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3670,
+      "name": "Ha Noi",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 2006,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3670.png"
+    },
+    "venue": {
+      "id": 2468,
+      "name": "Sân vận động Hàng Đẫy (Hang Day Stadium)",
+      "address": "Phố Trịnh Hoài Đức, Đống Đa",
+      "city": "Hà Nội (Hanoi)",
+      "capacity": 22500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2468.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3671,
+      "name": "Hai Phong",
+      "code": "PHO",
+      "country": "Vietnam",
+      "founded": 1899,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3671.png"
+    },
+    "venue": {
+      "id": 2469,
+      "name": "Sân vận động Lạch Tray (Lach Tray Stadium)",
+      "address": "Đường Lạch Tray, quận Ngô Quyền",
+      "city": "Hai Phong",
+      "capacity": 28000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2469.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3672,
+      "name": "Ho Chi Minh",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 1975,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3672.png"
+    },
+    "venue": {
+      "id": 2470,
+      "name": "Sân vận động Thống Nhất (Thong Nhat Stadium)",
+      "address": "138 Đào Duy Từ, Phường 6, Quận 10 Điện",
+      "city": "Thành phố Hồ Chí Minh (Ho Chi Minh City)",
+      "capacity": 20000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2470.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3673,
+      "name": "Hoang Anh Gia Lai",
+      "code": "GIA",
+      "country": "Vietnam",
+      "founded": 2002,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3673.png"
+    },
+    "venue": {
+      "id": 2471,
+      "name": "Sân vận động Plei Cu (Pleiku Stadium)",
+      "address": "Đường Quang Trun",
+      "city": "Plei Cu (Pleiku)",
+      "capacity": 13000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2471.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3674,
+      "name": "Nam Dinh",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 1965,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3674.png"
+    },
+    "venue": {
+      "id": 2472,
+      "name": "Sân vận động Thiên Trường (Thien Truong Stadium)",
+      "address": "Đường Trường Trin",
+      "city": "Nam Dinh",
+      "capacity": 30000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2472.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3675,
+      "name": "Quang Nam",
+      "code": "BHT",
+      "country": "Vietnam",
+      "founded": 1997,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3675.png"
+    },
+    "venue": {
+      "id": 2467,
+      "name": "Sân Vận Động Hòa Xuân",
+      "address": "Dương Loan",
+      "city": "Da Nang",
+      "capacity": 20500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2467.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3676,
+      "name": "Sai Gon",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 1954,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3676.png"
+    },
+    "venue": {
+      "id": 2470,
+      "name": "Sân vận động Thống Nhất (Thong Nhat Stadium)",
+      "address": "138 Đào Duy Từ, Phường 6, Quận 10 Điện",
+      "city": "Ho Chi Minh City",
+      "capacity": 20000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2470.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3677,
+      "name": "Sanna Khanh Hoa",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 2012,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3677.png"
+    },
+    "venue": {
+      "id": 2474,
+      "name": "Sân vận động 19 tháng 8 (Nha Trang Stadium)",
+      "address": "Đường Yersin",
+      "city": "Nha Trang",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2474.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3678,
+      "name": "Song Lam Nghe An",
+      "code": "SON",
+      "country": "Vietnam",
+      "founded": 1979,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3678.png"
+    },
+    "venue": {
+      "id": 2475,
+      "name": "Sân vận động Vinh (Vinh Stadium)",
+      "address": null,
+      "city": "Vinh",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2475.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3679,
+      "name": "Than Quang Ninh",
+      "code": "THA",
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3679.png"
+    },
+    "venue": {
+      "id": 22667,
+      "name": "Cẩm Phả Stadium",
+      "address": null,
+      "city": "Cua Ong",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22667.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3680,
+      "name": "Thanh Hóa",
+      "code": "THA",
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3680.png"
+    },
+    "venue": {
+      "id": 2477,
+      "name": "Sân vận động Thanh Hóa",
+      "address": "Lê Hoàn, Phường Điện",
+      "city": "Thanh Hóa",
+      "capacity": 14000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2477.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3681,
+      "name": "Viettel",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3681.png"
+    },
+    "venue": {
+      "id": 22538,
+      "name": "Sân vận động quốc gia Mỹ Đình (Mỹ Đình National Stadium)",
+      "address": "Từ Liêm",
+      "city": "Hà Nội (Hanoi)",
+      "capacity": 40192,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22538.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8014,
+      "name": "FLC Thanh Hoa",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8014.png"
+    },
+    "venue": {
+      "id": 2477,
+      "name": "Sân vận động Thanh Hóa",
+      "address": "Lê Hoàn, Phường Điện",
+      "city": "Thanh Hóa",
+      "capacity": 14000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2477.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8018,
+      "name": "Ha Noi T&T",
+      "code": "TTH",
+      "country": "Vietnam",
+      "founded": 2006,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8018.png"
+    },
+    "venue": {
+      "id": 2468,
+      "name": "Sân vận động Hàng Đẫy (Hang Day Stadium)",
+      "address": "Phố Trịnh Hoài Đức, Đống Đa",
+      "city": "Hanoi",
+      "capacity": 22500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2468.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9159,
+      "name": "An Giang",
+      "code": "AND",
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9159.png"
+    },
+    "venue": {
+      "id": 6339,
+      "name": "Sân vận động Long Xuyên (Long Xuyen Stadium)",
+      "address": "91, Long Xuyên",
+      "city": "Long Xuyen",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6339.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9160,
+      "name": "Binh Dinh",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 2001,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9160.png"
+    },
+    "venue": {
+      "id": 6340,
+      "name": "Sân vận động Qui Nhơn (Qui Nhon Stadium)",
+      "address": "Lê Hồng Phong",
+      "city": "Qui Nhơn (Qui Nhon)",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6340.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9161,
+      "name": "Bình Phước",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 2006,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9161.png"
+    },
+    "venue": {
+      "id": 8349,
+      "name": "Sân vận động Bình Phước (Binh Phuoc Stadium)",
+      "address": "770 Quốc lộ 14, phường Tân Bình, thị xã Đồng Xoài",
+      "city": "Bình Phước",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8349.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9162,
+      "name": "Bóng đá Huế",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 1976,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9162.png"
+    },
+    "venue": {
+      "id": 6341,
+      "name": "Sân vận động Tự Do (Tu Do Stadium)",
+      "address": null,
+      "city": "Hue",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6341.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9163,
+      "name": "Dak Lak",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9163.png"
+    },
+    "venue": {
+      "id": 6342,
+      "name": "Sân vận động Buôn Mê Thuột",
+      "address": null,
+      "city": "Buôn Ma Thuột",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6342.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9164,
+      "name": "Dong Thap",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9164.png"
+    },
+    "venue": {
+      "id": 6343,
+      "name": "Sân vận động Cao Lãnh (Cao Lanh Stadium)",
+      "address": "Điện Biên Phủ",
+      "city": "Cao Lãnh (Cao Lanh)",
+      "capacity": 23000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6343.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9165,
+      "name": "Long An",
+      "code": "LON",
+      "country": "Vietnam",
+      "founded": 2000,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9165.png"
+    },
+    "venue": {
+      "id": 6344,
+      "name": "Sân vận động Long An (Long An Stadium)",
+      "address": "Số 44B Đường Trương Định, District 6",
+      "city": "Tân An (Tan An)",
+      "capacity": 19975,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6344.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9166,
+      "name": "Pho Hien",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 2018,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9166.png"
+    },
+    "venue": {
+      "id": 6345,
+      "name": "SVĐ Trung tâm đào tạo trẻ PVF",
+      "address": "DT.379, Văn Giang",
+      "city": "Liên Nghĩa",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6345.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9167,
+      "name": "Phu Dong",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9167.png"
+    },
+    "venue": {
+      "id": 19390,
+      "name": "Sân vận động Ninh Bình (Ninh Binh Stadium)",
+      "address": "Ngõ 673 đường Ngọc Hồi, Thanh Trì",
+      "city": "Ninh Bình",
+      "capacity": 22000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19390.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9168,
+      "name": "Tay Ninh",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9168.png"
+    },
+    "venue": {
+      "id": 10258,
+      "name": null,
+      "address": "Dương Minh Châu",
+      "city": "Tay Ninh",
+      "capacity": 20000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/10258.png"
+    }
+  },
+  {
+    "team": {
+      "id": 9169,
+      "name": "Can Tho",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9169.png"
+    },
+    "venue": {
+      "id": 6347,
+      "name": "Sân vận động Cần Thơ (Can Tho Stadium)",
+      "address": "Lê Lợi",
+      "city": "Can Tho",
+      "capacity": 44398,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6347.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10315,
+      "name": "Vietnam U20",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10315.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10964,
+      "name": "Vietnam U23",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 1962,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10964.png"
+    },
+    "venue": {
+      "id": 21413,
+      "name": "Sân vận động quốc gia Mỹ Đình (Mỹ Đình National Stadium)",
+      "address": "Từ Liêm",
+      "city": "Hanoi",
+      "capacity": 40192,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21413.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11134,
+      "name": "Hồng Lĩnh Hà Tĩnh",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11134.png"
+    },
+    "venue": {
+      "id": 7442,
+      "name": "Sân Vận động tỉnh Hà Tĩnh",
+      "address": "Nguyễn Biểu, Nam Hà",
+      "city": "Hà Tĩnh",
+      "capacity": 22000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7442.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11354,
+      "name": "Dong Nai",
+      "code": "DON",
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11354.png"
+    },
+    "venue": {
+      "id": 7547,
+      "name": "Sân vận động Đồng Nai (Dong Nai Stadium)",
+      "address": null,
+      "city": "Dong Nai",
+      "capacity": 20000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7547.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11355,
+      "name": "Ninh Binh",
+      "code": "NIN",
+      "country": "Vietnam",
+      "founded": 2007,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11355.png"
+    },
+    "venue": {
+      "id": 7548,
+      "name": "Sân vận động Ninh Bình (Ninh Binh Stadium)",
+      "address": null,
+      "city": "Ninh Bình",
+      "capacity": 22000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7548.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11356,
+      "name": "Kien Giang",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 1998,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11356.png"
+    },
+    "venue": {
+      "id": 7549,
+      "name": "Sân vận động Kiên Giang (Rach Gia Stadium)",
+      "address": "Lê Lợi",
+      "city": "Rạch Giá",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7549.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11357,
+      "name": "Xuan Thanh Sai Gon",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 2011,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11357.png"
+    },
+    "venue": {
+      "id": 7550,
+      "name": "Sân vận động Thống Nhất (Thong Nhat Stadium)",
+      "address": "138 Đào Duy Từ, Phường 6, Quận 10 Điện",
+      "city": null,
+      "capacity": 20000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7550.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11358,
+      "name": "Khanh Hoa",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11358.png"
+    },
+    "venue": {
+      "id": 7551,
+      "name": "Sân v?n d?ng 19 tháng 8 (Nha Trang Stadium)",
+      "address": null,
+      "city": null,
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7551.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11359,
+      "name": "NB Sai Gon",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 1998,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11359.png"
+    },
+    "venue": {
+      "id": 7550,
+      "name": "Sân v?n d?ng Th?ng Nh?t (Thong Nhat Stadium)",
+      "address": null,
+      "city": null,
+      "capacity": 20000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7550.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13270,
+      "name": "Ho Chi Minh City",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13270.png"
+    },
+    "venue": {
+      "id": 11488,
+      "name": "Sân vận động Bà Rịa",
+      "address": "308 27 Tháng 4, Phước Hưng",
+      "city": "Bà Rịa",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11488.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16400,
+      "name": "Công An Nhân Dân",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16400.png"
+    },
+    "venue": {
+      "id": 2468,
+      "name": "Sân vận động Hàng Đẫy (Hang Day Stadium)",
+      "address": "Phố Trịnh Hoài Đức, Đống Đa",
+      "city": "Hanoi",
+      "capacity": 22500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2468.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16401,
+      "name": "Phú Thọ",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16401.png"
+    },
+    "venue": {
+      "id": 19625,
+      "name": "Sân vận động Việt Trì",
+      "address": "19 Hai Bà Trưng, Ph.Thọ Sơn",
+      "city": "Việt Trì",
+      "capacity": 18000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19625.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17895,
+      "name": "Vietnam W",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 1962,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/17895.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19157,
+      "name": "Vietnam U19",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 1962,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/19157.png"
+    },
+    "venue": {
+      "id": 1666,
+      "name": "Sân vận động quốc gia Mỹ Đình (My Dinh National Stadium)",
+      "address": "Từ Liêm",
+      "city": "Hanoi",
+      "capacity": 40192,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1666.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21051,
+      "name": "Binh Thuan",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21051.png"
+    },
+    "venue": {
+      "id": 19629,
+      "name": "Sân vận động tỉnh Ninh Thuận",
+      "address": "21 Tháng 8",
+      "city": "Ninh Thuận",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19629.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21052,
+      "name": "Hòa Bình",
+      "code": null,
+      "country": "Vietnam",
+      "founded": 2021,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21052.png"
+    },
+    "venue": {
+      "id": 19630,
+      "name": "Sân Vận Động Hòa Bình",
+      "address": "54 Trần Hưng Đạo, Phư Lâm",
+      "city": "Hòa Bình",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19630.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21126,
+      "name": "Gia Định",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21126.png"
+    },
+    "venue": {
+      "id": null,
+      "name": "Sân vận động Quân khu 7 (Army Stadium)",
+      "address": "Hoang Van Thu Street, Tan Binh",
+      "city": "Thành phố Hồ Chí Minh (Ho Chi Minh City)",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21127,
+      "name": "Hải Nam",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21127.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21129,
+      "name": "Vĩnh Long",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21129.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21229,
+      "name": "Vietnam U22",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/21229.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21386,
+      "name": "Da Nang II",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21386.png"
+    },
+    "venue": {
+      "id": 19719,
+      "name": "Sân vận động Chi Lăng (Chi Lang Stadium)",
+      "address": "Triệu Nữ Vương, Ngo Gia Tu",
+      "city": "Da Nang",
+      "capacity": 28000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19719.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21387,
+      "name": "Hạ Long CFC",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21387.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21447,
+      "name": "Vietnam U17",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/21447.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22594,
+      "name": "Vietnam U18",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22594.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23208,
+      "name": "Vietnam U20 W",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/23208.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24897,
+      "name": "Hồ Chí Minh City W",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24897.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25022,
+      "name": "Hồ Chí Minh II",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25022.png"
+    },
+    "venue": {
+      "id": null,
+      "name": "Sân vận động Thống Nhất (Thong Nhat Stadium)",
+      "address": "138 Đào Duy Từ, Phường 6, Quận 10 Điện",
+      "city": "Thành phố Hồ Chí Minh (Ho Chi Minh City)",
+      "capacity": 20000,
+      "surface": "grass",
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26601,
+      "name": "Bắc Ninh",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26601.png"
+    },
+    "venue": {
+      "id": 22594,
+      "name": "SVĐ Việt Yên",
+      "address": null,
+      "city": "Việt Yên",
+      "capacity": 7500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22594.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26602,
+      "name": "Quảng Ninh",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26602.png"
+    },
+    "venue": {
+      "id": 22595,
+      "name": "Trung tâm thể thao Tỉnh Quảng Ninh",
+      "address": "Đại Yên",
+      "city": "Hạ Long",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22595.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26603,
+      "name": "Văn Hiến",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26603.png"
+    },
+    "venue": {
+      "id": null,
+      "name": "Sân vận động Thống Nhất (Thong Nhat Stadium)",
+      "address": "138 Đào Duy Từ, Phường 6, Quận 10 Điện",
+      "city": "Thành phố Hồ Chí Minh (Ho Chi Minh City)",
+      "capacity": 20000,
+      "surface": "grass",
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26649,
+      "name": "PVF-CAND",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26649.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26745,
+      "name": "Xuan Thien Phu Tho",
+      "code": null,
+      "country": "Vietnam",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26745.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

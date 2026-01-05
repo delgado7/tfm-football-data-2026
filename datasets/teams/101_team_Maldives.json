@@ -1,0 +1,282 @@
+[
+  {
+    "team": {
+      "id": 1549,
+      "name": "Maldives",
+      "code": "MAL",
+      "country": "Maldives",
+      "founded": 1982,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1549.png"
+    },
+    "venue": {
+      "id": 19656,
+      "name": "National Football Stadium (Maldives)",
+      "address": "Majeedhee Magu",
+      "city": "Malé, North Malé Atoll, Kaafu Atoll",
+      "capacity": 11850,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19656.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8037,
+      "name": "New Radiant",
+      "code": "RAD",
+      "country": "Maldives",
+      "founded": 1979,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8037.png"
+    },
+    "venue": {
+      "id": 4150,
+      "name": "Rasmee Dhandu Stadium",
+      "address": "Majeedhee Magu",
+      "city": "Malé, North Malé Atoll, Kaafu Atoll",
+      "capacity": 11850,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4150.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8038,
+      "name": "TC Sports Club",
+      "code": null,
+      "country": "Maldives",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8038.png"
+    },
+    "venue": {
+      "id": 19656,
+      "name": "National Football Stadium (Maldives)",
+      "address": "Majeedhee Magu",
+      "city": "Malé, North Malé Atoll, Kaafu Atoll",
+      "capacity": 11850,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19656.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8044,
+      "name": "Maziya",
+      "code": "MAZ",
+      "country": "Maldives",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8044.png"
+    },
+    "venue": {
+      "id": 19656,
+      "name": "National Football Stadium (Maldives)",
+      "address": "Majeedhee Magu",
+      "city": "Malé, North Malé Atoll, Kaafu Atoll",
+      "capacity": 11850,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19656.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10946,
+      "name": "Maldives U23",
+      "code": null,
+      "country": "Maldives",
+      "founded": 1982,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10946.png"
+    },
+    "venue": {
+      "id": 19656,
+      "name": "National Football Stadium (Maldives)",
+      "address": "Majeedhee Magu",
+      "city": "Malé, North Malé Atoll, Kaafu Atoll",
+      "capacity": 11850,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19656.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11681,
+      "name": "Victory",
+      "code": null,
+      "country": "Maldives",
+      "founded": 1971,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/11681.png"
+    },
+    "venue": {
+      "id": 4150,
+      "name": "Rasmee Dhandu Stadium",
+      "address": "Majeedhee Magu",
+      "city": "Malé, North Malé Atoll, Kaafu Atoll",
+      "capacity": 11850,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4150.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16957,
+      "name": "Da Grande",
+      "code": null,
+      "country": "Maldives",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16957.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16958,
+      "name": "Green Streets",
+      "code": null,
+      "country": "Maldives",
+      "founded": 2010,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16958.png"
+    },
+    "venue": {
+      "id": 19656,
+      "name": "National Football Stadium (Maldives)",
+      "address": "Majeedhee Magu",
+      "city": "Malé, North Malé Atoll, Kaafu Atoll",
+      "capacity": 11850,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19656.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16959,
+      "name": "Super United Sports",
+      "code": null,
+      "country": "Maldives",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16959.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16960,
+      "name": "United Victory",
+      "code": null,
+      "country": "Maldives",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16960.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16961,
+      "name": "Valencia",
+      "code": null,
+      "country": "Maldives",
+      "founded": 1979,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16961.png"
+    },
+    "venue": {
+      "id": 19656,
+      "name": "National Football Stadium (Maldives)",
+      "address": "Majeedhee Magu",
+      "city": "Malé, North Malé Atoll, Kaafu Atoll",
+      "capacity": 11850,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19656.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17888,
+      "name": "Maldives W",
+      "code": null,
+      "country": "Maldives",
+      "founded": 1982,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/17888.png"
+    },
+    "venue": {
+      "id": 19697,
+      "name": "Thuwunna Stadium",
+      "address": "Wai Za Yan Tar Road, Thingangyun",
+      "city": "Yangon",
+      "capacity": 32000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19697.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21312,
+      "name": "Buru",
+      "code": null,
+      "country": "Maldives",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21312.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25102,
+      "name": "Maldives U20",
+      "code": null,
+      "country": "Maldives",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25102.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

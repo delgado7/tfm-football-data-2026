@@ -1,0 +1,622 @@
+[
+  {
+    "team": {
+      "id": 1555,
+      "name": "Philippines",
+      "code": "PHI",
+      "country": "Philippines",
+      "founded": 1907,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1555.png"
+    },
+    "venue": {
+      "id": 1244,
+      "name": "Rizal Memorial Stadium",
+      "address": "Pablo Ocampo Street (ex. Vito Cruz Street), Malate",
+      "city": "Manila",
+      "capacity": 30000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/1244.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8011,
+      "name": "Ceres",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8011.png"
+    },
+    "venue": {
+      "id": 5711,
+      "name": "Panaad Stadium",
+      "address": "Acacia Street",
+      "city": "Bacolod City",
+      "capacity": 15500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5711.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8016,
+      "name": "Global",
+      "code": "GLO",
+      "country": "Philippines",
+      "founded": 2000,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8016.png"
+    },
+    "venue": {
+      "id": 5714,
+      "name": "Mckinley Hill Football Field",
+      "address": "Campus Avenue, Bonifacio Global City",
+      "city": "Taguig",
+      "capacity": 4500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/5714.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8030,
+      "name": "Kaya",
+      "code": null,
+      "country": "Philippines",
+      "founded": 1996,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8030.png"
+    },
+    "venue": {
+      "id": 5714,
+      "name": "Mckinley Hill Football Field",
+      "address": "Campus Avenue, Bonifacio Global City",
+      "city": "Taguig",
+      "capacity": 4500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/5714.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10953,
+      "name": "Philippines U23",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10953.png"
+    },
+    "venue": {
+      "id": 1244,
+      "name": "Rizal Memorial Stadium",
+      "address": "Pablo Ocampo Street (ex. Vito Cruz Street), Malate",
+      "city": "Manila",
+      "capacity": 30000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/1244.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16190,
+      "name": "Azkals",
+      "code": null,
+      "country": "Philippines",
+      "founded": 2020,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16190.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16191,
+      "name": "Maharlika",
+      "code": null,
+      "country": "Philippines",
+      "founded": 2020,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16191.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16192,
+      "name": "Mendiola",
+      "code": null,
+      "country": "Philippines",
+      "founded": 1991,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16192.png"
+    },
+    "venue": {
+      "id": 11305,
+      "name": "Aboitiz Pitch",
+      "address": "The Outlets",
+      "city": "Lipa",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/11305.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16193,
+      "name": "Stallion",
+      "code": null,
+      "country": "Philippines",
+      "founded": 2001,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16193.png"
+    },
+    "venue": {
+      "id": 5714,
+      "name": "Mckinley Hill Football Field",
+      "address": "Campus Avenue, Bonifacio Global City",
+      "city": "Taguig",
+      "capacity": 4500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/5714.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17892,
+      "name": "Philippines W",
+      "code": null,
+      "country": "Philippines",
+      "founded": 1907,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/17892.png"
+    },
+    "venue": {
+      "id": 1244,
+      "name": "Rizal Memorial Stadium",
+      "address": "Pablo Ocampo Street (ex. Vito Cruz Street), Malate",
+      "city": "Manila",
+      "capacity": 30000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/1244.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18265,
+      "name": "Dynamic Herb Cebu",
+      "code": null,
+      "country": "Philippines",
+      "founded": 2021,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18265.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19153,
+      "name": "Philippines U19",
+      "code": null,
+      "country": "Philippines",
+      "founded": 1907,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/19153.png"
+    },
+    "venue": {
+      "id": 18607,
+      "name": "Rizal Memorial Stadium",
+      "address": "Pablo Ocampo Street (ex. Vito Cruz Street), Malate",
+      "city": "Manila",
+      "capacity": 30000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18607.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19154,
+      "name": "Singapore U19",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19154.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21571,
+      "name": "Adamson Falcons Students",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21571.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21572,
+      "name": "Far Eastern University",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21572.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21573,
+      "name": "Garelli United",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21573.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21574,
+      "name": "Inter Manila",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21574.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21575,
+      "name": "Loyola",
+      "code": null,
+      "country": "Philippines",
+      "founded": 2006,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21575.png"
+    },
+    "venue": {
+      "id": 5714,
+      "name": "Mckinley Hill Football Field",
+      "address": "Campus Avenue, Bonifacio Global City",
+      "city": "Taguig",
+      "capacity": 4500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/5714.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21576,
+      "name": "Manila Digger",
+      "code": null,
+      "country": "Philippines",
+      "founded": 2018,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21576.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21577,
+      "name": "Philippine Air Force",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21577.png"
+    },
+    "venue": {
+      "id": 5714,
+      "name": "Mckinley Hill Football Field",
+      "address": "Campus Avenue, Bonifacio Global City",
+      "city": "Taguig",
+      "capacity": 4500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/5714.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21578,
+      "name": "Philippine Army",
+      "code": null,
+      "country": "Philippines",
+      "founded": 1960,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21578.png"
+    },
+    "venue": {
+      "id": 5714,
+      "name": "Mckinley Hill Football Field",
+      "address": "Campus Avenue, Bonifacio Global City",
+      "city": "Taguig",
+      "capacity": 4500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/5714.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21579,
+      "name": "Pilipinas Dragons",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21579.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21580,
+      "name": "Tuloy",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21580.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21581,
+      "name": "UP Men's Football Team",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21581.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22754,
+      "name": "Davao Aguilas",
+      "code": null,
+      "country": "Philippines",
+      "founded": 2017,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22754.png"
+    },
+    "venue": {
+      "id": 21395,
+      "name": "Davao del Norte Sports and Tourism Complex",
+      "address": "Capitol Circumferential Road",
+      "city": "Tagum City",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21395.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23383,
+      "name": "Manila Montet",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23383.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23384,
+      "name": "Taguig",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23384.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23620,
+      "name": "Philippines U17 W",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23620.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24898,
+      "name": "Kaya W",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/24898.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25107,
+      "name": "Philippines U20",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25107.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25189,
+      "name": "PFF Developmental Club",
+      "code": null,
+      "country": "Philippines",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25189.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

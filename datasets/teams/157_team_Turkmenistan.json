@@ -1,0 +1,462 @@
+[
+  {
+    "team": {
+      "id": 1539,
+      "name": "Turkmenistan",
+      "code": "TUR",
+      "country": "Turkmenistan",
+      "founded": 1992,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/1539.png"
+    },
+    "venue": {
+      "id": 1591,
+      "name": "Saparmyrat Türkmenbaşy Adyndaky Olimpiýa Stadiony",
+      "address": null,
+      "city": "Ashgabat",
+      "capacity": 45000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1591.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8020,
+      "name": "Ahal",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": 1989,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8020.png"
+    },
+    "venue": {
+      "id": 5717,
+      "name": "Ahal Stadium",
+      "address": "Gökdepe etr. Babarap",
+      "city": "Abadan",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5717.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8023,
+      "name": "Altyn Asyr",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": 2008,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8023.png"
+    },
+    "venue": {
+      "id": 1591,
+      "name": "Saparmyrat Türkmenbaşy Adyndaky Olimpiýa Stadiony",
+      "address": null,
+      "city": "Ashgabat",
+      "capacity": 45000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1591.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8039,
+      "name": "Nebitci",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": 1960,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8039.png"
+    },
+    "venue": {
+      "id": 5726,
+      "name": "Balkanabat Stadiony",
+      "address": null,
+      "city": "Balkanabat",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/5726.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10962,
+      "name": "Turkmenistan U23",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": 1992,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10962.png"
+    },
+    "venue": {
+      "id": 1591,
+      "name": "Saparmyrat Türkmenbaşy Adyndaky Olimpiýa Stadiony",
+      "address": null,
+      "city": "Ashgabat",
+      "capacity": 45000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1591.png"
+    }
+  },
+  {
+    "team": {
+      "id": 12903,
+      "name": "Şagadam",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/12903.png"
+    },
+    "venue": {
+      "id": 8243,
+      "name": "Türkmenbaşy Stadium",
+      "address": null,
+      "city": "Türkmenbaşy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8243.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13156,
+      "name": "Energetik",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": 2010,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13156.png"
+    },
+    "venue": {
+      "id": 8304,
+      "name": "Energetik stadiony",
+      "address": null,
+      "city": "Mary",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/8304.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13157,
+      "name": "Köpetdag Aşgabat",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": 1947,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13157.png"
+    },
+    "venue": {
+      "id": 8305,
+      "name": "Köpetdag Stadium",
+      "address": "ul. Belinskogo 32",
+      "city": "Ashgabat",
+      "capacity": 26503,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/8305.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13158,
+      "name": "Merw",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": 1991,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13158.png"
+    },
+    "venue": {
+      "id": 19633,
+      "name": "Mary Stadiony",
+      "address": null,
+      "city": "Mary",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19633.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13159,
+      "name": "Aşgabat",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": 2006,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13159.png"
+    },
+    "venue": {
+      "id": 8678,
+      "name": "Sportkompleks Gökje",
+      "address": "Gokje",
+      "city": "Ashgabat",
+      "capacity": 5000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/8678.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16571,
+      "name": "Ahal U21",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16571.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16572,
+      "name": "Altyn Asyr U21",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16572.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16573,
+      "name": "Energetik U21",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16573.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16574,
+      "name": "FC Asgabat U21",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16574.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16575,
+      "name": "Kopetdag Asgabat U21",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16575.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16576,
+      "name": "Merw U21",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16576.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16577,
+      "name": "Nebitci U21",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16577.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16578,
+      "name": "Sagadam U21",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16578.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21023,
+      "name": "Turkmenistan W",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/21023.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21232,
+      "name": "Arkadag",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21232.png"
+    },
+    "venue": {
+      "id": 19634,
+      "name": "Ahal merkezi sport toplumy",
+      "address": null,
+      "city": "Arkadag şäheri",
+      "capacity": 10000,
+      "surface": null,
+      "image": "https://media.api-sports.io/football/venues/19634.png"
+    }
+  },
+  {
+    "team": {
+      "id": 25112,
+      "name": "Turkmenistan U20",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/25112.png"
+    },
+    "venue": {
+      "id": 1021,
+      "name": "Stadion im. Dolena Omurzakova",
+      "address": "ul. Funze",
+      "city": "Bishkek",
+      "capacity": 23000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1021.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26296,
+      "name": "Turkmenistan U20 W",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/26296.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 27233,
+      "name": "Turkmenistan U18 W",
+      "code": null,
+      "country": "Turkmenistan",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/27233.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

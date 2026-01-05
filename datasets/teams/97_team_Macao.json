@@ -1,0 +1,282 @@
+[
+  {
+    "team": {
+      "id": 9420,
+      "name": "CPK",
+      "code": null,
+      "country": "Macao",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/9420.png"
+    },
+    "venue": {
+      "id": 6519,
+      "name": "University of Science and Technology Stadium (MUST)",
+      "address": "Avenida Wai Long",
+      "city": "Taipa",
+      "capacity": 1684,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6519.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10944,
+      "name": "Macao U23",
+      "code": null,
+      "country": "Macao",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10944.png"
+    },
+    "venue": {
+      "id": 6519,
+      "name": "University of Science and Technology Stadium (MUST)",
+      "address": "Avenida Wai Long",
+      "city": "Taipa",
+      "capacity": 1684,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6519.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20401,
+      "name": "Monte Carlo",
+      "code": null,
+      "country": "Macao",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20401.png"
+    },
+    "venue": {
+      "id": 6519,
+      "name": "University of Science and Technology Stadium (MUST)",
+      "address": "Avenida Wai Long",
+      "city": "Taipa",
+      "capacity": 1684,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6519.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21195,
+      "name": "Cheng Fung",
+      "code": null,
+      "country": "Macao",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21195.png"
+    },
+    "venue": {
+      "id": 3611,
+      "name": "Macau Olympic Complex Stadium",
+      "address": "Avenida do Estádio",
+      "city": "Taipa",
+      "capacity": 16272,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3611.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21196,
+      "name": "Hang Sai",
+      "code": null,
+      "country": "Macao",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21196.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21197,
+      "name": "Lun Lok",
+      "code": null,
+      "country": "Macao",
+      "founded": 1985,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21197.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21198,
+      "name": "Sporting Macau",
+      "code": null,
+      "country": "Macao",
+      "founded": 1926,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21198.png"
+    },
+    "venue": {
+      "id": 3611,
+      "name": "Macau Olympic Complex Stadium",
+      "address": "Avenida do Estádio",
+      "city": "Taipa",
+      "capacity": 16272,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/3611.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21199,
+      "name": "Tak Chun Ka I",
+      "code": null,
+      "country": "Macao",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21199.png"
+    },
+    "venue": {
+      "id": 6519,
+      "name": "University of Science and Technology Stadium (MUST)",
+      "address": "Avenida Wai Long",
+      "city": "Taipa",
+      "capacity": 1684,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6519.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21200,
+      "name": "Toi Seng",
+      "code": null,
+      "country": "Macao",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21200.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21201,
+      "name": "Benfica",
+      "code": null,
+      "country": "Macao",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21201.png"
+    },
+    "venue": {
+      "id": 6519,
+      "name": "University of Science and Technology Stadium (MUST)",
+      "address": "Avenida Wai Long",
+      "city": "Taipa",
+      "capacity": 1684,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6519.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23061,
+      "name": "Jia Hua",
+      "code": null,
+      "country": "Macao",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23061.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23062,
+      "name": "Universidade de Macau",
+      "code": null,
+      "country": "Macao",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23062.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25715,
+      "name": "Chiba",
+      "code": null,
+      "country": "Macao",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25715.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25716,
+      "name": "Shao Jiang",
+      "code": null,
+      "country": "Macao",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25716.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

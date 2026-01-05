@@ -1,0 +1,382 @@
+[
+  {
+    "team": {
+      "id": 5532,
+      "name": "Dominican Republic",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/5532.png"
+    },
+    "venue": {
+      "id": 22458,
+      "name": "Estadio Cibao",
+      "address": "Avenida Imbert",
+      "city": "Santiago De Los Caballeros",
+      "capacity": 18077,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/22458.png"
+    }
+  },
+  {
+    "team": {
+      "id": 8003,
+      "name": "Atlético Pantoja",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8003.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 8004,
+      "name": "Cibao",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/8004.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10997,
+      "name": "Dominican Republic U20",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/10997.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16138,
+      "name": "Atlántico",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16138.png"
+    },
+    "venue": {
+      "id": 11287,
+      "name": "Estádio Governador Roberto Santos",
+      "address": "Avenida Luís Viana Filho, Bairro Paralela",
+      "city": "Salvador de Bahia, Bahia",
+      "capacity": 32157,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11287.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16139,
+      "name": "Delfines Del Este",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16139.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16140,
+      "name": "Jarabacoa",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16140.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16141,
+      "name": "Universidad O&M",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16141.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16142,
+      "name": "Vega Real",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16142.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16616,
+      "name": "Atlético de SF",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16616.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16617,
+      "name": "Moca",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16617.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16618,
+      "name": "San Cristóbal",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16618.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16926,
+      "name": "Dominican Republic W",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/16926.png"
+    },
+    "venue": {
+      "id": 22480,
+      "name": "Estadio Panamericano",
+      "address": "Carretera Vieja",
+      "city": "San Cristóbal",
+      "capacity": 2800,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22480.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17871,
+      "name": "Dominican Republic U23",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17871.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18942,
+      "name": "Dominican Republic W U17",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/18942.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20993,
+      "name": "Dominican Republic U17",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": 0,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20993.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21367,
+      "name": "Dominican Republic W U20",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21367.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25555,
+      "name": "Barcelona Atlético",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25555.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25556,
+      "name": "Salcedo",
+      "code": null,
+      "country": "Dominican-Republic",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25556.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

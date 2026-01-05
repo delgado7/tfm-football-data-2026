@@ -1,0 +1,2022 @@
+[
+  {
+    "team": {
+      "id": 584,
+      "name": "Dundalk",
+      "code": "DUN",
+      "country": "Ireland",
+      "founded": 1903,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/584.png"
+    },
+    "venue": {
+      "id": 864,
+      "name": "Oriel Park",
+      "address": "Carrick Road",
+      "city": "Dundalk",
+      "capacity": 4500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/864.png"
+    }
+  },
+  {
+    "team": {
+      "id": 652,
+      "name": "Shamrock Rovers",
+      "code": "SHA",
+      "country": "Ireland",
+      "founded": 1899,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/652.png"
+    },
+    "venue": {
+      "id": 865,
+      "name": "Tallaght Stadium",
+      "address": "Kiltipper Way, Tallaght",
+      "city": "Dublin",
+      "capacity": 10500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/865.png"
+    }
+  },
+  {
+    "team": {
+      "id": 653,
+      "name": "Cork City",
+      "code": "COR",
+      "country": "Ireland",
+      "founded": 1984,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/653.png"
+    },
+    "venue": {
+      "id": 863,
+      "name": "Turner's Cross",
+      "address": "Curragh Road, Turner’s Cross",
+      "city": "Cork",
+      "capacity": 7485,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/863.png"
+    }
+  },
+  {
+    "team": {
+      "id": 670,
+      "name": "Derry City",
+      "code": "DER",
+      "country": "Ireland",
+      "founded": 1928,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/670.png"
+    },
+    "venue": {
+      "id": 1172,
+      "name": "The Ryan McBride Brandywell Stadium",
+      "address": "Lone Moor Road",
+      "city": "Derry (Londonderry)",
+      "capacity": 7000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/1172.png"
+    }
+  },
+  {
+    "team": {
+      "id": 776,
+      "name": "Rep. Of Ireland",
+      "code": "IRE",
+      "country": "Ireland",
+      "founded": 1921,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/776.png"
+    },
+    "venue": {
+      "id": 1970,
+      "name": "Aviva Stadium",
+      "address": "62 Lansdowne Road, Ballsbridge",
+      "city": "Dublin",
+      "capacity": 55359,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1970.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1119,
+      "name": "Ireland",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/1119.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 1780,
+      "name": "Ireland W",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/1780.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 3840,
+      "name": "Bohemians",
+      "code": "BOH",
+      "country": "Ireland",
+      "founded": 1890,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3840.png"
+    },
+    "venue": {
+      "id": 2625,
+      "name": "Dalymount Park",
+      "address": "Phibsborough 7",
+      "city": "Dublin",
+      "capacity": 4443,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2625.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3841,
+      "name": "Finn Harps",
+      "code": "FIN",
+      "country": "Ireland",
+      "founded": 1954,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3841.png"
+    },
+    "venue": {
+      "id": 2626,
+      "name": "Finn Park",
+      "address": "Navenney Street",
+      "city": "Ballybofey",
+      "capacity": 4458,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2626.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3842,
+      "name": "Sligo Rovers",
+      "code": "SLI",
+      "country": "Ireland",
+      "founded": 1928,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3842.png"
+    },
+    "venue": {
+      "id": 2627,
+      "name": "The Showgrounds",
+      "address": "16 Church Hill",
+      "city": "Sligo",
+      "capacity": 6100,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2627.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3843,
+      "name": "St Patrick's Athl.",
+      "code": "PAT",
+      "country": "Ireland",
+      "founded": 1929,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3843.png"
+    },
+    "venue": {
+      "id": 2628,
+      "name": "Richmond Park",
+      "address": "125 Emmet Road, Inchicore",
+      "city": "Dublin",
+      "capacity": 5500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2628.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3844,
+      "name": "UCD",
+      "code": "UCD",
+      "country": "Ireland",
+      "founded": 1895,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3844.png"
+    },
+    "venue": {
+      "id": 2629,
+      "name": "UCD Bowl",
+      "address": "Stillorgan Road, Belfield",
+      "city": "Dublin",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2629.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3845,
+      "name": "Waterford",
+      "code": "WAT",
+      "country": "Ireland",
+      "founded": 1930,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3845.png"
+    },
+    "venue": {
+      "id": 2630,
+      "name": "Waterford Regional Sports Centre",
+      "address": "Cork Road, Kilbarry",
+      "city": "Waterford",
+      "capacity": 5500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2630.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3846,
+      "name": "Athlone Town",
+      "code": "ATH",
+      "country": "Ireland",
+      "founded": 1887,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3846.png"
+    },
+    "venue": {
+      "id": 2631,
+      "name": "Athlone Town Stadium",
+      "address": "Brawney Road",
+      "city": "Athlone",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2631.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3847,
+      "name": "Bray Wanderers",
+      "code": "BRA",
+      "country": "Ireland",
+      "founded": 1942,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3847.png"
+    },
+    "venue": {
+      "id": 2632,
+      "name": "Carlisle Grounds",
+      "address": "Quinnsboro’ Road",
+      "city": "Bray",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2632.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3848,
+      "name": "Cabinteely",
+      "code": null,
+      "country": "Ireland",
+      "founded": 1967,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3848.png"
+    },
+    "venue": {
+      "id": 2633,
+      "name": "Stradbrook Road",
+      "address": "Stradbrook Road, Rockford Manor",
+      "city": "Dublin",
+      "capacity": 1420,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2633.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3849,
+      "name": "Cobh Ramblers",
+      "code": "COB",
+      "country": "Ireland",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3849.png"
+    },
+    "venue": {
+      "id": 11537,
+      "name": "St. Colman's Park",
+      "address": "French&apos;s Avenue",
+      "city": "Cobh",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11537.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3850,
+      "name": "Drogheda United",
+      "code": "DRO",
+      "country": "Ireland",
+      "founded": 1975,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3850.png"
+    },
+    "venue": {
+      "id": 21869,
+      "name": "Sullivan & Lambe Park",
+      "address": "Windmill Road",
+      "city": "Drogheda",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21869.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3851,
+      "name": "Galway United",
+      "code": "GAL",
+      "country": "Ireland",
+      "founded": 2013,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3851.png"
+    },
+    "venue": {
+      "id": 2636,
+      "name": "Eamonn Deacy Park",
+      "address": "Dyke Road",
+      "city": "Galway",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2636.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3852,
+      "name": "Limerick",
+      "code": "LIM",
+      "country": "Ireland",
+      "founded": 1937,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3852.png"
+    },
+    "venue": {
+      "id": 2637,
+      "name": "Markets Field",
+      "address": "22-34 Garryowen Road",
+      "city": "Limerick",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2637.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3853,
+      "name": "Longford Town",
+      "code": "LON",
+      "country": "Ireland",
+      "founded": 1924,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3853.png"
+    },
+    "venue": {
+      "id": 2638,
+      "name": "Bishopsgate Stadium",
+      "address": "Strokestown Road (N5)",
+      "city": "Longford Town",
+      "capacity": 5097,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2638.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3854,
+      "name": "Shelbourne",
+      "code": "SHE",
+      "country": "Ireland",
+      "founded": 1895,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3854.png"
+    },
+    "venue": {
+      "id": 2639,
+      "name": "Tolka Park",
+      "address": "Richmond Road",
+      "city": "Dublin",
+      "capacity": 9681,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2639.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3855,
+      "name": "Wexford",
+      "code": "WEX",
+      "country": "Ireland",
+      "founded": 2007,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/3855.png"
+    },
+    "venue": {
+      "id": 2640,
+      "name": "Ferrycarrig Park",
+      "address": "Newcastle Lower",
+      "city": "Newcastle, Crossabeg",
+      "capacity": 2609,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2640.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6116,
+      "name": "Cobh Wanderers",
+      "code": null,
+      "country": "Ireland",
+      "founded": 1981,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6116.png"
+    },
+    "venue": {
+      "id": 20688,
+      "name": "Oldchurch Park",
+      "address": "Old Church",
+      "city": "Cobh, Cork",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20688.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6117,
+      "name": "Collinstown",
+      "code": "COL",
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6117.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 6119,
+      "name": "Glebe North",
+      "code": "GLE",
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6119.png"
+    },
+    "venue": {
+      "id": 4537,
+      "name": "Market Green",
+      "address": "Market Green",
+      "city": "Balbriggan",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4537.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6120,
+      "name": "Glengad United",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6120.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 6121,
+      "name": "Killester Donnycarney",
+      "code": null,
+      "country": "Ireland",
+      "founded": 1957,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6121.png"
+    },
+    "venue": {
+      "id": 21747,
+      "name": "Hadden Park",
+      "address": "Killester",
+      "city": "Dublin",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21747.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6122,
+      "name": "Letterkenny Rovers",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6122.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 6123,
+      "name": "Lucan United",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6123.png"
+    },
+    "venue": {
+      "id": 21870,
+      "name": "Westmanstown Sports Centre",
+      "address": "Westmanstown",
+      "city": "Dublin",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21870.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6124,
+      "name": "Malahide United",
+      "code": "MAL",
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6124.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 6125,
+      "name": "Maynooth University Town",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6125.png"
+    },
+    "venue": {
+      "id": 20689,
+      "name": "Rathcoffey Road Ground",
+      "address": "Newtown Road, Newtown",
+      "city": "Maynooth",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20689.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6126,
+      "name": "St. Michaels",
+      "code": "SAI",
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6126.png"
+    },
+    "venue": {
+      "id": 21871,
+      "name": "Cooke Park",
+      "address": null,
+      "city": "Tipperary Town",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21871.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6127,
+      "name": "Bluebell United",
+      "code": "BLU",
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6127.png"
+    },
+    "venue": {
+      "id": 4538,
+      "name": "Capco Park",
+      "address": null,
+      "city": null,
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4538.png"
+    }
+  },
+  {
+    "team": {
+      "id": 6128,
+      "name": "Cockhill Celtic",
+      "code": "COC",
+      "country": "Ireland",
+      "founded": 0,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/6128.png"
+    },
+    "venue": {
+      "id": null,
+      "name": "\n    ",
+      "address": null,
+      "city": null,
+      "capacity": 0,
+      "surface": "\n    ",
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 7889,
+      "name": "Bohemians U19",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/7889.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 8217,
+      "name": "Republic of Ireland U21",
+      "code": "IRE",
+      "country": "Ireland",
+      "founded": 1921,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/8217.png"
+    },
+    "venue": {
+      "id": 2630,
+      "name": "Waterford Regional Sports Centre",
+      "address": "Cork Road, Kilbarry",
+      "city": "Waterford",
+      "capacity": 5500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2630.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10058,
+      "name": "Shamrock Rovers II",
+      "code": "SHA",
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/10058.png"
+    },
+    "venue": {
+      "id": 865,
+      "name": "Tallaght Stadium",
+      "address": "Kiltipper Way, Tallaght",
+      "city": "Dublin",
+      "capacity": 8600,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/865.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10115,
+      "name": "UCC",
+      "code": "UCC",
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/10115.png"
+    },
+    "venue": {
+      "id": 21748,
+      "name": "Curraheen Road Sports Grounds",
+      "address": "Curraheen Road, Ballinaspig More",
+      "city": "Cork",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21748.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10377,
+      "name": "Republic of Ireland U19",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/10377.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10907,
+      "name": "Wexford Youths",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/10907.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 13160,
+      "name": "Avondale",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/13160.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14003,
+      "name": "TBC KO",
+      "code": null,
+      "country": "Ireland",
+      "founded": 1922,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14003.png"
+    },
+    "venue": {
+      "id": 2634,
+      "name": "St. Coleman's Park",
+      "address": "French&apos;s Avenue",
+      "city": "Cobh",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2634.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14456,
+      "name": "Republic of Ireland",
+      "code": null,
+      "country": "Ireland",
+      "founded": 1921,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/14456.png"
+    },
+    "venue": {
+      "id": 865,
+      "name": "Tallaght Stadium",
+      "address": "Kiltipper Way, Tallaght",
+      "city": "Dublin",
+      "capacity": 10500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/865.png"
+    }
+  },
+  {
+    "team": {
+      "id": 14490,
+      "name": "Glenville",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14490.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 14528,
+      "name": "St Mochta&apos;s",
+      "code": "STM",
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/14528.png"
+    },
+    "venue": {
+      "id": 21872,
+      "name": "Porterstown Road Complex",
+      "address": "Porterstown Road",
+      "city": "Dublin",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21872.png"
+    }
+  },
+  {
+    "team": {
+      "id": 15494,
+      "name": "Peamount United",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/15494.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16498,
+      "name": "Treaty United",
+      "code": null,
+      "country": "Ireland",
+      "founded": 2020,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/16498.png"
+    },
+    "venue": {
+      "id": 2637,
+      "name": "Markets Field",
+      "address": "22-34 Garryowen Road",
+      "city": "Limerick",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2637.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17153,
+      "name": "Bangor GGFC",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17153.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17154,
+      "name": "College Corinthians",
+      "code": "COL",
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17154.png"
+    },
+    "venue": {
+      "id": 12050,
+      "name": "Corinthians Park",
+      "address": "Scairt Hill, Castletreasure, Donnybrook",
+      "city": "Cork",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12050.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17155,
+      "name": "Fairview Rangers",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17155.png"
+    },
+    "venue": {
+      "id": 21873,
+      "name": "Singland Park",
+      "address": "Singland",
+      "city": "Limerick",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21873.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17156,
+      "name": "Kilnamanagh",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17156.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17157,
+      "name": "Liffeys Wanderers",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17157.png"
+    },
+    "venue": {
+      "id": 21874,
+      "name": "Ringsend Astro",
+      "address": "Ringsend Park",
+      "city": "Dublin",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21874.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17158,
+      "name": "St. Kevin's Boys",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17158.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17159,
+      "name": "Usher Celtic",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17159.png"
+    },
+    "venue": {
+      "id": 21875,
+      "name": "TU Dublin Grangegorman Sports Grounds",
+      "address": "7 Grangegorman Lower, Arran Quay",
+      "city": "Dublin",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21875.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17927,
+      "name": "Cherry Orchard",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17927.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17928,
+      "name": "Firhouse",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/17928.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17972,
+      "name": "Republic of Ireland U17",
+      "code": null,
+      "country": "Ireland",
+      "founded": 1921,
+      "national": true,
+      "logo": "https://media.api-sports.io/football/teams/17972.png"
+    },
+    "venue": {
+      "id": 1193,
+      "name": "Sarpsborg Stadion",
+      "address": "Haftor Jonssons gate 19",
+      "city": "Sarpsborg",
+      "capacity": 8022,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/1193.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19123,
+      "name": "Bonagee",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19123.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19124,
+      "name": "Oliver Bond Celtic",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19124.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19125,
+      "name": "Pike Rovers",
+      "code": null,
+      "country": "Ireland",
+      "founded": 0,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19125.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19126,
+      "name": "Salthill Devon",
+      "code": null,
+      "country": "Ireland",
+      "founded": 1977,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/19126.png"
+    },
+    "venue": {
+      "id": 18603,
+      "name": "Drom Soccer Park",
+      "address": "Letteragh Road between Leitriff Road / Rahoon Road, Drum-East",
+      "city": "Galway",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18603.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20814,
+      "name": "Midleton",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/20814.png"
+    },
+    "venue": {
+      "id": 21749,
+      "name": "Knockgriffin Industrial Park",
+      "address": "Knockgriffin Cottages",
+      "city": "Midleton",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21749.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21400,
+      "name": "Bangor Celtic",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21400.png"
+    },
+    "venue": {
+      "id": 21876,
+      "name": "Clogher Road",
+      "address": "129A Rutland Avenue, Crumlin",
+      "city": "Dublin",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21876.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21401,
+      "name": "Gorey Rangers",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21401.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21402,
+      "name": "Kilbarrack United",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21402.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21403,
+      "name": "Portlaoise",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21403.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21404,
+      "name": "Ringmahon Rangers",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21404.png"
+    },
+    "venue": {
+      "id": 19722,
+      "name": "Ringmahon Park",
+      "address": null,
+      "city": "Cork",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19722.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21405,
+      "name": "Rockmount",
+      "code": null,
+      "country": "Ireland",
+      "founded": 1924,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21405.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21406,
+      "name": "Skerries Town",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21406.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21407,
+      "name": "St Patrick's CY",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21407.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21484,
+      "name": "Athlone WFC W",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21484.png"
+    },
+    "venue": {
+      "id": 2631,
+      "name": "Athlone Town Stadium",
+      "address": "Brawney Road",
+      "city": "Athlone",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2631.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21485,
+      "name": "Bohemians WFC W",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21485.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21487,
+      "name": "Cork City W",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21487.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21489,
+      "name": "DLR Waves W",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21489.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21491,
+      "name": "Galway United W",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21491.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21492,
+      "name": "Shamrock Rovers W",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21492.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21493,
+      "name": "Sligo Rovers W",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21493.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21494,
+      "name": "Treaty Utd W",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/21494.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22105,
+      "name": "Ballymun United",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22105.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22541,
+      "name": "Strabane Athletic",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22541.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22557,
+      "name": "Ireland U16",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22557.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22931,
+      "name": "Wayside Celtic",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/22931.png"
+    },
+    "venue": {
+      "id": 20571,
+      "name": "Jackson Park",
+      "address": "Glenamuck Road",
+      "city": "Kilternan",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20571.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23534,
+      "name": "Ayrfield United",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23534.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23535,
+      "name": "Ballyfermot United",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23535.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23536,
+      "name": "St. Francis",
+      "code": null,
+      "country": "Ireland",
+      "founded": 1958,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23536.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23537,
+      "name": "Wilton United",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23537.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23603,
+      "name": "Republic of Ireland U19 W",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23603.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23739,
+      "name": "Carrigaline United",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23739.png"
+    },
+    "venue": {
+      "id": 20798,
+      "name": "Ballea Astro East",
+      "address": "Tuscany Lodge, Ballea Road, Carrigaline West",
+      "city": "Carrigaline",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20798.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23740,
+      "name": "Leeds",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/23740.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25966,
+      "name": "Baldoyle United",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25966.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25967,
+      "name": "Castlebar Celtic",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25967.png"
+    },
+    "venue": {
+      "id": 21750,
+      "name": "Celtic Park, Castlebar",
+      "address": null,
+      "city": null,
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21750.png"
+    }
+  },
+  {
+    "team": {
+      "id": 25968,
+      "name": "Douglas Hall",
+      "code": null,
+      "country": "Ireland",
+      "founded": 1971,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25968.png"
+    },
+    "venue": {
+      "id": 21751,
+      "name": "Pigeon Hill",
+      "address": "Moneygurney",
+      "city": "Cork",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21751.png"
+    }
+  },
+  {
+    "team": {
+      "id": 25969,
+      "name": "Fanad United",
+      "code": null,
+      "country": "Ireland",
+      "founded": 1975,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25969.png"
+    },
+    "venue": {
+      "id": 21752,
+      "name": "Tragh-a-Lough Stadium",
+      "address": null,
+      "city": null,
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21752.png"
+    }
+  },
+  {
+    "team": {
+      "id": 25970,
+      "name": "Janesboro",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25970.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25971,
+      "name": "Leicester Celtic",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25971.png"
+    },
+    "venue": {
+      "id": 21877,
+      "name": "Damien Duff Astro Park",
+      "address": "Grange Manor Road, Rathfarnham",
+      "city": "Dublin",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21877.png"
+    }
+  },
+  {
+    "team": {
+      "id": 25972,
+      "name": "North End United",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25972.png"
+    },
+    "venue": {
+      "id": 21878,
+      "name": "Hollygrove Ground",
+      "address": "Belvedere Roadd, Townparks",
+      "city": "Wexford",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21878.png"
+    }
+  },
+  {
+    "team": {
+      "id": 25973,
+      "name": "River Valley Rangers",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25973.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25974,
+      "name": "Tolka Rovers",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/25974.png"
+    },
+    "venue": {
+      "id": 21753,
+      "name": "Frank Cooke Park",
+      "address": "Griffith Avenue",
+      "city": "Dublin",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21753.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26627,
+      "name": "Shelbourne U19",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/26627.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 27060,
+      "name": "Ireland U18",
+      "code": null,
+      "country": "Ireland",
+      "founded": null,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/27060.png"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]
